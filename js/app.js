@@ -329,7 +329,9 @@
 
     // Close search on click outside
     document.addEventListener('click', function (e) {
-      if (state.searchOpen && !refs.searchBar.contains(e.target) && e.target !== refs.searchToggle) {
+      if (state.searchOpen &&
+          !refs.searchBar.contains(e.target) &&
+          !refs.searchToggle.contains(e.target)) {
         closeSearch();
       }
     });

@@ -459,6 +459,13 @@ ul, ol {
   text-align: center;
 }
 
+.hero-logo {
+  display: block;
+  margin: 0 auto var(--space-lg);
+  max-width: 200px;
+  height: auto;
+}
+
 .hero-title {
   font-size: var(--text-4xl);
   font-weight: 800;
@@ -494,6 +501,7 @@ ul, ol {
   transition: transform 0.15s, box-shadow 0.15s;
   display: block;
   color: var(--color-text);
+  text-align: center;
 }
 
 .featured-card:hover {
