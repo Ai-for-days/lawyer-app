@@ -1364,27 +1364,33 @@ const APP_CONTENT = {
 
         <h3>Android (Chrome)</h3>
         <ol>
-          <li>Open this site in <strong>Google Chrome</strong></li>
-          <li>Tap the <strong>three-dot menu</strong> in the top-right corner</li>
-          <li>Tap <strong>"Add to Home screen"</strong> or <strong>"Install app"</strong></li>
+          <li>Open <strong>Google Chrome</strong> (not the LAWYER app if already installed)</li>
+          <li>Go to the address bar and visit this site</li>
+          <li>Look for an <strong>install icon</strong> in the address bar (a phone with a down arrow), or tap the <strong>three-dot menu (\u22EE)</strong> in the top-right corner of Chrome</li>
+          <li>Tap <strong>"Install app"</strong> or <strong>"Add to Home screen"</strong></li>
           <li>Tap <strong>"Install"</strong> or <strong>"Add"</strong> to confirm</li>
         </ol>
+        <div class="callout callout-warning">
+          <h4>Don't see the three-dot menu?</h4>
+          <p>If you only see a search icon in the top right, you are viewing the <strong>installed app</strong>, not Chrome. Close the app and open <strong>Google Chrome</strong> from your home screen or app drawer, then type in the website address.</p>
+        </div>
         <div class="callout callout-tip">
-          <h4>Can't find the app?</h4>
+          <h4>Can't find the app after installing?</h4>
           <p>On some Android phones, newly installed apps appear in your <strong>app drawer</strong> (swipe up from the bottom of your home screen) rather than directly on the home screen. Look for the gold McGuire Law "M" icon labeled <strong>LAWYER</strong>.</p>
-          <p>To move it to your home screen: long-press the app icon in the drawer and drag it to your home screen.</p>
+          <p>To move it to your home screen: <strong>long-press</strong> the app icon in the drawer and drag it to your home screen.</p>
         </div>
 
         <h3>iPhone (Safari)</h3>
         <ol>
-          <li>Open this site in <strong>Safari</strong> (not Chrome or other browsers)</li>
-          <li>Tap the <strong>Share button</strong> (the square with an arrow pointing up) at the bottom of the screen</li>
+          <li>Open <strong>Safari</strong> (the compass icon — not Chrome or other browsers)</li>
+          <li>Go to the address bar and visit this site</li>
+          <li>Tap the <strong>Share button</strong> at the bottom of the screen (the square with an arrow pointing up)</li>
           <li>Scroll down and tap <strong>"Add to Home Screen"</strong></li>
           <li>Tap <strong>"Add"</strong> in the top-right corner</li>
         </ol>
         <div class="callout callout-info">
           <h4>Why Safari?</h4>
-          <p>On iPhone, only Safari supports installing web apps to the home screen. Other browsers like Chrome will not show the option.</p>
+          <p>On iPhone, only Safari supports installing web apps to the home screen. Chrome and other browsers will not show this option.</p>
         </div>
 
         <h3>What you get</h3>
