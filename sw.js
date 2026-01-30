@@ -1,4 +1,4 @@
-var CACHE_NAME = 'remain-silent-v8';
+var CACHE_NAME = 'remain-silent-v9';
 var CACHE_ASSETS = [
   './',
   'index.html',
