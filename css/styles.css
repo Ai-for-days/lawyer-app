@@ -522,6 +522,7 @@ ul, ol {
   padding: 4px 10px;
   border-radius: var(--radius-sm);
   margin-bottom: var(--space-md);
+  text-align: center;
 }
 
 .featured-card-title {
@@ -529,12 +530,14 @@ ul, ol {
   font-weight: 700;
   color: var(--color-navy);
   margin-bottom: var(--space-sm);
+  text-align: center;
 }
 
 .featured-card-desc {
   font-size: var(--text-base);
   color: var(--color-text-secondary);
   line-height: 1.5;
+  text-align: center;
 }
 
 /* --- Emergency Banner --- */
