@@ -1,0 +1,67 @@
+/* Print styles for Wallet Cards */
+
+@media print {
+  /* Hide everything except section body */
+  .app-header,
+  .sidebar,
+  .sidebar-overlay,
+  .fab,
+  .install-prompt,
+  .hero-banner,
+  .featured-section,
+  .emergency-banner,
+  .toc-grid,
+  .disclaimer,
+  .section-header,
+  .section-nav,
+  .btn-print {
+    display: none !important;
+  }
+
+  body {
+    padding: 0 !important;
+    font-size: 10pt;
+    color: #000;
+    background: #fff;
+  }
+
+  .main-content {
+    padding: 0;
+  }
+
+  .section-body {
+    padding: 0;
+    max-width: none;
+  }
+
+  /* Wallet card print formatting */
+  .wallet-card {
+    border: 2px solid #000;
+    border-radius: 0;
+    padding: 12pt;
+    margin-bottom: 16pt;
+    page-break-inside: avoid;
+    max-width: 3.5in;
+  }
+
+  .wallet-card-title {
+    font-size: 11pt;
+    border-bottom: 1px solid #000;
+    color: #000;
+  }
+
+  .wallet-card ul {
+    padding-left: 14pt;
+  }
+
+  .wallet-card li {
+    font-size: 9pt;
+    border-bottom: none;
+    padding: 2pt 0;
+  }
+
+  a {
+    color: #000 !important;
+    text-decoration: none !important;
+  }
+}

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#002868">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="description" content="Know Your Rights when interacting with law enforcement. A free guide by McGuire Law for South Carolina residents.">
+
+  <meta property="og:title" content="Remain Silent - Know Your Rights | McGuire Law">
+  <meta property="og:description" content="Your complete guide to understanding and exercising your constitutional rights during police encounters.">
+  <meta property="og:type" content="website">
+
+  <title>Remain Silent - Know Your Rights | McGuire Law</title>
+
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/print.css" media="print">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="app-header" id="appHeader">
+    <div class="header-inner">
+      <button class="menu-toggle" id="menuToggle" aria-label="Open navigation menu" aria-expanded="false">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </button>
+      <div class="header-title" id="headerTitle">
+        <span class="header-title-text">Remain Silent</span>
+      </div>
+      <button class="search-toggle" id="searchToggle" aria-label="Open search">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Search Bar -->
+    <div class="search-bar" id="searchBar" hidden>
+      <div class="search-input-wrapper">
+        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="search" id="searchInput" placeholder="Search rights, topics..." autocomplete="off" aria-label="Search guide content">
+        <button class="search-clear" id="searchClear" aria-label="Clear search" hidden>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      <div class="search-results" id="searchResults" role="listbox" aria-label="Search results"></div>
+    </div>
+  </header>
+
+  <!-- SIDEBAR OVERLAY -->
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+  <!-- SIDEBAR NAVIGATION -->
+  <nav class="sidebar" id="sidebar" aria-label="Section navigation">
+    <div class="sidebar-header">
+      <span class="sidebar-brand">McGuire Law</span>
+      <button class="sidebar-close" id="sidebarClose" aria-label="Close navigation">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+    <div class="sidebar-nav-list" id="sidebarNavList" role="list">
+      <!-- Populated by app.js -->
+    </div>
+    <div class="sidebar-footer">
+      <a href="tel:+18884995738" class="sidebar-cta">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+        </svg>
+        (888) 499-5738
+      </a>
+      <a href="https://McGuireLawSC.com" class="sidebar-link" target="_blank" rel="noopener">McGuireLawSC.com</a>
+    </div>
+  </nav>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-content" id="mainContent">
+
+    <!-- HOME VIEW -->
+    <div class="view" id="viewHome">
+      <div class="hero-banner">
+        <div class="hero-content">
+          <h1 class="hero-title">Remain Silent</h1>
+          <p class="hero-subtitle">Know Your Rights When Interacting with Law Enforcement</p>
+          <p class="hero-tagline">A Guide for South Carolina Residents &mdash; Citizens and Non-Citizens</p>
+        </div>
+      </div>
+
+      <!-- Featured Section -->
+      <div class="featured-section" id="featuredSection"></div>
+
+      <!-- Emergency Call Banner -->
+      <div class="emergency-banner">
+        <a href="tel:+18884995738" class="emergency-link">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+          </svg>
+          Need a Lawyer? Call McGuire Law: (888) 499-5738
+        </a>
+      </div>
+
+      <!-- Table of Contents Grid -->
+      <div class="toc-grid" id="tocGrid"></div>
+
+      <!-- Disclaimer -->
+      <div class="disclaimer">
+        <p><strong>Disclaimer:</strong> This guide provides general information about your rights under the Fourth Amendment to the U.S. Constitution and Article I, Section 10 of the South Carolina Constitution. It is not legal advice. Laws change and every situation is different. If you have been arrested or believe your rights have been violated, contact an attorney.</p>
+      </div>
+    </div>
+
+    <!-- SECTION VIEW -->
+    <div class="view" id="viewSection" hidden>
+      <div class="section-header" id="sectionHeader"></div>
+      <article class="section-body" id="sectionBody"></article>
+      <div class="section-nav" id="sectionNav"></div>
+    </div>
+
+  </main>
+
+  <!-- FLOATING ACTION BUTTON -->
+  <a href="tel:+18884995738" class="fab" aria-label="Call McGuire Law">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
+    </svg>
+  </a>
+
+  <!-- INSTALL PROMPT -->
+  <div class="install-prompt" id="installPrompt" hidden>
+    <p>Install this guide for offline access</p>
+    <div class="install-actions">
+      <button id="installBtn" class="btn btn-primary">Install App</button>
+      <button id="installDismiss" class="btn btn-ghost" aria-label="Dismiss">Later</button>
+    </div>
+  </div>
+
+  <!-- SCRIPTS -->
+  <script src="js/content.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>
