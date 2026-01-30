@@ -1716,6 +1716,332 @@ const APP_CONTENT = {
 
         <p><em>Courtesy of the ACLU</em></p>
       `
+    },
+    {
+      id: 'derechos-inmigrantes',
+      number: 25,
+      title: 'Derechos de los Inmigrantes',
+      subtitle: 'Conozca Sus Derechos (ACLU en Espa\u00f1ol)',
+      icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>',
+      keywords: ['spanish', 'espa\u00f1ol', 'derechos', 'inmigrantes', 'immigrants rights', 'ICE', 'deportaci\u00f3n', 'ACLU', 'patrulla fronteriza', 'abogado'],
+      content: `
+        <h2>Derechos de los Inmigrantes</h2>
+        <h3>Conozca Sus Derechos</h3>
+
+        <p>Independientemente de su estatus migratorio, usted tiene derechos garantizados por la Constituci\u00f3n. Aprenda m\u00e1s aqu\u00ed sobre sus derechos y c\u00f3mo expresarlos.</p>
+        <p><strong>OJO: ESTA NO ES ASESOR\u00cdA LEGAL Y NO SUBSTITUYE UNA CONSULTA CON UN ABOGADO.</strong></p>
+
+        <h3>Agentes policiales preguntan sobre su estatus migratorio dentro de los Estados Unidos</h3>
+
+        <h4>C\u00f3mo reducir el riesgo para usted mismo</h4>
+        <ul>
+          <li>Mantenga la calma. No corra, discuta, resista, u obstruya al oficial, incluso si cree que est\u00e1n violando sus derechos. Mantenga sus manos donde la polic\u00eda pueda verlas.</li>
+          <li>No mienta sobre su estatus migratorio ni proporcione documentos falsos.</li>
+        </ul>
+
+        <h4>Sus derechos</h4>
+        <ul>
+          <li>Usted tiene el derecho de permanecer callado y no tiene que compartir su estatus migratorio, donde naci\u00f3, si es ciudadano, ni c\u00f3mo entr\u00f3 al pa\u00eds con la polic\u00eda, los agentes de inmigraci\u00f3n, u otros funcionarios. Cualquier cosa que le diga a un oficial puede luego ser usada en su contra en la corte de inmigraci\u00f3n.</li>
+          <li>Si no es ciudadano de los EE.UU. y un agente de inmigraci\u00f3n le pide sus documentos de inmigraci\u00f3n, usted debe mostr\u00e1rselos.</li>
+          <li>Si un agente de inmigraci\u00f3n pregunta si pueden registrarlo, usted tiene el derecho a decir que no. Los agentes no tienen el derecho a registrarlo o a registrar sus cosas sin obtener su consentimiento o sin tener una causa probable. Esto significa que el agente debe poseer hechos sobre usted que hagan probable que est\u00e9 cometiendo o haya cometido una violaci\u00f3n de la ley migratoria o federal.</li>
+          <li>Si es mayor de 18 a\u00f1os, lleve sus documentos de inmigraci\u00f3n v\u00e1lidos consigo en todo momento. Si no tiene documentos de inmigraci\u00f3n v\u00e1lidos, tiene el derecho a permanecer callado y a pedir hablar con un abogado/a antes de responder a cualquier pregunta.</li>
+        </ul>
+
+        <h4>Qu\u00e9 hacer en un encuentro con agentes policiales</h4>
+        <ul>
+          <li>Si desea ejercer su derecho a permanecer callado, diga en voz alta: \u201cEstoy ejerciendo mi derecho de guardar silencio.\u201d No es necesario dar ninguna explicaci\u00f3n.</li>
+          <li>En ciertos estados, es requerido proveer su nombre a los agentes policiales si lo para la polic\u00eda y le piden que se identifique. Pero, aunque de su nombre, no necesita responder a ninguna otra pregunta.</li>
+          <li>Si est\u00e1 manejando y lo paran, el oficial puede requerir que ense\u00f1e su licencia de conducir, registro y prueba de seguro, sin embargo, no necesita responder a preguntas sobre su estatus migratorio.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar a su afiliado local de la ACLU</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+          <li>National Immigration Law Center (El Centro Nacional de la Ley de Inmigraci\u00f3n)</li>
+          <li>Immigrant Legal Resource Center (El Centro de Recursos Legales para Inmigrantes)</li>
+        </ul>
+
+        <h3>Me ha detenido la polic\u00eda o ICE dentro de los Estados Unidos</h3>
+
+        <h4>C\u00f3mo reducir el riesgo para ti mismo</h4>
+        <ul>
+          <li>Mantenga la calma, no se resista ni obstruya las actividades de los agentes u oficiales.</li>
+          <li>No dirija la mano a la cintura cuando se acerque un agente u oficial.</li>
+          <li>No mienta ni de documentos falsos.</li>
+          <li>Prep\u00e1rese y prepare a su familia en caso de que lo arresten. Apr\u00e9ndase de memoria los n\u00fameros de tel\u00e9fono de su familia y su abogado/a. Haga planes de emergencia.</li>
+          <li>Diga a los oficiales si tiene una condici\u00f3n m\u00e9dica o necesita coordinar cuidado para sus ni\u00f1os.</li>
+          <li>Tenga consigo prueba de que ha vivido en los Estados Unidos por m\u00e1s de dos a\u00f1os (por ejemplo: documentos fechados como recibos de pago, cheques, documentos m\u00e9dicos, documentos escolares, estados de cuenta de las tarjetas de cr\u00e9dito, etc.)</li>
+          <li>Consulte con un abogado de inmigraci\u00f3n para ver si tiene alguna opci\u00f3n de arreglar su estatus migratorio.</li>
+          <li>Si la tiene, lleve consigo evidencia de entrada o su estatus legales en los Estados Unidos. Si tiene una solicitud de asilo pendiente u otro caso o apelaci\u00f3n en un tribunal de inmigraci\u00f3n, lleve consigo evidencia de ello.</li>
+        </ul>
+
+        <h4>Sus Derechos</h4>
+        <ul>
+          <li>Usted tiene derecho a permanecer callado.</li>
+          <li>En algunos estados, es requerido proporcionar su nombre si se le pide que se identifique.</li>
+          <li>Tiene derecho a no dar su consentimiento para que lo registren o que registren sus pertenencias. Sin embargo, la polic\u00eda puede palpar su ropa si sospechan que usted carga un arma consigo.</li>
+          <li>Si es arrestado por la polic\u00eda, tiene derecho a un abogado/a dado por el gobierno.</li>
+          <li>Si es detenido por ICE, tiene derecho a consultar con un abogado/a, pero el gobierno no est\u00e1 obligado a darle un abogado. Puede solicitar una lista de abogados gratuitos o a bajo costo.</li>
+          <li>Usted tiene derecho a permanecer callado. No tiene que responder a preguntas acerca de donde naci\u00f3, si es ciudadano de los EE.UU., ni c\u00f3mo ingres\u00f3 al pa\u00eds.</li>
+          <li><strong>Ojo:</strong> Aplican reglas distintas en los cruces fronterizos internacionales y aeropuertos. Tambi\u00e9n aplican reglas distintas a individuos con ciertas visas de noinmigrantes, incluyendo a los turistas y a las personas en viajes de negocios.</li>
+        </ul>
+
+        <h4>\u00bfQu\u00e9 hacer si eres arrestado o detenido?</h4>
+        <ul>
+          <li>Tiene derecho a permanecer callado y solicitar un abogado/a de inmediato. No es necesario dar ninguna explicaci\u00f3n. Si desea ejercer sus derechos, diga: \u201cEstoy ejerciendo mi derecho de guardar silencio. Deseo hablar con un abogado/a tan pronto como sea posible.\u201d Tiene derecho a no firmar ni tomar decisiones sin un abogado/a.</li>
+          <li>Si ha sido arrestado por la polic\u00eda, tiene derecho a hacer una llamada local. Si la llamada es con un abogado, la polic\u00eda debe brindarle privacidad y no escuchar su conversaci\u00f3n.</li>
+          <li>Si usted no es ciudadano: preg\u00fantele a su abogado/a sobre el efecto que una condena penal puede tener en su estatus migratorio. No comparta su estatus migratorio con nadie m\u00e1s que con su abogado/a. Mientras est\u00e9 en la c\u00e1rcel, un agente de inmigraci\u00f3n puede visitarlo. Tiene derecho a no responder ninguna pregunta ni firmar nada antes de hablar con un abogado/a. Lea todos los papeles completamente. Si no entiende o no puede leer los documentos, tiene derecho a pedir un int\u00e9rprete.</li>
+          <li>Si ha sido detenido por ICE, tiene derecho a una llamada gratis. Tambi\u00e9n puede comunicarse con su consulado de forma gratuita o pedirle a un oficial que informe a su consulado sobre su detenci\u00f3n.</li>
+          <li>Apr\u00e9ndase el n\u00famero que le asigne inmigraci\u00f3n (n\u00famero \u201cA\u201d) y comp\u00e1rtalo con su familia o su contacto de emergencia. Esto ayudar\u00e1 a localizarlo si es detenido por inmigraci\u00f3n.</li>
+          <li>Guarde una copia de sus documentos de inmigraci\u00f3n con alguien de confianza.</li>
+        </ul>
+
+        <h4>Si crees que tus derechos fueron violados</h4>
+        <ul>
+          <li>Apunte todo lo que pueda recordar, incluyendo los n\u00fameros de las placas de los agentes y las placas de los veh\u00edculos de patrulla, de qu\u00e9 agencia eran los oficiales y cualquier otro detalle. Obtenga informaci\u00f3n para poder contactar a personas que hayan sido testigos de los hechos.</li>
+          <li>Si resulta lesionado, busque atenci\u00f3n m\u00e9dica de inmediato y tome fotograf\u00edas de sus lesiones.</li>
+          <li>Av\u00edsele a su abogado ya que esta informaci\u00f3n podr\u00eda ayudar a su caso de inmigraci\u00f3n.</li>
+          <li>Presente una denuncia por escrito ante la divisi\u00f3n de asuntos internos o la junta civil de quejas de la agencia que haya violado sus derechos. En la mayor\u00eda de los casos, puede presentar una denuncia de forma an\u00f3nima si as\u00ed lo desea.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar a su afiliado local de la ACLU</li>
+          <li>National Immigration Law Center (El Centro Nacional de la Ley de Inmigraci\u00f3n)</li>
+          <li>Immigrant Legal Resource Center (El Centro de Recursos Legales para Inmigrantes)</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+        </ul>
+
+        <h3>Agentes de ICE llegan a mi lugar de trabajo</h3>
+
+        <h4>Sus derechos</h4>
+        <ul>
+          <li>Los agentes de inmigraci\u00f3n pueden acceder a las zonas p\u00fablicas de su lugar de trabajo. Para entrar en zonas privadas, los agentes de inmigraci\u00f3n deben tener permiso del propietario o gerente para llevar a cabo una redada en un lugar de trabajo (f\u00e1brica, restaurante, granja, etc.).</li>
+          <li>Si los agentes no tienen permiso, deben contar con una orden de registro firmada por un juez o magistrado federal.</li>
+          <li>Tiene derecho a no permitir ser registrado. Diga en voz alta que no permite que registren sus pertenencias.</li>
+          <li>Tiene derecho a permanecer callado. No tiene que compartir su estatus migratorio con nadie, ni incluyendo donde naci\u00f3, si es ciudadano, ni c\u00f3mo entr\u00f3 al pa\u00eds.</li>
+          <li>Tiene el derecho a grabar su interacci\u00f3n con los agentes de inmigraci\u00f3n siempre y cuando no interfiera con las actividades de los agentes.</li>
+        </ul>
+
+        <h4>\u00bfQu\u00e9 hacer cuando llega la polic\u00eda o ICE?</h4>
+        <ul>
+          <li>Pregunte si se puede marchar. De ser as\u00ed, v\u00e1yase tranquilamente. Si los agentes de inmigraci\u00f3n tienen permiso para registrar su lugar de trabajo, pueden impedir que los empleados se marchen.</li>
+          <li>Si tiene documentos de inmigraci\u00f3n v\u00e1lidos, deber\u00eda mostrarlos. Nunca presente documentos falsos.</li>
+          <li>Si es arrestado, puede decir que quiere permanecer en silencio hasta que hable con un abogado.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar a su afiliado local de la ACLU</li>
+          <li>National Immigration Law Center (El Centro Nacional de la Ley de Inmigraci\u00f3n)</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+        </ul>
+
+        <h3>La polic\u00eda o ICE est\u00e1n en mi casa</h3>
+
+        <h4>C\u00f3mo reducir el riesgo para usted mismo</h4>
+        <ul>
+          <li>Mantenga la calma y mantenga su puerta cerrada. El abrir la puerta no les da permiso de entrar, pero es m\u00e1s seguro hablar con ICE a trav\u00e9s de la puerta con la puerta cerrada.</li>
+          <li>Si se aleja de la puerta en cualquier momento o si hace ciertos gestos pueden ser interpretados como autorizaci\u00f3n de entrar. Si ellos logran entrar sin permiso, diga, \u201cNo concedo que entren en mi casa.\u201d</li>
+          <li>D\u00edgales si: Hay ni\u00f1os o personas mayores presentes; Est\u00e1 enfermo, recibiendo tratamiento o medicinas, o est\u00e1 amamantando o embarazada; Un ser querido est\u00e1 a su cargo y tiene que coordinar su cuidado</li>
+        </ul>
+
+        <h4>Sus derechos</h4>
+        <ul>
+          <li>Tiene derecho a permanecer callado, incluso si el oficial tiene una orden judicial.</li>
+          <li>Tiene derecho a no permitir que la polic\u00eda o los agentes de inmigraci\u00f3n entren a su hogar a menos que tengan ciertos tipos de \u00f3rdenes judiciales como una orden judicial de registro o una orden de arresto.</li>
+          <li>Si la polic\u00eda tiene una orden de arresto, se les permite legalmente ingresar a la casa de la persona especificada en la orden si creen que esa persona est\u00e1 adentro. Por lo contrario, si solo tienen una orden de expulsi\u00f3n / deportaci\u00f3n (el formulario I-205) los agentes no tienen el derecho a ingresar a su casa sin su consentimiento.</li>
+          <li>Tiene el derecho a grabar su interacci\u00f3n con los agentes de inmigraci\u00f3n siempre y cuando no interfiera con las actividades de los agentes.</li>
+        </ul>
+
+        <h4>\u00bfQu\u00e9 hacer cuando llega la polic\u00eda o ICE?</h4>
+        <ul>
+          <li>Pregunte si son agentes de inmigraci\u00f3n y por qu\u00e9 est\u00e1n ah\u00ed.</li>
+          <li>P\u00eddale al agente o al oficial que le muestre su identificaci\u00f3n a trav\u00e9s de la ventana o la mirilla.</li>
+          <li>Pregunte si tienen una orden firmada por un juez. Si responden que s\u00ed, p\u00eddales que pasen la orden por debajo de la puerta o que la pongan contra la ventana para que pueda inspeccionarla.</li>
+          <li>Aseg\u00farese de que la orden tenga la direcci\u00f3n del domicilio correcto.</li>
+          <li>La orden debe decir el nombre de la corte y el nombre del juez, con una firma al lado del nombre del juez. Solo los jueces estatales o federales pueden firmar una orden de registro. Los jueces de inmigraci\u00f3n no tienen esa autoridad.</li>
+          <li>Si no est\u00e1 seguro, pida tiempo para llamar a un abogado.</li>
+          <li>No abra la puerta a menos que ICE le muestre una orden judicial de registro o una orden de arresto que nombre a una persona en su residencia y / o especifique el \u00e1rea autorizada a ser registrada en su direcci\u00f3n.</li>
+          <li>Si no muestran una de esas \u00f3rdenes, mantenga la puerta cerrada. Diga: \u201cNo doy consentimiento a que entren.\u201d</li>
+          <li>No mienta ni produzca ning\u00fan documento falso. No firme ning\u00fan documento sin hablar primero con un abogado/a.</li>
+          <li>Si ICE busca a un ser querido, no mienta sobre su paradero. Puede decir: \u201cNo quiero contestar ninguna pregunta,\u201d y puede pedir a los agentes que dejen sus datos de contacto. No es requerido decirles c\u00f3mo pueden localizar a la persona que buscan.</li>
+          <li>Solicite un int\u00e9rprete si el ingl\u00e9s no es el idioma con el que se siente m\u00e1s c\u00f3modo.</li>
+          <li>Si los agentes entran a la fuerza, no trate de resistirse, no interrumpa un arresto. Si desea ejercer sus derechos, diga: \u201cNo consiento a su entrada o su registro de este lugar. Estoy ejerciendo mi derecho de guardar silencio. Deseo hablar con un abogado/a tan pronto como sea posible.\u201d No es necesario dar ninguna explicaci\u00f3n.</li>
+          <li><strong>Ojo:</strong> Si est\u00e1 en libertad condicional con una condici\u00f3n de b\u00fasqueda, las autoridades policiales pueden ingresar a su hogar.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar a su afiliado local de la ACLU</li>
+          <li>National Immigration Law Center (El Centro Nacional de la Ley de Inmigraci\u00f3n)</li>
+          <li>Immigrant Legal Resource Center (El Centro de Recursos Legales para Inmigrantes)</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+          <li>Immigrant Defense Project (Proyecto de Defensa de los Inmigrantes)</li>
+        </ul>
+
+        <h3>Necesito un abogado/a</h3>
+
+        <h4>Sus derechos</h4>
+        <ul>
+          <li>Si es arrestado por la polic\u00eda, tiene el derecho a un abogado/a dado por el gobierno, y debe pedir uno de inmediato. Tambi\u00e9n tiene el derecho a una llamada telef\u00f3nica local y privada dentro de un periodo razonable de tiempo desde su arresto. La polic\u00eda debe brindarle privacidad y no debe escuchar su conversaci\u00f3n si es a un abogado/a.</li>
+          <li>Si lo detiene ICE o la Oficina de Aduanas y Protecci\u00f3n Fronteriza (CBP), tiene el derecho de contratar a un abogado/a, pero el gobierno no est\u00e1 requerido a darle uno. Puede pedir que le den una lista de proveedores de servicios de asesor\u00eda legal gratuitos o a bajo costo.</li>
+          <li>Si es detenido por ICE, tiene el derecho de llamar a un abogado/a o su familia, y tiene el derecho de ser visitado por un abogado/a en detenci\u00f3n. Tambi\u00e9n tiene el derecho de que su abogado/a le acompa\u00f1e en cualquier audiencia ante un juez de inmigraci\u00f3n. Y tiene derecho de comunicarse con su consulado o pedirle a un oficial que le informe a su consulado sobre su detenci\u00f3n.</li>
+          <li>Tiene el derecho de no hablar con un polic\u00eda o un agente de ICE, de no firmar ning\u00fan documento y de no tomar decisiones sin un abogado/a.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar a su afiliado local de la ACLU</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+          <li>Immigration Advocates Network (Directorio Nacional de Servicios Legales de Inmigraci\u00f3n)</li>
+          <li>Una lista de la informaci\u00f3n de contacto de organizaciones legales que ayudan a las personas inmigrantes</li>
+        </ul>
+
+        <h3>He sido detenido cerca de la frontera por la Patrulla Fronteriza</h3>
+
+        <h4>C\u00f3mo reducir el riesgo para usted mismo</h4>
+        <ul>
+          <li>Mantenga la calma cuando interact\u00fae con oficiales de inmigraci\u00f3n. No mienta ni provea documentos falsos.</li>
+          <li>Nunca huya de un puesto de control migratorio.</li>
+        </ul>
+
+        <h4>Sus derechos</h4>
+        <ul>
+          <li>Tiene el derecho a permanecer callado. Tambi\u00e9n puede decirle al agente que solo responder\u00e1 a preguntas en presencia de un abogado/a, sin importar su ciudadan\u00eda o su estatus migratorio.</li>
+          <li>No es requerido que conteste preguntas acerca de su estatus migratorio. Una excepci\u00f3n limitada existe para las personas que tienen permiso de estar en los EE.UU. por una raz\u00f3n especial y por un periodo limitado de tiempo (por ejemplo, una persona \u201cno inmigrante\u201d con una visa). Dichas personas deben proveer informaci\u00f3n sobre su estatus migratorio si se les pregunta.</li>
+          <li>Por lo general, un agente de la Patrulla Fronteriza no puede detenerlo/la a menos que tenga una \u201csospecha razonable\u201d de que est\u00e9 cometiendo o haya cometido una violaci\u00f3n de la ley migratoria o federal.</li>
+          <li>Un agente de inmigraci\u00f3n no puede arrestarlo/la sin \u201ccausa probable.\u201d Esto significa que el agente debe poseer hechos sobre usted que hagan probable que est\u00e9 cometiendo o haya cometido una violaci\u00f3n de la ley migratoria o federal.</li>
+          <li>En puestos de control migratorio, los agentes no necesitan ninguna sospecha para detenerlo/la y hacerle preguntas, pero sus preguntas deben ser breves y relacionadas a verificar su estatus migratorio. Tambi\u00e9n pueden inspeccionar visualmente su veh\u00edculo.</li>
+        </ul>
+
+        <h4>Qu\u00e9 esperar</h4>
+        <ul>
+          <li>Las personas que hayan entrado a los EE.UU. sin ser inspeccionados por un oficial de inmigraci\u00f3n pueden estar sujetas a deportaciones aceleradas conforme a ciertos criterios. Si teme a una persecuci\u00f3n de ser regresado a su pa\u00eds de origen, debe informarle inmediatamente a los agentes de inmigraci\u00f3n de su miedo.</li>
+          <li>En controles fronterizos, las autoridades federales no necesitan una orden judicial ni siquiera una sospecha de un delito para llevar a cabo lo que las cortes han llamado una \u201crevisi\u00f3n rutinaria,\u201d como registrar equipaje o un veh\u00edculo.</li>
+          <li>Si un agente le pide documentos, lo que necesita proporcionar difiere dependiendo de su estatus migratorio. Los ciudadanos estadounidenses no tienen que llevar pruebas de ciudadan\u00eda si est\u00e1n dentro de los EE.UU. Si usted no es ciudadano y tiene documentos migratorios v\u00e1lidos y es mayor de los 18 a\u00f1os de edad, la ley requiere que usted lleve esos documentos consigo. Si un agente de inmigraci\u00f3n le pide que se los muestre, debe ense\u00f1\u00e1rselos. Si usted es una persona inmigrante sin documentos, puede rehusar la petici\u00f3n del agente, aunque el agente podr\u00eda entonces hacerle m\u00e1s preguntas.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar a su afiliado local de la ACLU</li>
+          <li>National Immigration Law Center (El Centro Nacional de la Ley de Inmigraci\u00f3n)</li>
+          <li>Immigrant Legal Resource Center (El Centro de Recursos Legales para Inmigrantes)</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+        </ul>
+
+        <h3>Fui detenido por la polic\u00eda, ICE, o la Oficina de Aduanas y Protecci\u00f3n Fronteriza (CBP) en tr\u00e1nsito</h3>
+
+        <h4>C\u00f3mo reducir el riesgo para usted mismo</h4>
+        <ul>
+          <li>Mantenga la calma. No corra, discuta ni obstruya al oficial o agente. Mantenga las manos alzadas donde puedan verse.</li>
+          <li>Si est\u00e1 manejando un auto, encienda las luces intermitentes de emergencia, reduzca la velocidad y estaci\u00f3nese la carretera en un lugar seguro tan pronto sea posible. Apague el motor, prenda la luz interna, abra la ventana parcialmente y ponga las manos en el volante. Si se lo piden, mu\u00e9strele a la polic\u00eda su licencia de manejar, registro y prueba de seguro.</li>
+          <li>Si usted no es un ciudadano estadounidense y un agente de inmigraci\u00f3n pide sus documentos, usted debe mostr\u00e1rselos si los tiene consigo. Si usted es mayor de 18 a\u00f1os de edad, lleve sus documentos migratorios v\u00e1lidos consigo en todo momento. Si no tiene documentos migratorios, tiene derecho a permanecer callado.</li>
+        </ul>
+
+        <h4>Sus derechos</h4>
+
+        <h5>En un auto:</h5>
+        <ul>
+          <li>Los conductores y pasajeros tienen el derecho a permanecer callados. Si usted es un pasajero, puede preguntar si puede irse. Si el agente dice que s\u00ed, m\u00e1rchese con calma.</li>
+          <li>Si un polic\u00eda o agente de inmigraci\u00f3n pide revisar el interior de su auto, usted puede negarse a la revisi\u00f3n. Pero si la polic\u00eda cree que su auto contiene evidencia de un crimen, su auto puede ser registrado sin su consentimiento.</li>
+          <li>La polic\u00eda puede ordenarle a usted y a sus pasajeros a que salgan del veh\u00edculo por seguridad. Obedezca y salga tranquilamente si se lo piden.</li>
+          <li>Adem\u00e1s de la polic\u00eda, la Oficina de Aduanas y Protecci\u00f3n Fronteriza (CBP) lleva a cabo \u201cpatrullas ambulantes\u201d en el interior de los EE.UU. parando a motoristas. CBP debe tener una sospecha razonable que el conductor o los pasajeros en el carro han cometido una violaci\u00f3n migratoria o un crimen federal.</li>
+          <li>Cualquier arresto o detenci\u00f3n prolongada por parte de CBP requiere que el agente tenga causa probable. Esto significa que el agente debe poseer hechos sobre usted que hagan probable que est\u00e9 cometiendo o haya cometido una violaci\u00f3n de la ley migratoria o federal. Usted puede preguntarle a los agentes en qu\u00e9 basan su causa probable y deben dec\u00edrselo. En esta situaci\u00f3n, tanto el conductor como los pasajeros tienen el derecho a permanecer callados y no contestar preguntas sobre sus estatus migratorio.</li>
+        </ul>
+
+        <h5>En un avi\u00f3n:</h5>
+        <ul>
+          <li>Un piloto puede negarse a transportar a un pasajero si el piloto cree de forma razonable que el pasajero es una amenaza para la seguridad del vuelo. Un piloto no puede, sin embargo, interrogarlo/la ni negarse a permitirlo/la a bordo del vuelo por prejuicios basados en su religi\u00f3n, raza, origen nacional, g\u00e9nero, etnicidad, o creencias pol\u00edticas.</li>
+          <li>Si usted cree que est\u00e1 por error en una lista de exclusi\u00f3n a\u00e9rea, debe comunicarse con la TSA y someter una petici\u00f3n usando el Traveler Redress Inquiry Program.</li>
+        </ul>
+
+        <h5>En autobuses y trenes:</h5>
+        <ul>
+          <li>Agentes de CBP pueden abordar autobuses y trenes, en la estaci\u00f3n o durante el viaje, en los Estados Unidos en la regi\u00f3n que se encuentra dentro de 100 millas de la frontera. M\u00e1s de un agente t\u00edpicamente aborda. Los agentes hacen preguntas a los pasajeros sobre su estatus migratorio, les piden muestren sus documentos migratorios, o ambos.</li>
+          <li>Estas preguntas deben ser breves y relacionadas a verificar la presencia legal del pasajero en los EE.UU. Usted no est\u00e1 obligado a responder y puede decir simplemente que no desea hacerlo. Como siempre, tiene el derecho a permanecer callado.</li>
+        </ul>
+
+        <h4>Si cree que sus derechos han sido violados</h4>
+        <ul>
+          <li>Apunte todo lo que pueda recordar incluyendo los n\u00fameros de las placas de los agentes y las placas de los veh\u00edculos de patrulla, de qu\u00e9 agencia eran los oficiales y cualquier otro detalle. Obtenga informaci\u00f3n para poder contactar a personas hayan sido testigo de los hechos.</li>
+          <li>Si resulta lesionado, busque atenci\u00f3n m\u00e9dica de inmediato y tome fotograf\u00edas de sus lesiones.</li>
+          <li>Av\u00edsele a su abogado ya que esta informaci\u00f3n podr\u00eda ayudar a su caso de inmigraci\u00f3n.</li>
+          <li>Presente una denuncia por escrito ante la divisi\u00f3n de asuntos internos o la junta civil que examina quejas de la agencia que haya violado sus derechos. En la mayor\u00eda de los casos, puede presentar una denuncia de forma an\u00f3nima si as\u00ed lo desea.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar su afiliado local de la ACLU</li>
+          <li>National Immigration Law Center (El Centro Nacional de la Ley de Inmigraci\u00f3n)</li>
+          <li>Immigrant Legal Resource Center (El Centro de Recursos Legales para Inmigrantes)</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+        </ul>
+
+        <h3>Estoy detenido mientras mi caso de inmigraci\u00f3n est\u00e1 en proceso</h3>
+
+        <h4>Sus derechos</h4>
+        <ul>
+          <li>Algunas personas que est\u00e1n detenidas mientras su caso est\u00e1 en proceso son elegibles a ser puestos en libertad bajo fianza o con otras condiciones de comparecencia.</li>
+          <li>Usted tiene el derecho de llamar a un abogado/a o a su familia, y tiene el derecho de ser visitado por un abogado/a mientras est\u00e1 en detenci\u00f3n.</li>
+        </ul>
+
+        <h4>\u00bfQu\u00e9 hacer si est\u00e1 detenido?</h4>
+        <ul>
+          <li>Si se le niega ponerlo en libertad despu\u00e9s de ser arrestado por una violaci\u00f3n migratoria, puede pedir una audiencia de fianza ante un juez de inmigraci\u00f3n. En muchos casos, un juez de inmigraci\u00f3n puede ordenar que se le ponga en libertad o que se reduzca su fianza.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar a su afiliado local de la ACLU</li>
+          <li>National Immigration Law Center (El Centro Nacional de la Ley de Inmigraci\u00f3n)</li>
+          <li>Immigrant Legal Resource Center (El Centro de Recursos Legales para Inmigrantes)</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+          <li>Immigrant Defense Project (Proyecto de Defensa de los Inmigrantes)</li>
+        </ul>
+
+        <h3>He sido arrestado y necesito impugnar una orden de deportaci\u00f3n</h3>
+
+        <h4>Sus derechos</h4>
+        <ul>
+          <li>Usted tiene el derecho a una audiencia para impugnar una orden de deportaci\u00f3n a menos que usted renuncie a su derecho a una audiencia, firme algo llamado un \u201cStipulated Removal Order,\u201d o acepte una \u201csalida voluntaria.\u201d</li>
+          <li>Usted tiene derecho a un abogado/a, pero el gobierno no tiene que proveerle uno. Si usted no tiene abogado/a, puede pedir una lista de proveedores de servicios de asesor\u00eda legal gratuitos o a bajo costo. Tambi\u00e9n puede pedir a la corte que le den tiempo para conseguir a un abogado.</li>
+        </ul>
+
+        <h4>Qu\u00e9 hacer si lo arrestan</h4>
+        <ul>
+          <li>Si se le dice que no tiene el derecho de ver un juez de inmigraci\u00f3n, debe hablar con un abogado/a inmediatamente. Hay ciertos casos en los que una persona puede no tener el derecho a presentar su caso ante un juez de inmigraci\u00f3n. Pero aun si se le dice que esta es su situaci\u00f3n, puede pedir hablar con un abogado/a de inmediato porque los oficiales de inmigraci\u00f3n no siempre conocen o informan de las excepciones que pueden aplicar en cada caso.</li>
+          <li>Si teme a una persecuci\u00f3n o tortura en su pa\u00eds de origen, d\u00edgaselo a un agente de inmigraci\u00f3n y contacte a un abogado/a inmediatamente. Tiene derechos adicionales si tiene este temor.</li>
+        </ul>
+
+        <h4>Recursos adicionales</h4>
+        <ul>
+          <li>Si necesita m\u00e1s informaci\u00f3n, puede contactar a su afiliado local de la ACLU</li>
+          <li>National Immigration Law Center (El Centro Nacional de la Ley de Inmigraci\u00f3n)</li>
+          <li>Immigrant Legal Resource Center (El Centro de Recursos Legales para Inmigrantes)</li>
+          <li>American Immigration Lawyers Association (Asociaci\u00f3n Americana de Abogados de Inmigraci\u00f3n)</li>
+          <li>Immigrant Defense Project (Proyecto de Defensa de los Inmigrantes)</li>
+        </ul>
+
+        <h4>\u00bfC\u00f3mo localizar a un ser querido en detenci\u00f3n?</h4>
+        <ul>
+          <li>Puede buscar en: https://locator.ice.gov</li>
+          <li>Tambi\u00e9n puede encontrar el n\u00famero telef\u00f3nico de cada centro de detenci\u00f3n en: https://www.ice.gov/detention-facilities</li>
+        </ul>
+
+        <h4>\u00bfC\u00f3mo saber si hay una cita en la corte?</h4>
+        <ul>
+          <li>Puede llamar al 1-800-898-7180, necesitar\u00e1 el n\u00famero \u201cA\u201d de la persona</li>
+          <li>Puede buscar por internet en: https://acis.eoir.justice.gov/es/</li>
+          <li>Puede tardar algunos d\u00edas para que el n\u00famero A sea incluido en el sistema</li>
+        </ul>
+
+        <h3>Quiero compartir esta informaci\u00f3n en las redes sociales</h3>
+        <p>Si desea compartir esta informaci\u00f3n con otros, hemos creado material visual que puede descargar y compartir en las redes sociales. Tambi\u00e9n hemos creado im\u00e1genes que puede descargar a su tel\u00e9fono y poner como fondo de pantalla (lock screen) para que sin tener que desbloquear su tel\u00e9fono pueda ver f\u00e1cilmente sus derechos si la polic\u00eda o ICE lo detienen.</p>
+
+        <p><em>Cortes\u00eda de la ACLU</em></p>
+      `
     }
   ]
 };
