@@ -40,11 +40,11 @@ const APP_CONTENT = {
         <h3>Key Phrases to Use</h3>
         <p>If you learn nothing else from this guide, learn these phrases:</p>
         <ul class="key-phrases">
-          <li>Am I free to go?</li>
-          <li>I do not consent to any searches.</li>
-          <li>I am exercising my right to remain silent.</li>
-          <li>I want to speak to a lawyer.</li>
-          <li>I do not wish to answer questions.</li>
+          <li><button class="phrase-play" data-audio="audio/am-i-free-to-go.m4a" aria-label="Play audio: Am I free to go?">&#9654;</button> Am I free to go?</li>
+          <li><button class="phrase-play" data-audio="audio/i-do-not-consent-to-any-searches.m4a" aria-label="Play audio: I do not consent to any searches.">&#9654;</button> I do not consent to any searches.</li>
+          <li><button class="phrase-play" data-audio="audio/i-am-exercising-my-right-to-remain-silent.m4a" aria-label="Play audio: I am exercising my right to remain silent.">&#9654;</button> I am exercising my right to remain silent.</li>
+          <li><button class="phrase-play" data-audio="audio/i-want-to-speak-to-a-lawyer.m4a" aria-label="Play audio: I want to speak to a lawyer.">&#9654;</button> I want to speak to a lawyer.</li>
+          <li><button class="phrase-play" data-audio="audio/i-do-not-wish-to-answer-questions.m4a" aria-label="Play audio: I do not wish to answer questions.">&#9654;</button> I do not wish to answer questions.</li>
         </ul>
 
         <h3>The SILENT Method</h3>

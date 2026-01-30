@@ -327,6 +327,36 @@
       if (state.sidebarOpen && dx < -80) closeSidebar();
     }, { passive: true });
 
+    // Audio playback for key phrases
+    var currentAudio = null;
+    document.addEventListener('click', function (e) {
+      var btn = e.target.closest('.phrase-play');
+      if (btn) {
+        var src = btn.getAttribute('data-audio');
+        if (currentAudio) {
+          currentAudio.pause();
+          currentAudio = null;
+          // Reset all buttons
+          document.querySelectorAll('.phrase-play.playing').forEach(function (b) {
+            b.classList.remove('playing');
+            b.innerHTML = '\u25B6';
+          });
+        }
+        if (!btn.classList.contains('playing')) {
+          currentAudio = new Audio(src);
+          btn.classList.add('playing');
+          btn.innerHTML = '\u25A0';
+          currentAudio.play();
+          currentAudio.addEventListener('ended', function () {
+            btn.classList.remove('playing');
+            btn.innerHTML = '\u25B6';
+            currentAudio = null;
+          });
+        }
+        return;
+      }
+    });
+
     // Close search on click outside
     document.addEventListener('click', function (e) {
       if (state.searchOpen &&

@@ -882,10 +882,36 @@ ul, ol {
 }
 
 .key-phrases li::before {
-  content: "\201C";
-  font-size: var(--text-3xl);
-  color: var(--color-red);
-  line-height: 1;
+  content: none;
+}
+
+.phrase-play {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  border: none;
+  border-radius: 50%;
+  background: var(--color-red);
+  color: var(--color-white);
+  font-size: var(--text-base);
+  cursor: pointer;
+  transition: background 0.2s, transform 0.15s;
+}
+
+.phrase-play:hover {
+  background: #9a0828;
+  transform: scale(1.1);
+}
+
+.phrase-play:active {
+  transform: scale(0.95);
+}
+
+.phrase-play.playing {
+  background: var(--color-navy);
 }
 
 /* --- Definition List (Glossary) --- */

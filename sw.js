@@ -1,4 +1,4 @@
-var CACHE_NAME = 'remain-silent-v16';
+var CACHE_NAME = 'remain-silent-v17';
 var CACHE_ASSETS = [
   './',
   'index.html',
@@ -11,7 +11,12 @@ var CACHE_ASSETS = [
   'offline.html',
   'images/mcguire-logo.png',
   'icons/icon-192.png',
-  'icons/icon-512.png'
+  'icons/icon-512.png',
+  'audio/am-i-free-to-go.m4a',
+  'audio/i-do-not-consent-to-any-searches.m4a',
+  'audio/i-am-exercising-my-right-to-remain-silent.m4a',
+  'audio/i-want-to-speak-to-a-lawyer.m4a',
+  'audio/i-do-not-wish-to-answer-questions.m4a'
 ];
 
 self.addEventListener('install', function (event) {
