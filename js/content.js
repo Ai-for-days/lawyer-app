@@ -1306,55 +1306,8 @@ const APP_CONTENT = {
       `
     },
     {
-      id: "wallet-cards",
-      number: 22,
-      title: "Wallet Cards",
-      subtitle: null,
-      icon: "credit-card",
-      keywords: ["wallet", "card", "print", "carry", "reference", "pocket", "rights card", "traffic stop card", "immigration card"],
-      content: `
-        <p>Wallet cards help you remember your rights when you are stressed. Keep them with you always. Reading is easier than remembering when you are nervous.</p>
-        <p><button class="btn-print" onclick="window.print()">Print Wallet Cards</button></p>
-
-        <div class="wallet-card">
-          <div class="wallet-card-title">Constitutional Rights Card</div>
-          <p>I am exercising my constitutional rights:</p>
-          <ul>
-            <li>I remain silent (5th Amendment)</li>
-            <li>I do not consent to searches (4th Amendment)</li>
-            <li>I want to speak with a lawyer (6th Amendment)</li>
-          </ul>
-          <p><em>Please respect my decision to use these rights.</em></p>
-        </div>
-
-        <div class="wallet-card">
-          <div class="wallet-card-title">Traffic Stop Rights</div>
-          <p>Officer, I will cooperate with lawful orders.</p>
-          <ul>
-            <li>I will provide required documents</li>
-            <li>I prefer to remain silent beyond that</li>
-            <li>I do not consent to vehicle searches</li>
-            <li>I prefer not to answer questions</li>
-          </ul>
-          <p><em>Thank you for respecting my rights.</em></p>
-        </div>
-
-        <div class="wallet-card">
-          <div class="wallet-card-title">Immigration Rights Card</div>
-          <p>I am exercising my rights:</p>
-          <ul>
-            <li>I choose to remain silent</li>
-            <li>I do not consent to entry without a judicial warrant</li>
-            <li>I want to speak with my attorney</li>
-            <li>I do not wish to sign anything</li>
-          </ul>
-          <p><em>Please slide any warrant under the door. DO NOT OPEN DOOR without warrant signed by a JUDGE.</em></p>
-        </div>
-      `
-    },
-    {
       id: "install",
-      number: 23,
+      number: 22,
       title: "Install This App",
       subtitle: "Get it on your phone",
       icon: "smartphone",
