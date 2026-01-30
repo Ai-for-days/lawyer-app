@@ -1384,7 +1384,8 @@ const APP_CONTENT = {
         <ol>
           <li>Open <strong>Safari</strong> (the compass icon — not Chrome or other browsers)</li>
           <li>Go to the address bar and visit this site</li>
-          <li>Tap the <strong>Share button</strong> at the bottom of the screen (the square with an arrow pointing up)</li>
+          <li>Tap the <strong>three dots (\u2026)</strong> at the bottom center of the screen to open the menu</li>
+          <li>Tap the <strong>Share button</strong> (the square with an arrow pointing up)</li>
           <li>Scroll down and tap <strong>"Add to Home Screen"</strong></li>
           <li>Tap <strong>"Add"</strong> in the top-right corner</li>
         </ol>
