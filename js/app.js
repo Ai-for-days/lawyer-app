@@ -156,8 +156,7 @@
     if (featured) {
       refs.featuredSection.innerHTML =
         '<a href="#' + featured.id + '" class="featured-card">' +
-          '<span class="featured-card-badge">Most Important</span>' +
-          '<div class="featured-card-title">' + featured.title + '</div>' +
+          '<span class="featured-card-badge">The Most Important Rule</span>' +
           '<div class="featured-card-desc">Never talk to law enforcement without a lawyer. Learn the SILENT method and key phrases to protect your rights.</div>' +
         '</a>';
     }
