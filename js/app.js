@@ -355,9 +355,6 @@
     window.addEventListener('beforeinstallprompt', function (e) {
       e.preventDefault();
       deferredPrompt = e;
-      if (!localStorage.getItem('installDismissed')) {
-        refs.installPrompt.hidden = false;
-      }
     });
 
     if (refs.installBtn) {
@@ -369,8 +366,8 @@
             refs.installPrompt.hidden = true;
           });
         } else {
-          alert('To install this app:\n\n1. Tap the three-dot menu (top right)\n2. Tap "Add to Home screen" or "Install app"\n\nThe app will appear on your home screen.');
           refs.installPrompt.hidden = true;
+          window.location.hash = 'install';
         }
       });
     }
@@ -380,14 +377,6 @@
         refs.installPrompt.hidden = true;
         localStorage.setItem('installDismissed', 'true');
       });
-    }
-
-    // Show install banner immediately if no beforeinstallprompt fires within 3 seconds
-    if (!localStorage.getItem('installDismissed')) {
-      setTimeout(function () {
-        if (!refs.installPrompt.hidden) return; // already showing
-        refs.installPrompt.hidden = false;
-      }, 3000);
     }
   }
 

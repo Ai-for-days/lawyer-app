@@ -1351,6 +1351,51 @@ const APP_CONTENT = {
           <p><em>Please slide any warrant under the door. DO NOT OPEN DOOR without warrant signed by a JUDGE.</em></p>
         </div>
       `
+    },
+    {
+      id: "install",
+      number: 23,
+      title: "Install This App",
+      subtitle: "Get it on your phone",
+      icon: "smartphone",
+      keywords: ["install", "download", "app", "phone", "home screen", "offline", "android", "iphone"],
+      content: `
+        <p>Install the <strong>LAWYER</strong> app on your phone so you can access your rights guide anytime — even without internet.</p>
+
+        <h3>Android (Chrome)</h3>
+        <ol>
+          <li>Open this site in <strong>Google Chrome</strong></li>
+          <li>Tap the <strong>three-dot menu</strong> in the top-right corner</li>
+          <li>Tap <strong>"Add to Home screen"</strong> or <strong>"Install app"</strong></li>
+          <li>Tap <strong>"Install"</strong> or <strong>"Add"</strong> to confirm</li>
+        </ol>
+        <div class="callout callout-tip">
+          <h4>Can't find the app?</h4>
+          <p>On some Android phones, newly installed apps appear in your <strong>app drawer</strong> (swipe up from the bottom of your home screen) rather than directly on the home screen. Look for the gold McGuire Law "M" icon labeled <strong>LAWYER</strong>.</p>
+          <p>To move it to your home screen: long-press the app icon in the drawer and drag it to your home screen.</p>
+        </div>
+
+        <h3>iPhone (Safari)</h3>
+        <ol>
+          <li>Open this site in <strong>Safari</strong> (not Chrome or other browsers)</li>
+          <li>Tap the <strong>Share button</strong> (the square with an arrow pointing up) at the bottom of the screen</li>
+          <li>Scroll down and tap <strong>"Add to Home Screen"</strong></li>
+          <li>Tap <strong>"Add"</strong> in the top-right corner</li>
+        </ol>
+        <div class="callout callout-info">
+          <h4>Why Safari?</h4>
+          <p>On iPhone, only Safari supports installing web apps to the home screen. Other browsers like Chrome will not show the option.</p>
+        </div>
+
+        <h3>What you get</h3>
+        <ul>
+          <li><strong>Works offline</strong> — access all 22 sections without internet</li>
+          <li><strong>One-tap call</strong> — call McGuire Law instantly from the app</li>
+          <li><strong>No app store needed</strong> — no download fees, no account required</li>
+          <li><strong>Always up to date</strong> — the app updates automatically when you're online</li>
+          <li><strong>Private</strong> — no tracking, no data collection, no ads</li>
+        </ul>
+      `
     }
   ]
 };
