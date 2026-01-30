@@ -1361,11 +1361,15 @@ const APP_CONTENT = {
       keywords: ["install", "download", "app", "phone", "home screen", "offline", "android", "iphone"],
       content: `
         <p>Install the <strong>LAWYER</strong> app on your phone so you can access your rights guide anytime — even without internet.</p>
+        <div class="callout callout-info">
+          <h4>App Link</h4>
+          <p><strong><a href="https://rb.gy/nckotl">https://rb.gy/nckotl</a></strong></p>
+        </div>
 
         <h3>Android (Chrome)</h3>
         <ol>
           <li>Open <strong>Google Chrome</strong> (not the LAWYER app if already installed)</li>
-          <li>Go to the address bar and visit this site</li>
+          <li>Go to <strong>https://rb.gy/nckotl</strong></li>
           <li>Look for an <strong>install icon</strong> in the address bar (a phone with a down arrow), or tap the <strong>three-dot menu (\u22EE)</strong> in the top-right corner of Chrome</li>
           <li>Tap <strong>"Install app"</strong> or <strong>"Add to Home screen"</strong></li>
           <li>Tap <strong>"Install"</strong> or <strong>"Add"</strong> to confirm</li>
@@ -1383,7 +1387,7 @@ const APP_CONTENT = {
         <h3>iPhone (Safari)</h3>
         <ol>
           <li>Open <strong>Safari</strong> (the compass icon — not Chrome or other browsers)</li>
-          <li>Go to the address bar and visit this site</li>
+          <li>Go to <strong>https://rb.gy/nckotl</strong></li>
           <li>Tap the <strong>three dots (\u2026)</strong> at the bottom center of the screen to open the menu</li>
           <li>Tap the <strong>Share button</strong> (the square with an arrow pointing up)</li>
           <li>Scroll down and tap <strong>"Add to Home Screen"</strong></li>
