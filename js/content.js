@@ -1361,6 +1361,361 @@ const APP_CONTENT = {
           <li><strong>Private</strong> — no tracking, no data collection, no ads</li>
         </ul>
       `
+    },
+    {
+      id: "non-english-speakers",
+      number: 23,
+      title: "Non-English Speakers",
+      subtitle: "Multilingual Rights Information",
+      icon: "globe",
+      keywords: ["language", "non-english", "spanish", "chinese", "vietnamese", "korean", "arabic", "french", "portuguese", "interpreter", "translation", "multilingual", "foreign"],
+      content: `
+        <p>This section is for individuals in South Carolina who speak a language other than English. Your rights are the same regardless of what language you speak. You have the right to an interpreter during any law enforcement encounter.</p>
+
+        <div class="callout callout-critical">
+          <h4>Remember</h4>
+          <p>You have the right to an interpreter. Do not sign any documents you cannot read or understand. You can remain silent in any language. If you need legal help, call McGuire Law at <a href="tel:+18884995738">(888) 499-5738</a>.</p>
+        </div>
+
+        <h3>Languages by Country of Origin</h3>
+        <p>The following languages are spoken by immigrants from countries commonly represented in South Carolina:</p>
+        <ul>
+          <li><strong>Spanish</strong> \u2014 Mexico, Cuba, Dominican Republic, El Salvador, Colombia, Venezuela, Honduras, Spain</li>
+          <li><strong>Portuguese</strong> \u2014 Brazil</li>
+          <li><strong>French</strong> \u2014 France, Haiti, Canada</li>
+          <li><strong>Haitian Creole</strong> \u2014 Haiti</li>
+          <li><strong>Hindi</strong> \u2014 India</li>
+          <li><strong>Bengali</strong> \u2014 India</li>
+          <li><strong>Telugu</strong> \u2014 India</li>
+          <li><strong>Tamil</strong> \u2014 India</li>
+          <li><strong>Gujarati</strong> \u2014 India</li>
+          <li><strong>Urdu</strong> \u2014 Pakistan, India</li>
+          <li><strong>Punjabi</strong> \u2014 Pakistan, India</li>
+          <li><strong>Sindhi</strong> \u2014 Pakistan</li>
+          <li><strong>Mandarin Chinese</strong> \u2014 China, Taiwan</li>
+          <li><strong>Cantonese</strong> \u2014 Hong Kong, China</li>
+          <li><strong>Taiwanese Hokkien</strong> \u2014 Taiwan</li>
+          <li><strong>Filipino (Tagalog)</strong> \u2014 Philippines</li>
+          <li><strong>Vietnamese</strong> \u2014 Vietnam</li>
+          <li><strong>Dari (Afghan Persian)</strong> \u2014 Afghanistan</li>
+          <li><strong>Pashto</strong> \u2014 Afghanistan, Pakistan</li>
+          <li><strong>Jamaican Patois</strong> \u2014 Jamaica</li>
+          <li><strong>Hausa</strong> \u2014 Nigeria</li>
+          <li><strong>Yoruba</strong> \u2014 Nigeria</li>
+          <li><strong>Igbo</strong> \u2014 Nigeria</li>
+          <li><strong>Korean</strong> \u2014 South Korea</li>
+          <li><strong>Russian</strong> \u2014 Russia</li>
+          <li><strong>Persian (Farsi)</strong> \u2014 Iran</li>
+          <li><strong>Ukrainian</strong> \u2014 Ukraine</li>
+          <li><strong>Arabic</strong> \u2014 Egypt, Iraq, Saudi Arabia, United Arab Emirates</li>
+          <li><strong>Turkish</strong> \u2014 Turkey</li>
+          <li><strong>Japanese</strong> \u2014 Japan</li>
+          <li><strong>Hebrew</strong> \u2014 Israel</li>
+          <li><strong>Polish</strong> \u2014 Poland</li>
+          <li><strong>Romanian</strong> \u2014 Romania</li>
+          <li><strong>Swedish</strong> \u2014 Sweden</li>
+          <li><strong>Palauan</strong> \u2014 Palau</li>
+          <li><strong>Kurdish</strong> \u2014 Iraq</li>
+          <li><strong>Catalan</strong> \u2014 Spain</li>
+        </ul>
+      `
+    },
+    {
+      id: "aclu-immigrants-rights",
+      number: 24,
+      title: "Immigrants' Rights",
+      subtitle: "ACLU Know Your Rights",
+      icon: "globe",
+      keywords: ["ACLU", "immigrants", "immigration", "ICE", "border patrol", "deportation", "detained", "visa", "citizenship", "rights", "non-citizen", "arrest", "lawyer", "warrant", "search"],
+      content: `
+        <p>Regardless of your immigration status, you have guaranteed rights under the Constitution. Learn more here about your rights as an immigrant, and how to express them.</p>
+
+        <h3>Law enforcement asks about my immigration status</h3>
+
+        <h4>How to reduce risk to yourself</h4>
+        <ul>
+          <li>Stay calm. Don\u2019t run, argue, resist, or obstruct the officer, even if you believe your rights are being violated. Keep your hands where police can see them.</li>
+          <li>Don\u2019t lie about your status or provide false documents.</li>
+        </ul>
+
+        <h4>Your rights</h4>
+        <ul>
+          <li>You have the right to remain silent and do not have to discuss your immigration or citizenship status with police, immigration agents, or other officials. Anything you tell an officer can later be used against you in immigration court.</li>
+          <li>If you are not a U.S. citizen and an immigration agent requests your immigration papers, you must show them if you have them with you.</li>
+          <li>If an immigration agent asks if they can search you, you have the right to say no. Agents do not have the right to search you or your belongings without your consent or probable cause.</li>
+          <li>If you\u2019re over 18, carry your papers with you at all times. If you don\u2019t have them, tell the officer that you want to remain silent, or that you want to consult a lawyer before answering any questions.</li>
+        </ul>
+
+        <h4>What to do in such an encounter</h4>
+        <ul>
+          <li>In some states, you must provide your name to law enforcement if you are stopped and told to identify yourself. But even if you give your name, you don\u2019t have to answer other questions.</li>
+          <li>If you are driving and are pulled over, the officer can require you to show your license, vehicle registration and proof of insurance, but you don\u2019t have to answer questions about your immigration status.</li>
+          <li>Customs officers can ask about your immigration status when entering or leaving the country. If you are a lawful permanent resident (LPR) who has maintained your status, you only have to answer questions establishing your identity and permanent residency. Refusal to answer other questions will likely cause delay, but officials may not deny you entry into the United States for failure to answer other questions. If you are a non-citizen visa holder, you may be denied entry into the U.S. if you refuse to answer officers\u2019 questions.</li>
+        </ul>
+
+        <h4>Additional resources</h4>
+        <ul>
+          <li>If you need more information, contact your local ACLU affiliate.</li>
+          <li>National Immigration Law Center: Know Your Rights</li>
+          <li>A Toolkit for Organizations Responding to Mass Worksite Immigration Raids</li>
+          <li>Immigrant Legal Resource Center</li>
+          <li>American Immigration Lawyers Association</li>
+          <li>ACLU VIDEO: What to do if stopped by police or ICE</li>
+        </ul>
+
+        <h4>In other languages</h4>
+        <ul>
+          <li>\u0627\u0644\u0639\u0631\u0628\u064A\u0629 (Arabic)</li>
+          <li>\u4E2D\u6587(\u7B80) (Chinese)</li>
+          <li>Creole</li>
+          <li>\u0641\u0627\u0631\u0633\u06CC (Farsi)</li>
+          <li>Fran\u00E7ais (French)</li>
+          <li>Bahasa Indonesia (Indonesian)</li>
+          <li>\uD55C\uAD6D\uC5B4 (Korean)</li>
+          <li>Portugu\u00EAs (Portuguese)</li>
+          <li>Soomaali (Somali)</li>
+          <li>Espa\u00F1ol (Spanish)</li>
+          <li>Tagalog</li>
+          <li>\u0627\u064F\u0631\u062F\u064F\u0648 (Urdu)</li>
+          <li>Ti\u1EBFng Vi\u1EC7t (Vietnamese)</li>
+          <li>\u0939\u093F\u0902\u0926\u0940 (Hindi)</li>
+          <li>\u7E41\u9AD4\u4E2D\u6587 (Traditional Chinese)</li>
+          <li>\u7B80\u4F53\u4E2D\u6587 (Simplified Chinese)</li>
+        </ul>
+
+        <h3>I\u2019ve been stopped by police or ICE</h3>
+
+        <h4>How to reduce risk to yourself</h4>
+        <ul>
+          <li>Stay calm and do not resist or obstruct the agents or officers.</li>
+          <li>Do not lie or give false documents.</li>
+          <li>Prepare yourself and your family in case you are arrested. Memorize the phone numbers of your family and your lawyer. Make emergency plans if you have children or take medication.</li>
+        </ul>
+
+        <h4>Your rights</h4>
+        <ul>
+          <li>You have the right to remain silent. If you wish to exercise that right, say so out loud. (In some states, you may be required to provide your name if asked to identify yourself.)</li>
+          <li>You do not have to consent to a search of yourself or your belongings, but police may pat down your clothing if they suspect a weapon.</li>
+          <li>If you are arrested by police, you have the right to a government-appointed lawyer.</li>
+          <li>If you are detained by ICE, you have the right to consult with a lawyer, but the government is not required to provide one for you. You can ask for a list of free or low-cost alternatives.</li>
+          <li>You do not have to answer questions about where you were born, whether you are a U.S. citizen, or how you entered the country. (Separate rules apply at international borders and airports, and for individuals on certain nonimmigrant visas, including tourists and business travelers.)</li>
+        </ul>
+
+        <h4>What to do if you are arrested or detained</h4>
+        <ul>
+          <li>Say you wish to remain silent and ask for a lawyer immediately. Don\u2019t give any explanations or excuses. Don\u2019t say anything, sign anything, or make any decisions without a lawyer.</li>
+          <li>If you have been arrested by police, you have the right to make a local phone call. The police cannot listen if you call a lawyer.</li>
+          <li>If you have been detained by ICE, you have the right to contact your consulate or have an officer inform the consulate of your detention.</li>
+          <li>Remember your immigration number (\u201CA\u201D number) and give it to your family. It will help family members locate you.</li>
+          <li>Keep a copy of your immigration documents with someone you trust.</li>
+          <li><strong>If you are a non-citizen:</strong> Ask your lawyer about the effect of a criminal conviction or plea on your immigration status. Don\u2019t discuss your immigration status with anyone but your lawyer. While you are in jail, an immigration agent may visit you. Do not answer questions or sign anything before talking to a lawyer. Read all papers fully. If you do not understand or cannot read the papers, tell the officer you need an interpreter.</li>
+        </ul>
+
+        <h4>If you believe your rights were violated</h4>
+        <ul>
+          <li>Write down everything you remember, including officers\u2019 badges and patrol car numbers, which agency the officers were from, and any other details. Get contact information for witnesses.</li>
+          <li>If you\u2019re injured, seek medical attention immediately and take photographs of your injuries.</li>
+          <li>File a written complaint with the agency\u2019s internal affairs division or civilian complaint board. In most cases, you can file a complaint anonymously if you wish.</li>
+        </ul>
+
+        <h4>Additional resources</h4>
+        <ul>
+          <li>If you need more information, contact your local ACLU affiliate.</li>
+          <li>National Immigration Law Center: Know Your Rights</li>
+          <li>A Toolkit for Organizations Responding to Mass Worksite Immigration Raids</li>
+          <li>Immigrant Legal Resource Center</li>
+          <li>American Immigration Lawyers Association</li>
+          <li>ACLU VIDEO: What to do if stopped by police or ICE</li>
+        </ul>
+
+        <h4>In other languages</h4>
+        <ul>
+          <li>\u0627\u0644\u0639\u0631\u0628\u064A\u0629 (Arabic)</li>
+          <li>\u0641\u0627\u0631\u0633\u06CC (Farsi)</li>
+          <li>Espa\u00F1ol (Spanish)</li>
+          <li>\u0627\u064F\u0631\u062F\u064F\u0648 (Urdu)</li>
+        </ul>
+
+        <h3>Police or ICE are at my home</h3>
+
+        <h4>How to reduce risk to yourself</h4>
+        <ul>
+          <li>Stay calm and keep the door closed. Opening the door does not give them permission to come inside, but it is safer to speak to ICE through the door.</li>
+        </ul>
+
+        <h4>Your rights</h4>
+        <ul>
+          <li>You have the right to remain silent, even if officer has a warrant.</li>
+          <li>You do not have to let police or immigration agents into your home unless they have certain kinds of warrants.</li>
+          <li>If police have an arrest warrant, they are legally allowed to enter the home of the person on the warrant if they believe that person is inside. But a warrant of removal/deportation (Form I-205) does not allow officers to enter a home without consent.</li>
+        </ul>
+
+        <h4>What to do when the police or ICE arrive</h4>
+        <ul>
+          <li>Ask if they are immigration agents and what they are there for.</li>
+          <li>Ask the agent or officer to show you a badge or identification through the window or peephole.</li>
+          <li>Ask if they have a warrant signed by a judge. If they say they do, ask them to slide it under the door or hold it up to a window so you can inspect it.</li>
+          <li>Don\u2019t lie or produce any false documents. Don\u2019t sign anything without speaking with a lawyer first.</li>
+          <li>Do not open your door unless ICE shows you a judicial search or arrest warrant naming a person in your residence and/or areas to be searched at your address. If they don\u2019t produce a warrant, keep the door closed. State: \u201CI do not consent to your entry.\u201D</li>
+          <li>If agents force their way in, do not resist. If you wish to exercise your rights, state: \u201CI do not consent to your entry or to your search of these premises. I am exercising my right to remain silent. I wish to speak with a lawyer as soon as possible.\u201D</li>
+          <li>If you are on probation with a search condition, law enforcement is allowed to enter your home.</li>
+        </ul>
+
+        <h4>Additional resources</h4>
+        <ul>
+          <li>If you need more information, contact your local ACLU affiliate.</li>
+          <li>National Immigration Law Center: Know Your Rights</li>
+          <li>A Toolkit for Organizations Responding to Mass Worksite Immigration Raids</li>
+          <li>Immigrant Legal Resource Center</li>
+          <li>American Immigration Lawyers Association</li>
+        </ul>
+
+        <h3>I need a lawyer</h3>
+
+        <h4>Your rights</h4>
+        <ul>
+          <li>If you are arrested by the police, you have the right to a government-appointed lawyer, and should ask for one immediately.</li>
+          <li>If arrested, you have the right to a private phone call within a reasonable time of your arrest, and police may not listen to the call if it is made to a lawyer.</li>
+          <li>If you are detained by ICE or Border Patrol, you have the right to hire a lawyer, but the government does not have to provide one for you. Ask for a list of free or low-cost alternatives.</li>
+          <li>If you are detained, you have the right to call a lawyer or your family, and you have the right to be visited by a lawyer in detention. You have the right to have your attorney with you at any hearing before an immigration judge.</li>
+        </ul>
+
+        <h4>Additional resources</h4>
+        <ul>
+          <li>If you need more information, contact your local ACLU affiliate.</li>
+          <li>Here is a list of contact information for legal organizations that assist immigrants.</li>
+        </ul>
+
+        <h3>I\u2019ve been detained near the border by Border Patrol</h3>
+
+        <h4>How to reduce risk to yourself</h4>
+        <ul>
+          <li>Stay calm when interacting with immigration officials. Do not lie or provide false documents.</li>
+          <li>Never flee from an immigration checkpoint.</li>
+        </ul>
+
+        <h4>Your rights</h4>
+        <ul>
+          <li>You have the right to remain silent. You can also tell the agent that you\u2019ll only answer questions in the presence of an attorney, no matter your citizenship or immigration status.</li>
+          <li>You do not have to answer questions about your immigration status. A limited exception exists for people who have permission to be in the U.S. for a specific reason and for a limited amount of time (a \u201Cnonimmigrant\u201D on a visa, for example). These individuals are required to provide information about their immigration status if asked.</li>
+          <li>Generally, a Border Patrol agent cannot detain you unless they have \u201Creasonable suspicion\u201D that you are committing or committed a violation of immigration law or federal law.</li>
+          <li>An immigration officer cannot arrest you without \u201Cprobable cause.\u201D That means the agent must have facts about you that make it probable that you are committing, or committed, a violation of immigration law or federal law.</li>
+          <li>At immigration checkpoints, agents do not need any suspicion to stop you and ask you questions, but their questions should be brief and related to verifying immigration status. They can also visually inspect your vehicle.</li>
+        </ul>
+
+        <h4>What to expect</h4>
+        <ul>
+          <li>People who have entered the U.S. without inspection by an immigration official may be subject to expedited removal from the U.S. based on certain criteria. If you are told that you are subject to expedited removal, ask for the stated reason. Also, if you fear persecution if returned to your country of origin, you should immediately inform the agents of your fear.</li>
+          <li>At border crossings, federal authorities do not need a warrant or even suspicion of wrongdoing to justify conducting what courts have called a \u201Croutine search,\u201D such as searching luggage or a vehicle.</li>
+          <li>If an agent asks you for documents, what you need to provide differs depending on your immigration status. U.S. citizens do not have to carry proof of citizenship if they are in the U.S. If you have valid immigration documents and are over the age of 18, the law requires that you carry those documents with you. If you are asked by an immigration agent to produce them, show them to the agent. If you are an immigrant without documents, you can decline the officer\u2019s request, although an agent may then ask you more questions.</li>
+        </ul>
+
+        <h4>Additional resources</h4>
+        <ul>
+          <li>If you need more information, contact your local ACLU affiliate.</li>
+          <li>National Immigration Law Center: Know Your Rights</li>
+          <li>A Toolkit for Organizations Responding to Mass Worksite Immigration Raids</li>
+          <li>Immigrant Legal Resource Center</li>
+          <li>American Immigration Lawyers Association</li>
+        </ul>
+
+        <h3>I was stopped by police, ICE, or Border Patrol while in transit</h3>
+
+        <h4>How to reduce risk to yourself</h4>
+        <ul>
+          <li>Stay calm. Don\u2019t run, argue, or obstruct the officer or agent. Keep your hands raised where they can see them.</li>
+          <li>If you are in a car, pull over in a safe place as quickly as possible. Turn off the engine, turn on the internal light, open the window part way and place your hands on the wheel. Upon request, show police your driver\u2019s license, registration, and proof of insurance.</li>
+          <li>If you are not a U.S. citizen and an immigration agent requests your papers, you must show them if you have them with you. If you are over 18, carry your immigration documents with you at all times. If you do not have immigration papers, say you want to remain silent.</li>
+        </ul>
+
+        <h4>Your rights</h4>
+        <p><strong>In a car:</strong></p>
+        <ul>
+          <li>Drivers and passengers have the right to remain silent. If you are a passenger, you can ask if you are free to leave. If the officer says yes, calmly leave.</li>
+          <li>If an officer or immigration agent asks to look inside your car, you can refuse to consent to the search. But if police generally believe that your car contains evidence of a crime, your car can be searched without your consent.</li>
+          <li>In addition to police, Border Patrol conduct \u201Croving patrols\u201D around the interior of the U.S., pulling over motorists. Border Patrol must have reasonable suspicion that the driver or passengers in the car committed an immigration violation or a federal crime.</li>
+          <li>Any arrest or prolonged stop by Border Patrol requires probable cause. You may ask the agents about the basis for probable cause, and they should tell you. In this situation, both the driver and any passengers have the right to remain silent and not answer questions about their immigration status.</li>
+        </ul>
+
+        <p><strong>On an airplane:</strong></p>
+        <ul>
+          <li>A pilot may refuse to fly a passenger if he or she reasonably believes that the passenger is a threat to flight safety. A pilot may not, however, question you or refuse to allow you on a flight because of bias based on your religion, race, national origin, gender, ethnicity, or political beliefs.</li>
+          <li>If you believe you are mistakenly on a \u201Cno-fly\u201D list, you should review the ACLU\u2019s guidance on No-Fly lists.</li>
+        </ul>
+
+        <p><strong>On buses and trains:</strong></p>
+        <ul>
+          <li>Border Patrol agents may board buses and trains in the 100-mile border region either at the station or while the bus is on its journey. More than one officer usually boards the bus, and they will ask passengers questions about their immigration status, ask passengers to show them immigration documents, or both.</li>
+          <li>These questions should be brief and related to verifying one\u2019s lawful presence in the U.S. You are not required to answer and can simply say you do not wish to do so. As always, you have the right to remain silent.</li>
+        </ul>
+
+        <h4>If you believe your rights were violated</h4>
+        <ul>
+          <li>Write down everything you remember, including officers\u2019 badges and patrol car numbers, which agency the officers were from, and any other details. Get contact information from witnesses.</li>
+          <li>If you\u2019re injured, seek medical attention immediately and take photographs of your injuries.</li>
+          <li>File a written complaint with the agency\u2019s internal affairs division or civilian complaint board. In most cases, you can file a complaint anonymously.</li>
+        </ul>
+
+        <h4>Additional resources</h4>
+        <ul>
+          <li>If you need more information, contact your local ACLU affiliate.</li>
+          <li>National Immigration Law Center: Know Your Rights</li>
+          <li>A Toolkit for Organizations Responding to Mass Worksite Immigration Raids</li>
+          <li>Immigrant Legal Resource Center</li>
+          <li>American Immigration Lawyers Association</li>
+        </ul>
+
+        <h3>I am detained while my immigration case is underway</h3>
+
+        <h4>Your rights</h4>
+        <ul>
+          <li>Most people who are detained while their case is underway are eligible to be released on bond or with other reporting conditions.</li>
+          <li>You have the right to call a lawyer or your family if you are detained, and you have the right to be visited by a lawyer in detention.</li>
+          <li>You have the right to have your attorney with you at any hearing before an immigration judge.</li>
+        </ul>
+
+        <h4>What to do if you are detained</h4>
+        <ul>
+          <li>If you are denied release after being arrested for an immigration violation, ask for a bond hearing before an immigration judge. In many cases, an immigration judge can order that you be released or that your bond be lowered.</li>
+        </ul>
+
+        <h4>Additional resources</h4>
+        <ul>
+          <li>If you need more information, contact your local ACLU affiliate.</li>
+          <li>National Immigration Law Center: Know Your Rights</li>
+          <li>A Toolkit for Organizations Responding to Mass Worksite Immigration Raids</li>
+          <li>Immigrant Legal Resource Center</li>
+          <li>American Immigration Lawyers Association</li>
+        </ul>
+
+        <h3>I\u2019ve been arrested and need to challenge a deportation order</h3>
+
+        <h4>Your rights</h4>
+        <ul>
+          <li>You have the right to a hearing to challenge a deportation order, unless you waive your right to a hearing, sign something called a \u201CStipulated Removal Order,\u201D or take \u201Cvoluntary departure.\u201D</li>
+          <li>You have the right to an attorney, but the government does not have to provide one for you. Ask for a list of free or low-cost alternatives. If you have no lawyer, ask the court to allow you time to find one.</li>
+        </ul>
+
+        <h4>What to do if you are arrested</h4>
+        <ul>
+          <li>If you are told that you do not have the right to see an immigration judge, you should speak with a lawyer immediately. There are some cases in which a person might not have a right to see an immigration judge. But even if you are told that is your situation, you should ask to speak to a lawyer immediately because Immigration officers will not always know or tell you about exceptions that might apply to you.</li>
+          <li>If you fear persecution or torture in your home country, tell an officer and contact a lawyer immediately. You have additional rights if you have this fear.</li>
+        </ul>
+
+        <h4>Additional resources</h4>
+        <ul>
+          <li>If you need more information, contact your local ACLU affiliate.</li>
+          <li>National Immigration Law Center: Know Your Rights</li>
+          <li>A Toolkit for Organizations Responding to Mass Worksite Immigration Raids</li>
+          <li>Immigrant Legal Resource Center</li>
+          <li>American Immigration Lawyers Association</li>
+        </ul>
+
+        <h3>I want to share this information on social media</h3>
+        <p>If you want to share this information with others, we\u2019ve created graphics outlining your rights that you can download and share on social media. We\u2019ve also created graphics that you can download to your phone and save it as your lockscreen background \u2014 so you can easily see your rights if you\u2019re stopped by police or ICE without unlocking your phone.</p>
+
+        <p><em>Courtesy of the ACLU</em></p>
+      `
     }
   ]
 };

@@ -495,6 +495,67 @@ ul, ol {
   opacity: 0.8;
 }
 
+/* --- Flag Circle (Hero) --- */
+.flag-circle-link {
+  display: block;
+  text-decoration: none;
+  margin-top: var(--space-xl);
+}
+
+.flag-circle-link:hover {
+  text-decoration: none;
+}
+
+.flag-circle-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flag-circle {
+  position: relative;
+  width: 280px;
+  height: 280px;
+  --fc-radius: 115px;
+  --fc-size: 24px;
+}
+
+.flag-circle-item {
+  position: absolute;
+  width: var(--fc-size);
+  height: var(--fc-size);
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  margin-left: calc(var(--fc-size) / -2);
+  margin-top: calc(var(--fc-size) / -2);
+  transform: rotate(var(--a)) translateY(calc(var(--fc-radius) * -1)) rotate(calc(var(--a) * -1));
+  object-fit: cover;
+  border: 1.5px solid rgba(255,255,255,0.4);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease;
+}
+
+.flag-circle-link:hover .flag-circle-item {
+  border-color: rgba(255,255,255,0.8);
+}
+
+.flag-circle-label {
+  text-align: center;
+  color: rgba(255,255,255,0.8);
+  font-size: var(--text-xs);
+  margin-top: var(--space-sm);
+  text-decoration: underline;
+}
+
+@media (min-width: 480px) {
+  .flag-circle {
+    width: 360px;
+    height: 360px;
+    --fc-radius: 150px;
+    --fc-size: 30px;
+  }
+}
+
 /* --- Featured Section Card --- */
 .featured-section {
   padding: var(--space-lg);
