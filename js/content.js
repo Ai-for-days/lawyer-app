@@ -39,6 +39,7 @@ const APP_CONTENT = {
 
         <h3>Key Phrases to Use</h3>
         <p>If you learn nothing else from this guide, learn these phrases:</p>
+        <p>Press the play button for law enforcement, if needed.</p>
         <ul class="key-phrases">
           <li><button class="phrase-play" data-audio="audio/am-i-free-to-go.m4a" aria-label="Play audio: Am I free to go?">&#9654;</button> Am I free to go?</li>
           <li><button class="phrase-play" data-audio="audio/i-do-not-consent-to-any-searches.m4a" aria-label="Play audio: I do not consent to any searches.">&#9654;</button> I do not consent to any searches.</li>
