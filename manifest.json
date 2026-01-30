@@ -1,6 +1,6 @@
 {
-  "name": "Remain Silent - Know Your Rights | McGuire Law",
-  "short_name": "Remain Silent",
+  "name": "LAWYER - Know Your Rights | McGuire Law",
+  "short_name": "LAWYER",
   "description": "Your complete guide to understanding and exercising your constitutional rights during police encounters. By McGuire Law.",
   "id": "/lawyer-app/",
   "start_url": "./index.html",
@@ -21,6 +21,12 @@
       "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
+    },
+    {
+      "src": "icons/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
       "src": "icons/maskable-512.png",
