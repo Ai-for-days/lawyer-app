@@ -495,62 +495,38 @@ ul, ol {
   opacity: 0.8;
 }
 
-/* --- Flag Rows (Hero) --- */
-.flag-rows-link {
+/* --- Flag Banner (Hero) --- */
+.flag-banner-link {
   display: block;
   text-decoration: none;
   margin-top: var(--space-xl);
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.flag-rows-link:hover {
+.flag-banner-link:hover {
   text-decoration: none;
 }
 
-.flag-rows {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 8px;
-  max-width: 500px;
-  margin: 0 auto;
+.flag-banner-img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.flag-rows-item {
-  width: 42px;
-  height: 28px;
-  border-radius: 3px;
-  object-fit: cover;
-  border: 1.5px solid rgba(255,255,255,0.4);
-  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
-  transition: transform 0.2s ease, border-color 0.2s ease;
+.flag-banner-link:hover .flag-banner-img {
+  transform: scale(1.02);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.4);
 }
 
-.flag-rows-link:hover .flag-rows-item {
-  border-color: rgba(255,255,255,0.8);
-}
-
-.flag-rows-item:hover {
-  transform: scale(1.15);
-}
-
-.flag-rows-label {
+.flag-banner-label {
   text-align: center;
   color: rgba(255,255,255,0.8);
   font-size: var(--text-xs);
   margin-top: var(--space-sm);
   text-decoration: underline;
-}
-
-@media (min-width: 480px) {
-  .flag-rows-item {
-    width: 48px;
-    height: 32px;
-  }
-
-  .flag-rows {
-    gap: 10px;
-    max-width: 600px;
-  }
 }
 
 /* --- Featured Section Card --- */
