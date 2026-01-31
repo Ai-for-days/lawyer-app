@@ -728,17 +728,20 @@ ul, ol {
   letter-spacing: 1px;
   opacity: 0.7;
   margin-bottom: var(--space-xs);
+  text-align: center;
 }
 
 .section-title {
   font-size: var(--text-2xl);
   font-weight: 700;
+  text-align: center;
 }
 
 .section-subtitle {
   font-size: var(--text-base);
   opacity: 0.85;
   margin-top: var(--space-xs);
+  text-align: center;
 }
 
 /* --- Section Body Content --- */
