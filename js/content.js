@@ -1385,7 +1385,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2283,7 +2283,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2331,7 +2331,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2380,7 +2380,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2428,7 +2428,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2488,7 +2488,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2537,7 +2537,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2583,7 +2583,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2640,7 +2640,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2690,7 +2690,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2738,7 +2738,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2794,7 +2794,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2838,7 +2838,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2900,7 +2900,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2950,7 +2950,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -2994,7 +2994,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3050,7 +3050,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3106,7 +3106,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3154,7 +3154,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3202,7 +3202,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3265,7 +3265,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3314,7 +3314,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3363,7 +3363,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3412,7 +3412,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3461,7 +3461,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3519,7 +3519,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3580,7 +3580,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3638,7 +3638,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3686,7 +3686,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3747,7 +3747,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3796,7 +3796,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3848,7 +3848,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3897,7 +3897,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3941,7 +3941,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -3993,7 +3993,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4038,7 +4038,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4087,7 +4087,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4150,7 +4150,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4218,7 +4218,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4271,7 +4271,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4321,7 +4321,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4371,7 +4371,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4415,7 +4415,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4478,7 +4478,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4522,7 +4522,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4584,7 +4584,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4635,7 +4635,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4678,7 +4678,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4722,7 +4722,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4772,7 +4772,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4820,7 +4820,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4869,7 +4869,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4917,7 +4917,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -4974,7 +4974,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -5034,7 +5034,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
@@ -5083,7 +5083,7 @@ const APP_CONTENT = {
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
           <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
-          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters. Write or print this out to slide under the door, if needed.</span>
         </div>
 
         <div class="callout">
