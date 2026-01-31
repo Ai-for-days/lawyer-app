@@ -1124,6 +1124,7 @@ const APP_CONTENT = {
           <li>Family members cannot be forced to interpret for police</li>
           <li>Have a rights card in your language</li>
         </ul>
+        <p><a href="#non-english-speakers"><strong>More information for Non-English Speakers HERE</strong></a></p>
 
         <h3>Protesters and Activists</h3>
         <ul>
