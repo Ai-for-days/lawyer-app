@@ -194,6 +194,7 @@
     return '<a href="#home" class="section-back">' +
         getIcon('arrow-left') + ' All Sections' +
       '</a>' +
+      '<div style="text-align:center;margin-bottom:var(--space-sm);"><img src="images/mcguire-logo.png" alt="McGuire Law" width="150"></div>' +
       '<div class="section-number">Section ' + section.number + '</div>' +
       '<h2 class="section-title">' + section.title + '</h2>' +
       (section.subtitle ? '<div class="section-subtitle">' + section.subtitle + '</div>' : '');
