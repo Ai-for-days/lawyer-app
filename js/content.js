@@ -1368,9 +1368,9 @@ const APP_CONTENT = {
       title: "Non-English Speakers",
       subtitle: "Multilingual Rights Information",
       icon: "globe",
-      keywords: ["language", "non-english", "spanish", "chinese", "vietnamese", "korean", "arabic", "french", "portuguese", "interpreter", "translation", "multilingual", "foreign", "fijian", "bengali", "abkhaz", "fiji", "bangladesh", "abkhazia"],
+      keywords: ["language", "non-english", "spanish", "chinese", "vietnamese", "korean", "arabic", "french", "portuguese", "interpreter", "translation", "multilingual", "foreign"],
       content: `
-        <img src="images/country-flags.png" alt="Flags of 40 Countries" style="width:100%;border-radius:8px;margin-bottom:var(--space-lg);">
+        <img src="images/country-flags.png" alt="Flags of 37 Countries" style="width:100%;border-radius:8px;margin-bottom:var(--space-lg);">
 
         <p>This section is for individuals in South Carolina who speak a language other than English. Your rights are the same regardless of what language you speak. You have the right to an interpreter during any law enforcement encounter.</p>
 
@@ -1419,9 +1419,6 @@ const APP_CONTENT = {
           <li><strong>Palauan</strong> \u2014 Palau</li>
           <li><strong>Kurdish</strong> \u2014 Iraq</li>
           <li><strong>Catalan</strong> \u2014 Spain</li>
-          <li><strong>Fijian</strong> \u2014 Fiji</li>
-          <li><strong>Bengali</strong> \u2014 Bangladesh</li>
-          <li><strong>Abkhaz</strong> \u2014 Abkhazia</li>
         </ul>
       `
     },
