@@ -1370,55 +1370,85 @@ const APP_CONTENT = {
       icon: "globe",
       keywords: ["language", "non-english", "spanish", "chinese", "vietnamese", "korean", "arabic", "french", "portuguese", "interpreter", "translation", "multilingual", "foreign"],
       content: `
-        <img src="images/country-flags.png" alt="Flags of 37 Countries" style="width:100%;border-radius:8px;margin-bottom:var(--space-lg);">
-
-        <p>This section is for individuals in South Carolina who speak a language other than English. Your rights are the same regardless of what language you speak. You have the right to an interpreter during any law enforcement encounter.</p>
+        <img src="images/country-flags.png" alt="Flags of 40 Countries" style="width:100%;border-radius:8px;margin-bottom:var(--space-lg);">
 
         <div class="callout callout-critical">
-          <h4>Remember</h4>
-          <p>You have the right to an interpreter. Do not sign any documents you cannot read or understand. You can remain silent in any language. If you need legal help, call McGuire Law at <a href="tel:+18884995738">(888) 499-5738</a>.</p>
+          <h4>You have constitutional rights:</h4>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
         </div>
 
-        <h3>Languages by Country of Origin</h3>
-        <p>The following languages are spoken by immigrants from countries commonly represented in South Carolina:</p>
+        <div class="callout">
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <h3>Red Cards in Other Languages</h3>
+        <p>Select a language below to view the Red Card in that language:</p>
         <ul>
-          <li><strong>Spanish</strong> \u2014 Mexico, Cuba, Dominican Republic, El Salvador, Colombia, Venezuela, Honduras, Spain</li>
-          <li><strong>Portuguese</strong> \u2014 Brazil</li>
-          <li><strong>French</strong> \u2014 France, Haiti, Canada</li>
-          <li><strong>Haitian Creole</strong> \u2014 Haiti</li>
-          <li><strong>Hindi</strong> \u2014 India</li>
-          <li><strong>Bengali</strong> \u2014 India</li>
-          <li><strong>Telugu</strong> \u2014 India</li>
-          <li><strong>Tamil</strong> \u2014 India</li>
-          <li><strong>Gujarati</strong> \u2014 India</li>
-          <li><strong>Urdu</strong> \u2014 Pakistan, India</li>
-          <li><strong>Punjabi</strong> \u2014 Pakistan, India</li>
-          <li><strong>Sindhi</strong> \u2014 Pakistan</li>
-          <li><strong>Mandarin Chinese</strong> \u2014 China, Taiwan</li>
-          <li><strong>Cantonese</strong> \u2014 Hong Kong, China</li>
-          <li><strong>Taiwanese Hokkien</strong> \u2014 Taiwan</li>
-          <li><strong>Filipino (Tagalog)</strong> \u2014 Philippines</li>
-          <li><strong>Vietnamese</strong> \u2014 Vietnam</li>
-          <li><strong>Dari (Afghan Persian)</strong> \u2014 Afghanistan</li>
-          <li><strong>Pashto</strong> \u2014 Afghanistan, Pakistan</li>
-          <li><strong>Jamaican Patois</strong> \u2014 Jamaica</li>
-          <li><strong>Hausa</strong> \u2014 Nigeria</li>
-          <li><strong>Yoruba</strong> \u2014 Nigeria</li>
-          <li><strong>Igbo</strong> \u2014 Nigeria</li>
-          <li><strong>Korean</strong> \u2014 South Korea</li>
-          <li><strong>Russian</strong> \u2014 Russia</li>
-          <li><strong>Persian (Farsi)</strong> \u2014 Iran</li>
-          <li><strong>Ukrainian</strong> \u2014 Ukraine</li>
-          <li><strong>Arabic</strong> \u2014 Egypt, Iraq, Saudi Arabia, United Arab Emirates</li>
-          <li><strong>Turkish</strong> \u2014 Turkey</li>
-          <li><strong>Japanese</strong> \u2014 Japan</li>
-          <li><strong>Hebrew</strong> \u2014 Israel</li>
-          <li><strong>Polish</strong> \u2014 Poland</li>
-          <li><strong>Romanian</strong> \u2014 Romania</li>
-          <li><strong>Swedish</strong> \u2014 Sweden</li>
-          <li><strong>Palauan</strong> \u2014 Palau</li>
-          <li><strong>Kurdish</strong> \u2014 Iraq</li>
-          <li><strong>Catalan</strong> \u2014 Spain</li>
+          <li><a href="#red-card-amharic"><strong>Amharic (አማርኛ)</strong></a></li>
+          <li><a href="#red-card-arabic"><strong>Arabic (العربية)</strong></a></li>
+          <li><a href="#red-card-armenian"><strong>Armenian (Հայերեն)</strong></a></li>
+          <li><a href="#red-card-bangla"><strong>Bangla</strong></a></li>
+          <li><a href="#red-card-bosnian"><strong>Bosnian</strong></a></li>
+          <li><a href="#red-card-burmese"><strong>Burmese</strong></a></li>
+          <li><a href="#red-card-cantonese"><strong>Cantonese</strong></a></li>
+          <li><a href="#red-card-cape-verdean-creole"><strong>Cape Verdean Creole</strong></a></li>
+          <li><a href="#red-card-cebuano"><strong>Cebuano</strong></a></li>
+          <li><a href="#red-card-chinese-simplified"><strong>Chinese (Simplified) (中文(简体))</strong></a></li>
+          <li><a href="#red-card-chinese-traditional"><strong>Chinese (中文(繁體))</strong></a></li>
+          <li><a href="#red-card-dari"><strong>Dari</strong></a></li>
+          <li><a href="#red-card-french"><strong>French (Français)</strong></a></li>
+          <li><a href="#red-card-georgian"><strong>Georgian</strong></a></li>
+          <li><a href="#red-card-greek"><strong>Greek</strong></a></li>
+          <li><a href="#red-card-haitian-creole"><strong>Haitian Creole (Kreyòl Ayisyen)</strong></a></li>
+          <li><a href="#red-card-hausa"><strong>Hausa</strong></a></li>
+          <li><a href="#red-card-hebrew"><strong>Hebrew</strong></a></li>
+          <li><a href="#red-card-hindi"><strong>Hindi</strong></a></li>
+          <li><a href="#red-card-hmong"><strong>Hmong</strong></a></li>
+          <li><a href="#red-card-igbo"><strong>Igbo</strong></a></li>
+          <li><a href="#red-card-ilocano"><strong>Ilocano</strong></a></li>
+          <li><a href="#red-card-japanese"><strong>Japanese (日本語)</strong></a></li>
+          <li><a href="#red-card-karen"><strong>Karen</strong></a></li>
+          <li><a href="#red-card-khmer"><strong>Khmer (ភាសាខ្មែ)</strong></a></li>
+          <li><a href="#red-card-kinyarwanda"><strong>Kinyarwanda</strong></a></li>
+          <li><a href="#red-card-korean"><strong>Korean (한국어)</strong></a></li>
+          <li><a href="#red-card-lao"><strong>Lao</strong></a></li>
+          <li><a href="#red-card-lingala"><strong>Lingala</strong></a></li>
+          <li><a href="#red-card-marshallese"><strong>Marshallese</strong></a></li>
+          <li><a href="#red-card-mongolian"><strong>Mongolian</strong></a></li>
+          <li><a href="#red-card-nahuatl"><strong>Nahuatl</strong></a></li>
+          <li><a href="#red-card-nepali"><strong>Nepali</strong></a></li>
+          <li><a href="#red-card-oromo"><strong>Oromo</strong></a></li>
+          <li><a href="#red-card-pashto"><strong>Pashto</strong></a></li>
+          <li><a href="#red-card-polish"><strong>Polish</strong></a></li>
+          <li><a href="#red-card-portuguese"><strong>Portuguese (Português)</strong></a></li>
+          <li><a href="#red-card-punjabi"><strong>Punjabi (ਪੰਜਾਬੀ)</strong></a></li>
+          <li><a href="#red-card-romanian"><strong>Romanian</strong></a></li>
+          <li><a href="#red-card-russian"><strong>Russian (Русский)</strong></a></li>
+          <li><a href="#red-card-samoan"><strong>Samoan</strong></a></li>
+          <li><a href="#red-card-somali"><strong>Somali</strong></a></li>
+          <li><a href="#red-card-spanish"><strong>Spanish (Español)</strong></a></li>
+          <li><a href="#red-card-swahili"><strong>Swahili</strong></a></li>
+          <li><a href="#red-card-tagalog"><strong>Tagalog</strong></a></li>
+          <li><a href="#red-card-tamil"><strong>Tamil</strong></a></li>
+          <li><a href="#red-card-thai"><strong>Thai (ภาษาไทย)</strong></a></li>
+          <li><a href="#red-card-tigrinya"><strong>Tigrinya</strong></a></li>
+          <li><a href="#red-card-tsotsil"><strong>Tsotsil</strong></a></li>
+          <li><a href="#red-card-turkish"><strong>Turkish</strong></a></li>
+          <li><a href="#red-card-ukrainian"><strong>Ukrainian</strong></a></li>
+          <li><a href="#red-card-urdu"><strong>Urdu (اردو)</strong></a></li>
+          <li><a href="#red-card-vietnamese"><strong>Vietnamese (Tiếng-Việt)</strong></a></li>
+          <li><a href="#red-card-yoruba"><strong>Yoruba</strong></a></li>
+          <li><a href="#red-card-farsi"><strong>فارسی / Farsi</strong></a></li>
         </ul>
       `
     },
@@ -2043,6 +2073,2687 @@ const APP_CONTENT = {
         <p>Si desea compartir esta informaci\u00f3n con otros, hemos creado material visual que puede descargar y compartir en las redes sociales. Tambi\u00e9n hemos creado im\u00e1genes que puede descargar a su tel\u00e9fono y poner como fondo de pantalla (lock screen) para que sin tener que desbloquear su tel\u00e9fono pueda ver f\u00e1cilmente sus derechos si la polic\u00eda o ICE lo detienen.</p>
 
         <p><em>Cortes\u00eda de la ACLU</em></p>
+      `
+    }
+    ,{
+      id: "red-card-amharic",
+      number: 26,
+      title: "Amharic (አማርኛ)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["amharic", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Amharic (አማርኛ)</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>ሕገ መንግሥታዊ መብት አሎት፡-</p>
+        <p>የኢሚግሬሽን ወኪሎች  በሮን ሲያንኳኩ በሩ ን አይክፈቱ።</p>
+        <p>የኢሚግሬሽን ወኪሎች እርስዎን ለማነጋገር ከሞከሩ ምንም ዓይነት ጥያቄ አይመልሱላቸው</p>
+        <p>። ዝም የማለት መብት አሎት።</p>
+        <p>መጀመሪያ ጠበቃን ሳያናግሩ ምንም ነገር አይፈርሙ። ከጠበቃ ጋር የመነጋገር መብት</p>
+        <p>አሎት።</p>
+        <p>ከቤትዎ ውጭ ከሆኑ፣ ለመሄድ ነፃ እ ንደሆኑ የኢሚግሬሽን ወኪሎቹን ይጠይቁ እና አዎ ካሉ፣</p>
+        <p>በእርጋታ ይሂዱ።</p>
+        <p>ይህንን ካርድ ለወኪሉ ይስጡት። በቤትዎ ውስጥ ከሆኑ, ካርዱን በመስኮቱ በኩል ያሳዩ</p>
+        <p>ወይም በበሩ ስር ያንሸራትቱ.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-arabic",
+      number: 27,
+      title: "Arabic (العربية)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["arabic", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Arabic (العربية)</h4>
+        <p>لديك حقوق دستورية</p>
+        <p>لا تفتح الباب إذا كان شرطي الهجرة يطرق الباب. •</p>
+        <p>لا تجيب على أي أسئلة يسئلها شرطة الهجرة إذا حاولوا التحدث إليك. لديك الحق •</p>
+        <p>في التزام الصمت.</p>
+        <p>لا توقع أي شيء دون التحدث  أولا إلى محامي. لك الحق في التحدث الى محامي.•</p>
+        <p>إذا کنت خارج بیتك، اسأل الشرطي إذا کان لدیك حریة المغادرة، وإذا قال نعم، •</p>
+        <p>غادر بهدوء.</p>
+        <p>أعطي هذه البطاقة للشرطي. إذا كنت داخل منزلك، اعرض البطاقة من خلال •</p>
+        <p>النافذة أو مررها من تحت الباب.</p>
+        <p>لديك حقوق دستورية:</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-armenian",
+      number: 28,
+      title: "Armenian (Հայերեն)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["armenian", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Armenian (Հայերեն)</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Դուք սահմանադրական իրավունքներ ունեք։</p>
+        <p>ՄԻ՛ ԲԱՑԵՔ ԴՈՒՌԸ եթե ներգաղթի գործակալը թակում է ձեր դուռը։</p>
+        <p>ՄԻ՛ ՊԱՏԱՍԽԱՆԵՔ ներգաղթի գործակալի ՈՉ ՄԻ ՀԱՐՑԻ եթե նրանք</p>
+        <p>փորձեն խոսել ձեզ հետ։ Դուք իրավունք ունեք լուռ մնալու։</p>
+        <p>ՄԻ՛ ՍՏՈՐԱԳՐԵՔ ՈՉ ՄԻ ԲԱՆ առանց նախապես խոսելու ձեր</p>
+        <p>իրավաբանի հետ։ Դուք իրավունք ունեք իրավաբանի հետ խոսելու։</p>
+        <p>Եթե դուք ձեր տնից դուրս եք, հարցրե՛ք ներգաղթի գործակալին եթե</p>
+        <p>ազատ եք հեռանալու. եթե նրանք ասեն «այո», հանդարտ կերպով</p>
+        <p>հեռացե՛ք։</p>
+        <p>ՏՎԵ՛Ք ԱՅՍ ԹՈՒՂԹԸ ԳՈՐԾԱԿԱԼԻՆ։ Եթե ձեր տան ներսում եք, նրանց</p>
+        <p>ցույց տվե՛ք այս թուղթը պատուհանից կամ սահեցրե՛ք դռան ներքեվից։</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-bangla",
+      number: 29,
+      title: "Bangla",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["bangla", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Bangla</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>আপনার যে সকল সাংবিধাবনক অবধকার আছে:</p>
+        <p>েবি যকাছনা অবিিাসন এছেন্্ট িরোয় কড়া নাছড় তাহছল দরজা খুলবেন না।</p>
+        <p>অবিিাসন এছেন্্ট েবি আপনার সাছে কো িলার যেষ্্টা কছরন তাহছল তাছির</p>
+        <p>কো�াবনা প্্রব্ননর উত্তর কোদবেন না। আপনার নীরি োকার অবধকার আছে।</p>
+        <p>প্রেছে আইনেীিীর সাছে কো না িছল কো�াবনা ক�ছুবে স্্বাক্ষর �রবেন না।</p>
+        <p>আপনার একেন আইনেীিীর সাছে কো িলার অবধকার আছে।</p>
+        <p>আপবন েবি আপনার িাবড়র বিতছর োছকন, তাহছল এছেন্্টছক জেজ্াসা করুন যে,</p>
+        <p>আপবন যেছত পারছিন বকনা; েবি তারা হ্যযাা িছল, তাহছল শান্তিাছি েছল োন।</p>
+        <p>এবজন্্টব� এই �ার্ ্ড টি কদন। েবি আপবন আপনার িাবড়র বিতছর োছকন তছি</p>
+        <p>কার্ ্ড টি োনালা বিছয় যিখান এিং িরোর বনে বিছয় িাইছর বিন।</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-bosnian",
+      number: 30,
+      title: "Bosnian",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["bosnian", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Bosnian</h4>
+        <p>Imate ustavna prava:</p>
+        <ul>
+          <li>NEMOJTE OTVARATI VRATA ako Vam imigracijski službenik kuca</li>
+        </ul>
+        <p>na vrata.</p>
+        <ul>
+          <li>NEMOJTE ODGOVARATI NI NA JEDNO PITANJE imigracijskog</li>
+        </ul>
+        <p>službenika ako pokušava da razgovara s Vama. Imate pravo da</p>
+        <p>ćutite.</p>
+        <ul>
+          <li>NEMOJTE NIŠTA POTPISIVATI prije nego što razgovarate sa</li>
+        </ul>
+        <p>advokatom. Imate pravo da razgovarate sa advokatom.</p>
+        <ul>
+          <li>Ako ste van svog doma, pitajte službenika da li smijete da odete.</li>
+        </ul>
+        <p>Ako kaže da smijete, udaljite se mirno.</p>
+        <ul>
+          <li>DAJTE OVU KARTICU SLUŽBENIKU. Ako ste u svom domu,</li>
+        </ul>
+        <p>pokažite karticu kroz prozor ili je provucite ispod vrata.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-burmese",
+      number: 31,
+      title: "Burmese",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["burmese", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Burmese</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>သင့််�တွွင့်� ဖွဲ့့�စည်း��ပုံံ�အခြေ�ေေံဥပုံခြေ�ဆိုု�င့်�ရာာ အေွင့််�အခြေရာ�များ�ာ� ရှိိုပုံါသည်း�</p>
+        <p>လူူဝင့်�များုကြီး�း�ကြ�ပုံ�ခြေရာ� အရာာရှိို� တွ ံေါ�လူာခြေေါ��လူှင့်� များဖွဲ့ွင့််�ခြေပုံ�ပုံါနှိင့််�။</p>
+        <p>သင့််�� ု� စ�ာ�ခြေ�ပုံာဆိုု�ရာန်�ကြီး�ု��ပုံများ��လူာပုံါ� များည်း�သည်း်�ခြေများ�ေွန်��� ု�များှ �ပုံန်�လူည်း�ခြေ�ဖွဲ့ကြ�ာ��ေင့်�� များ</p>
+        <p>�ပုံ�လူ�ပုံ�ပုံါနှိင့််�။ သင့််�တွွင့်� နှိ�တွ�ဆိုုတွ�ခြေန်ပုံု�င့်�ေွင့််�ရှိိုပုံါသည်း�။</p>
+        <p>ခြေရှိိ�ခြေန်တွစ�ဦး�တွစ�ခြေ�ာ��နှိင့််� ဦး�စွာတွု�င့်�ပုံင့်��ေင့်��များရှိိုဘဲ� များည်း�သည်း်�အရာာ�ု�များှ လူ��များိတွ�များထိုးု��ပုံါ</p>
+        <p>နှိင့််�။ သင့််�တွွင့်� ခြေရှိိ�ခြေန်တွစ�ဦး�တွစ�ခြေ�ာ��နှိင့််� ခြေ�ပုံာဆိုု�တွု�င့်�ပုံင့်�ပုံု�င့်�ေွင့််� ရှိိုပုံါသည်း�။</p>
+        <p>ခြေန်အုများ��ပုံင့်�ပုံသု�ခြေရာာ��ရှိိုခြေန်ပုံါ� အရာာရှိိုအာ� သင့်� လူွပုံ�လူပုံ�စွာထိုးွ��ေွာသွာ�ေ ွင့််� ရှိိုများရှိို ခြေများ��များန်��</p>
+        <p>ပုံါ။ ထိုးွ��ေွာသွာ�ေ ွင့််�ရှိိုပုံါ� ခြေအ�ခြေဆို�စွာ ထိုးွ��ေွာသွာ�ပုံါ။</p>
+        <p>ဤ����ပုံာ�အာ� အရာာရှိို� ု� �ပုံသပုံါ။ အ��� ၍ သင့်�သည်း� အုများ�ထိုး�တွွင့်�ရှိိုခြေန်ပုံါ� ဤ����ပုံာ�</p>
+        <p>အာ� �ပုံူတွင့်��ခြေပုံါ��များိတွစ�ဆိုင့််��ပုံသပုံါ၊ သု�များဟု�တွ� တွံေါ�ခြေအာ��များိတွစ�ဆိုင့််� ထိုး�တွ�ခြေပုံ�၍ �ပုံသ</p>
+        <p>ပုံါ။</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-cantonese",
+      number: 32,
+      title: "Cantonese",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["cantonese", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Cantonese</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>你享有憲法所賦予的權利：</p>
+        <p>如果移民官員喺門外敲門，請唔好開門。</p>
+        <p>如果移民官員試圖和你交談，請唔好回答任何問題。 你有權保持沉默。</p>
+        <p>喺未諮詢律師嘅情況下，請唔好簽署任何文件。 你有權同律師溝通。</p>
+        <p>如果你喺屋企以外嘅地方， 請詢問移民官員你係咪可以離開， 如果佢哋回答</p>
+        <p>「可以」 ， 請冷靜離開。</p>
+        <p>請將此卡片交畀移民官員。 如果你喺屋企入面， 你可以通過窗口展示卡片，</p>
+        <p>或由門下遞出卡片。</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-cape-verdean-creole",
+      number: 33,
+      title: "Cape Verdean Creole",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["cape verdean creole", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Cape Verdean Creole</h4>
+        <p>Bu ten direitu konstitusional:</p>
+        <ul>
+          <li>KA BU ABRI PORTA si ajenti di imigrason konkôu na pórta .</li>
+          <li>KA BU RUSPONDI NINHUN PURGUNTA di ajenti di</li>
+        </ul>
+        <p>imigrason ses tenta pâpia ku bo. Bu ten direitu di fika en</p>
+        <p>silénsiu.</p>
+        <ul>
+          <li>KA BU SINA NADA sen prumeru antis pâpia ku un</li>
+        </ul>
+        <p>adivogadu. Bu ten direitu di pâpia ku un adivogadu.</p>
+        <ul>
+          <li>Si bu sta fora di bu kasa, purgunta ajenti si bu sta livri pa</li>
+        </ul>
+        <p>bu bai si é fla sin, bai na mansu.</p>
+        <ul>
+          <li>DA AJENTI KEL KARTON LI. Si bu sta dentu di bu kasa,</li>
+        </ul>
+        <p>mostral karton pa janela ô pasal pa baxu porta.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-cebuano",
+      number: 34,
+      title: "Cebuano",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["cebuano", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Cebuano</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Ang Konstitusyon naghatag kanimo ug mga katungod:</p>
+        <p>AYAW ABRIHI ANG PULTAHAN kon ang usa ka ahente sa imigrasyon magtuktok sa</p>
+        <p>pultahan.</p>
+        <p>AYAW TUBAGA ANG BISAN UNSANG MGA PANGUTANA gikan sa ahente sa</p>
+        <p>imigrasyon kon sila mosulay sa pagpakigsulti kanimo. Aduna kay katungod nga</p>
+        <p>magpabilin nga hilom.</p>
+        <p>AYAW PAGPIRMA SA BISAN UNSANG DOKUMENTO nga wala una makig-estorya</p>
+        <p>sa usa ka abogado. Ikaw adunay katungod sa pagkonsulta sa usa ka abogado.</p>
+        <p>Kon ikaw anaa sa gawas sa imong balay, pangutan-a ang ahente kon mahimo ka na</p>
+        <p>ba nga mobiya, ug kon sila moingon nga oo, mobiya ka nga malinawon.</p>
+        <p>IHATAG KINI NGA KARD NGADTO SA AHENTE. Kon anaa ka sa sulod sa imong</p>
+        <p>balay, ipakita ang kard diha sa bintana o isuksok kini sa ilawom sa pultahan.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-chinese-simplified",
+      number: 35,
+      title: "Chinese (Simplified) (中文(简体))",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["chinese", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Chinese (Simplified) (中文(简体))</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>您拥有宪法赋予的权力：</p>
+        <p>如果移民调查员敲门，不要开门。</p>
+        <p>如果移民调查员试图与您交谈，不要回答任何问题。</p>
+        <p>您有权保持沉默。</p>
+        <p>在跟律师沟通前，不要签署任何文件。 您有权要求跟</p>
+        <p>律师谈话。</p>
+        <p>如果您在户外， 询问调查员您是否可以离开。 如果他</p>
+        <p>们说可以， 请冷静离开。</p>
+        <p>将此卡片交给调查员。 如果您在家中， 请通过窗户展</p>
+        <p>示这张卡片或将其从门缝下递出。</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-chinese-traditional",
+      number: 36,
+      title: "Chinese (中文(繁體))",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["chinese", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Chinese (中文(繁體))</h4>
+        <p>你有以下憲法賦與的權利：</p>
+        <ul>
+          <li>如移民局人員敲門，不要開門。</li>
+          <li>如移民局人員想和你交談，不要回答任何問題。你有</li>
+        </ul>
+        <p>權保持緘默。</p>
+        <ul>
+          <li>未和律師諮詢之前，不要簽署任何文件。你有權和一</li>
+        </ul>
+        <p>名律師交談。</p>
+        <ul>
+          <li>如你在家外面，問移民局人員你是否可以離開，如他</li>
+        </ul>
+        <p>們答可以,請鎮靜地離開。</p>
+        <ul>
+          <li>出示此卡給移民局人員看。如你在家裡。可在窗口或</li>
+        </ul>
+        <p>門下面遞出去給他們看。</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-dari",
+      number: 37,
+      title: "Dari",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["dari", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Dari</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>:شما حقوق قانونی دارید</p>
+        <p>. یک مأمور مهاجرت بر دروازه شما می کوبد دروازه را باز نکنید اگر</p>
+        <p>. اگر یک مأمور مهاجرت تلاش کند با شما صحبت کند. شما حقبه هیچ سوالی پاسخ ندهید دارید که سکوت کنید</p>
+        <p>. بدون این که ابتدا با یک وکیل صحبت کنید. شما حق دارید که با یک هیچ چیزی را امضا نکنید وکیل مشورت کنید</p>
+        <p>.اگر بیرون از خانه خود هستید، از مأمور بپرسید که آیا شما آزاد هستید که بروید. اگر بگوید بلی،  آرام محل را ترک کنید</p>
+        <p>. اگر در داخل خانه خود هستید، کارت را از طریق کلکین نشاناین کارت را به مأمور بدهید. دهید یا آنرا از زیر دروازه بفرستید</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-french",
+      number: 38,
+      title: "French (Français)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["french", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>French (Français)</h4>
+        <p>La constitution des États-Unis vous donne des droits :</p>
+        <ul>
+          <li>Si un agent d’immigration frappe chez vous, N’OUVREZ</li>
+        </ul>
+        <p>PAS LA PORTE.</p>
+        <ul>
+          <li>Si un agent d’immigration essaie de vous parler, NE</li>
+        </ul>
+        <p>REPONDEZ PAS A SES QUESTIONS. Vous avez le droit</p>
+        <p>de garder le silence.</p>
+        <ul>
+          <li>NE SIGNEZ RIEN sans avoir d’abord consulté un avocat.</li>
+        </ul>
+        <p>Vous avez le droit de parler à un avocat.</p>
+        <ul>
+          <li>Si vous êtes à l’extérieur, demandez à l’agent d’immigration</li>
+        </ul>
+        <p>si vous pouvez partir librement, et si l’agent vous dit oui,</p>
+        <p>partez calmement.</p>
+        <ul>
+          <li>DONNEZ CETTE CARTE À L’AGENT. Si vous êtes chez</li>
+        </ul>
+        <p>vous, montrez-lui la carte à la fenêtre ou glissez-la sous la</p>
+        <p>porte.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-georgian",
+      number: 39,
+      title: "Georgian",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["georgian", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Georgian</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>თქვენ გაქვთ კონსტიტუციური უფლებები:</p>
+        <p>არ გააღოთ კარები თუკი საიმიგრაციო აგენტი კარებზე</p>
+        <p>აკაკუნებს.</p>
+        <p>არ უპასუხოთ შეკითხვებზე საიმიგრაციო აგენტს, თუკი ის</p>
+        <p>თქვენთან საუბარს ცდილობს. თქვენ გაქვთ დუმილის უფლება.</p>
+        <p>იურისტთან გასაუბრებამდე არ მოაწეროთ ხელი არაფერს.</p>
+        <p>თქვენ გაქვთ იურისტთან საუბრის უფლება.</p>
+        <p>თუ სახლში არ იმყოფებით, ჰკითხეთ აგენტს თუკი შეგიძლიათ</p>
+        <p>წასვლა და თუ გეტყვიან რომ შეგიძლიათ, მშვიდად დატოვეთ</p>
+        <p>ადგილი.</p>
+        <p>მიეცით ეს ბარათი აგენტს. თუ სახლში იმყოფებით, აჩვენეთ ეს</p>
+        <p>ბარათი მას ფანჯრიდან ან გააცურეთ კარების ქვეშ.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-greek",
+      number: 40,
+      title: "Greek",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["greek", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Greek</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Έχετε συνταγματικά δικαιώματα:</p>
+        <p>ΜΗΝ ΑΝΟΙΞΕΤΕ ΤΗΝ ΠΟΡΤΑ εάν ένας πράκτορας μετανάστευσης χτυπήσει την πόρτα.</p>
+        <p>ΜΗΝ ΑΠΑΝΤΗΣΕΤΕ ΣΕ ΟΠΟΙΑΔΗΠΟΤΕ ΕΡΩΤΗΣΗ ενός πράκτορα μετανάστευσης εάν προσπαθήσει να σας μιλήσει. Έχετε το δικαίωμα να παραμείνετε σιωπηλοί.</p>
+        <p>ΜΗΝ ΥΠΟΓΡΆΨΕΤΕ ΤΙΠΟΤΑ χωρίς να μιλήσετε πρώτα σε δικηγόρο. Έχετε το δικαίωμα να μιλήσετε με δικηγόρο.</p>
+        <p>Εάν βρίσκεστε έξω από το σπίτι σας, ρωτήστε τον πράκτορα αν είστε ελεύθεροι να φύγετε, και αν σας πουν ναι, φύγετε ήρεμα.</p>
+        <p>ΔΩΣΤΕ ΑΥΤΗ ΤΗΝ ΚΑΡΤΑ ΣΤΟΝ ΠΡΑΚΤΟΡΑ. Εάν βρίσκεστε μέσα στο σπίτι σας, δείξτε την κάρτα από το παράθυρο ή περάστε την κάτω από την πόρτα.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-haitian-creole",
+      number: 41,
+      title: "Haitian Creole (Kreyòl Ayisyen)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["haitian creole", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Haitian Creole (Kreyòl Ayisyen)</h4>
+        <p>Ou gen dwa konstitisyonèl:</p>
+        <ul>
+          <li>PA LOUVRI PÒT la si yon ajan imigrasyon frape pòt la.</li>
+          <li>PA REPONN OKENN KEKSYON yon ofisye imigrasyon</li>
+        </ul>
+        <p>si yo eseye pale avèk ou. Ou gen dwa pou rete an silans.</p>
+        <ul>
+          <li>PA SIYEN ANYEN san w’ pa pale anvan avèk yon</li>
+        </ul>
+        <p>avoka. Ou gen dwa pale ak yon avoka.</p>
+        <ul>
+          <li>Si w’ deyò lakay ou, mande ajan an si w’ lib pou ale epi</li>
+        </ul>
+        <p>si yo di wi, ale avèk kalm.</p>
+        <ul>
+          <li>BAY AJAN KAT SA. Si ou anndan lakay ou, montre kat</li>
+        </ul>
+        <p>la nan fenèt la oswa glise li anba pòt la.1</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-hausa",
+      number: 42,
+      title: "Hausa",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["hausa", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Hausa</h4>
+        <p>Kana da haƙƙin tsarin mulki:</p>
+        <ul>
+          <li>KADA KA BUDE KOFAR idan wakilin shige da fice yana buga kofa.</li>
+          <li>KADA KA AMSA KOWANE TAMBAYOYI daga wakilin shige da fice</li>
+        </ul>
+        <p>idan sun yi ƙoƙarin yin magana da kai. Kana da damar yin shiru.</p>
+        <ul>
+          <li>KADA KA SA HANNU A KOMAI ba tare da fara magana da lauya</li>
+        </ul>
+        <p>ba. Kana da damar yin magana da lauya.</p>
+        <ul>
+          <li>Idan kana waje da gidan ka, tambayi wakilin idan kana da ‘yancin</li>
+        </ul>
+        <p>tafiya kuma idan sun ce eh, ka tafi a cikin nutsuwa.</p>
+        <ul>
+          <li>BADA WANNAN KATIN GA WAKILI. Idan kana cikin gidanka, nuna</li>
+        </ul>
+        <p>katin ta taga ko ka tura shi ta ƙarƙashin ƙofar.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-hebrew",
+      number: 43,
+      title: "Hebrew",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["hebrew", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Hebrew</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>:יש לך זכויות חוקתיות</p>
+        <p>.אם סוכן מטעם רשות ההגירה נוקש על דלתך, אל תפתח את הדלת</p>
+        <p>אם סוכן מטעם רשות ההגירה מנסה לשוחח איתך, אל תענה על אף</p>
+        <p>.שאלה. שמורה לך הזכות לשמור על שתיקה</p>
+        <p>אל תחתום על דבר לפני שיתאפשר לך לשוחח עם עורך דין. שמורה לך</p>
+        <p>.הזכות לשיחה עם עורך דין</p>
+        <p>אם הנך מחוץ לביתך, תשאל את סוכן רשות ההגירה אם הנך חופשי/ה</p>
+        <p>.לעזוב, ואם כן, פשוט עזוב/י את הבית בשלווה</p>
+        <p>תנ/י כרטיס זה לסוכן ההגירה. אם הנך בתוך ביתך, באפשרותך להציג</p>
+        <p>.כרטיס זה מבעד לחלון הבית או להעביר אותו מתחת לדלת הבית</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-hindi",
+      number: 44,
+      title: "Hindi",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["hindi", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Hindi</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>आपके े  पास संवैैधाानि�के अनिधाकेार हैंं:</p>
+        <p>अगर कोोई इमि�ग्रेेशन एजेंंट दरवााज़ाा खटखटा रहाा हाै तोो दरवााज़ाा न खोलेंं।</p>
+        <p>अगर कोोई इमि�ग्रेेशन एजेंंट आपसेे बाातो कोरने कोी कोोशिशश कोरतोा हाै तोो उसेकोे  किकोसेी भीी</p>
+        <p>सेवाालेंकोा जेंवााबा न दं। आपकोो चुुप रहाने कोा अमि�कोार हाै।</p>
+        <p>वाकोीलें सेे बाातो किकोए किबाना किकोसेी भीी दस्तोावाेज़ा पर हास्तोाक्षर न कोरं। आपकोो वाकोीलें सेे बाातो</p>
+        <p>कोरने कोा अमि�कोार हाै।</p>
+        <p>अगर आप अपने घरसेे बााहार हां, तोो एजेंंट सेे पूछेंं किको क्याा आप बााहार जेंाने कोे  शिलेंए स्वातोंत्र हां</p>
+        <p>और अगर वाे हाा� कोहातोे हां, तोो शांकितो सेे बााहार किनकोलेंं।</p>
+        <p>याहा कोार्डड एजेंंट कोो दं। अगर आप अपने घर कोे  अंदर हां, तोो कोार्डड कोो खिखड़कोी सेे दिदखाए� याा</p>
+        <p>दरवााज़ाे कोे  नीचुे सेरकोा दं।</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-hmong",
+      number: 45,
+      title: "Hmong",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["hmong", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Hmong</h4>
+        <p>Koj muaj cai los ntawm tug txhooj lij choj:</p>
+        <ul>
+          <li>TSIS TXHOB QHIB QHOV ROOJ li yog thaum muaj ib tus tib neeg</li>
+        </ul>
+        <p>sawv cev tsoom fwv immigration tuaj khob qhov rooj.</p>
+        <ul>
+          <li>TSIS TXHOB TEB IB NQI LUS NUG LI yog muaj ib tus tib neeg sawv</li>
+        </ul>
+        <p>cev tsoom fwv immigration xav nrog koj tham. Koj yeej muaj cai nyob</p>
+        <p>twb ywm tsis hais lus.</p>
+        <ul>
+          <li>TSIS TXHOB KOS NPE RAU DAB TSI LI yog thaum koj tseem tsis</li>
+        </ul>
+        <p>tau nrog ib tug kws lij choj tham. Koj yeej muaj cai nrog ib tug kws lij</p>
+        <p>choj hais lus.</p>
+        <ul>
+          <li>Yog tias koj nyob nraum zoov ntawm koj lub tsev, koj yuav tau nug tus</li>
+        </ul>
+        <p>tib neeg sawv cev tsoom fwv immigration ntawd seb koj mus puas tau.</p>
+        <p>Yog lawv teb tias mus tau, ces maj mam mus.</p>
+        <ul>
+          <li>MUAB DAIM NPAV (DAIM PHIAJ) RAU TUS TIB NEEG SAWV CEV</li>
+        </ul>
+        <p>TSOOM FWV. Yog tias koj nyob hauv tsev, tes muab daim npav tsa ntawm</p>
+        <p>lub qhov rais kom nws pom los yog muab ntxig hauv qab qhov rooj mus.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-igbo",
+      number: 46,
+      title: "Igbo",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["igbo", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Igbo</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Ị nwere ikike iwu obodo</p>
+        <p>EMEGHELA ỤZỌ ma ọ bụrụ na onye ọrụ mbata na ọpụpụ na-akụ aka</p>
+        <p>n’ ọnụ ụzọ.</p>
+        <p>AZALA AJỤJỤ Ọ BỤLA: sitere n’ aka onye ọrụ mbata na ọpụpụ ma ọ</p>
+        <p>bụrụ na ha nwaa ịgwa gị okwu. Ị nwere ikike ịgbachi nkịtị.</p>
+        <p>ABỊANYELA AKA N’ IHE na-ebughị ụzọ gwa onye ọka iwu okwu. Ị</p>
+        <p>nwere ikike ịgwa onye ọka iwu okwu.</p>
+        <p>Ọ bụrụ na ịnọ n’ èzí ụlọ gị, jụọ onye ọrụ ahụ ma ị nweere onwe gị ịpụ</p>
+        <p>ma ọ bụrụ na ha asị ee, pụ nwayọọ.</p>
+        <p>ENYE KAADỊ ONYE NNỌCHI ANYA. Ọ bụrụ na ị nọ n’ ime ụlọ gị, gosi</p>
+        <p>kaadị ahụ site na windo ma ọ bụ s’ ite n’ okpuru ọnụ ụzọ</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-ilocano",
+      number: 47,
+      title: "Ilocano",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["ilocano", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Ilocano</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Addaanka kadagiti konstitusional a karbengan:</p>
+        <p>SAAN A LUKTAN TI RIDAW no adda ahente ti imigrasion nga agtuktok</p>
+        <p>iti ridaw.</p>
+        <p>SAAN A SUNGBATAN TI ANYAMAN A SALUDSOD manipud iti ahente ti</p>
+        <p>imigrasion no padasendaka a kasarita. Karbengam ti agulimek.</p>
+        <p>SAAN NGA AGPIRMA ITI ANYAMAN a dikay umuna a makisarita iti</p>
+        <p>abogado. Adda karbengam a makisarita iti abogado.</p>
+        <p>No addaka iti ruar ti pagtaengam, damagem iti ahente no nawayaka a</p>
+        <p>pumanaw ket no kunada a wen, kalmado a pumanawka.</p>
+        <p>ITED DAYTOY A CARD ITI AHENTE. No addaka iti uneg ti pagtaengam,</p>
+        <p>ipakitam ti kard babaen ti tawa wenno i-slide-mo iti sirok ti ridaw.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-japanese",
+      number: 48,
+      title: "Japanese (日本語)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["japanese", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Japanese (日本語)</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>あなたには憲法で保障された権利があり ます 。</p>
+        <p>もし、 移 民 局 の 職 員 がドアをノ ックしても、 ドアを開 け ないでください。</p>
+        <p>移民局の職員が話しかけても、 質問には答えないで く ださい。</p>
+        <p>なぜなら、 あなたには黙秘権があるから です 。</p>
+        <p>そ し て、 弁護士と相談する前に、 何も署名しないで く ださい。</p>
+        <p>弁護士と話す権利があり ます 。</p>
+        <p>自宅にいない場合は、 あなたが職員に自由に行 っ てもいいかど う かを</p>
+        <p>確認し て、 職員が許可するなら、 冷静なまま場を離れま し ょ う 。</p>
+        <p>このカー ドを職員に渡し て く ださい。 家にいる場合は、 窓辺から職員</p>
+        <p>に 見 せ てくだ さ い 。 あ る い は 、 カ ードをドア の 下 か ら 滑 り込 ま せ てくだ</p>
+        <p>さい。</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-karen",
+      number: 49,
+      title: "Karen",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["karen", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Karen</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>နအိၣ်ဒီးသဲစးတၢ်ဘျၢမိၢ်ပှၢ်ခွဲးယာ်-</p>
+        <p>တၢ်နုာ်လီၤအိၣ်ကီၢ်ပၢၤကီၢ်ပှၤဘၣ်မူဘၣ်ဒါမ့ၢ်ဟဲဒိတကျိာ်နပဲတြီန့ၣ်တဘၣ်တူၢ်လိာ်</p>
+        <p>တဂ့ၤႋ</p>
+        <p>တၢ်နုာ်လီၤအိၣ်ကီၢ်ပၢၤကီၢ်ပှၤဘၣ်မူဘၣ်ဒါ မ့ၢ်ကျဲးစၢးကတိၤတၢ်ဒီးနၤ တဘၣ်စံးဆၢ</p>
+        <p>တၢ်သံကွၢ်နီတမံၤတဂ့ၤႋ နခွဲးယာ် အိၣ်လၢတဘၣ်စံးဆၢတၢ်န့ၣ်လီၤႋ</p>
+        <p>မ့ၢ်တတၢၣ်ပီၣ်ဘၣ်ဆိတၢ်ဒီးပီၢ်ရီန့ၣ်တဘၣ်စံးတၢ်နီတမံၤတဂ့ၤႋ နတၢ်ခွဲးတၢ်ယာ်အိၣ်</p>
+        <p>လၢကတၢၣ်ပီၣ်တၢ်ဒီးပီၢ်ရီ န့ၣ်လီၤႋ</p>
+        <p>နမ့ၢ်အိၣ်လၢတၢ်ချၢ သံကွၢ်ပှၤဘၣ်မူဘၣ်ဒါလၢမ့ၢ်နလဲၤသဒၣ်ကွံာ်သ့ဧါ ဒီးအ၀ဲသ့ၣ်မ့ၢ်</p>
+        <p>ပျဲနၤ ဟးသဒၣ်ကွံာ်ဃိဒိ တက့ၢ်ႋ</p>
+        <p>ဟ့ၣ်ခးအံၤဆူပှၤဘၣ်မူဘၣ်ဒါတက့ၢ်ႋ နမ့ၢ်အိၣ်လၢနဟံၣ်ပူၤ ဒုးနဲၣ်ပာ်ဖျါခးခီဖျိပဲတြီဖိ</p>
+        <p>မ့တမ့ၢ် ဂိာ်လီၤလၢပဲတြီဖီလာ်တက့ၢ်ႋ</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-khmer",
+      number: 50,
+      title: "Khmer (ភាសាខ្មែ)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["khmer", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Khmer (ភាសាខ្មែ)</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <ul>
+          <li></li>
+        </ul>
+        <p>អ្នកមបនសិទ្ធិពីរដ្ឋធម្មនុញ្ញ៖</p>
+        <p>្របសិនេបើភា)*ក់ងារអេនា1*្របេវសន៍េគាះទា7*រសូមកុំេបើកទា7*រឲ*=ពួកេគឲ*=េសាះ។</p>
+        <p>្របសិនេបើភា)*ក់ងារអេនា1*្របេវសន៍ព*Cយាមនិយាយជាមួយេលាកអ្នកសូមកុំេឆ្លើយសំណLរពី ពួ</p>
+        <p>កគាត់ឲ*=េសាះ។ េលាកអ្នកមានសិទ្ធិេនៅ េស្ងTមមិននិយាយ។</p>
+        <p>សូមកុំចុះហត្ថេលខាេលើអ្វីេដាយមិនទាន់និយាយជាមុនជាមួយេមធាវ]។ េលាកអ្នក មានស</p>
+        <p>ិទ្ធិនិយាយជាមួយេមធាវ]។</p>
+        <p>្របសិនេបើេលាកអ្នកេនៅខាងេ្រកៅផ្ទះ របស់ េលាកអ្នក សូមសួរភា)*ក់ងារថា េតើេលាកអ្នក អាចចា</p>
+        <p>កេចញបានេទ ្របសិនេបើពួកេគ និយាយថាបាន សូមចាកេចញតាមស្រមhល។</p>
+        <p>ផ្តល់កាតេនះេទៅឲ*=ភា)*ក់ងារ។ ្របសិនេបើ េលាកអ្នកេនៅខាងក្នlងផ្ទះរបស់ េលាកអ្នក សូមបងា</p>
+        <p>m*ញកាតេនះតាមបង្អoច ឬរុញវាេទៅ</p>
+        <ul>
+          <li>្របសិនេបើភា)*ក់ងារអេនា1*្របេវសន៍េគាះទា7*រសូមកុំេបើកទា7*រឲ*=ពួកេគឲ*=េសាះ។</li>
+          <li>្របសិនេបើភា)*ក់ងារអេនា1*្របេវសន៍ព*Cយាមនិយាយជាមួយេលាកអ្នកសូមកុំេឆ្លើយសំណLរពី ពួ</li>
+          <li>សូមកុំចុះហត្ថេលខាេលើអ្វីេដាយមិនទាន់និយាយជាមុនជាមួយេមធាវ]។ េលាកអ្នក មានស</li>
+          <li>្របសិនេបើេលាកអ្នកេនៅខាងេ្រកៅផ្ទះ របស់ េលាកអ្នក សូមសួរភា)*ក់ងារថា េតើេលាកអ្នក អាចចា</li>
+          <li>ផ្តល់កាតេនះេទៅឲ*=ភា)*ក់ងារ។ ្របសិនេបើ េលាកអ្នកេនៅខាងក្នlងផ្ទះរបស់ េលាកអ្នក សូមបងា</li>
+        </ul>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-kinyarwanda",
+      number: 51,
+      title: "Kinyarwanda",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["kinyarwanda", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Kinyarwanda</h4>
+        <p>Ufite uburenganzira  uhabwa n’Itegeko Nshinga:</p>
+        <ul>
+          <li>NTUGAFUNGURE UMURYANGO igihe umukozi ushinzwe abinjira</li>
+        </ul>
+        <p>n’abasohoka akomanze.</p>
+        <ul>
+          <li>NTUGASUBIZE IBIBAZO by’umukozi w’abinjira n’abasohoka n’iyo</li>
+        </ul>
+        <p>yaba agerageje kukuganiriza. Ufite uburenganzira bwo kuguma</p>
+        <p>ucecetse.</p>
+        <ul>
+          <li>NTUZASINYE IKINTU NA KIMWE utabanje kuganira</li>
+        </ul>
+        <p>n’umunyamategeko. Ufite uburenganzira bwo kuvugana</p>
+        <p>n’umunyamategeko.</p>
+        <ul>
+          <li>Niba uri hanze y’urugo rwawe, baza uwo mukozi niba wemerewe</li>
+        </ul>
+        <p>kugenda, navuga yego, wigendere witonze.</p>
+        <ul>
+          <li>HA UWO MUKOZI IYI KARITA. Niba uri mu nzu, uzerekanire ikarita</li>
+        </ul>
+        <p>mu idirishya cyangwa uyinyuze munsi y’urugi.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-korean",
+      number: 52,
+      title: "Korean (한국어)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["korean", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Korean (한국어)</h4>
+        <p>귀하에게는 헌법이 부여한 권리가 있습니다.</p>
+        <ul>
+          <li>이민국 요원이 문을 두드릴 경우 문을 열어주지 마십시요.</li>
+          <li>이민국 요원이 검문을 할 때 어 떤 질문에도 대답하지</li>
+        </ul>
+        <p>마십시요. 귀하에게는 묵비권을 행사할 권리가 있습니다.</p>
+        <ul>
+          <li>변호사와 만나기 전에는 어떠한 서명도 하지 마십시요.</li>
+        </ul>
+        <p>귀하에게는 변호사와 상담할 권리가 있습니다.</p>
+        <ul>
+          <li>집 밖에 있을 경우, 이민국 요원에게 귀하가 그 자리를 떠날</li>
+        </ul>
+        <p>수 있는 자유가 있는지 여부를 묻고 이민국 요원이 ‘예’</p>
+        <p>라고 답변을 한다면 침착하게 자리를 떠나십시요.</p>
+        <ul>
+          <li>이 카드를 이민국 요원에게 주십시요. 만약 귀하가 집안에</li>
+        </ul>
+        <p>머물고 있다면, 이 카드를 창문이나 문 아래로 밀 어 넣어</p>
+        <p>전달하십시요.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-lao",
+      number: 53,
+      title: "Lao",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["lao", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Lao</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>ທ່ານມີສິດຕາມລັດຖະທຳມະນູນໃນການ::</p>
+        <p>ບໍ່ເປີດປະຕູ, ຖ້າຫາກໜ່ວຍງານກວດຄົນເຂົ້າເມືອງມາເຄາະປະຕູ.</p>
+        <p>ບໍ່ຕອບຄຳຖາມໃດໆຈາກໜ່ວຍງານກວດຄົນເຂົ້າເມືອງ, ຖ້າພວກເຂົາ</p>
+        <p>ພະຍາຍາມຖາມທ່ານ. ທ່ານມີສິດທີ່ຈະບໍ່ອອກສຽງໄດ້.</p>
+        <p>ບໍ່ຕ້ອງເຊັນເອກະສານໃດໆໂດຍທີ່ບໍ່ໄດ້ປຶກສາກັບນັກກົດໝາຍກ່ອນ. ທ່ານມີ</p>
+        <p>ສິດທີ່ຈະປຶກສາກັບນັກກົດໝາຍ.</p>
+        <p>ຖ້າຫາກທ່ານຢູ່ນອກເຮືອນຂອງທ່ານ, ຖາມໜ໋ວຍງານນັ້ນວ່າທ່ານສາມາດ</p>
+        <p>ອອກໄປໄດ້ບໍ ແລະ ຖ້າພວກເຂົາບອກໃຫ້ໄປໄດ້, ອອກໄປຢ່າງໃຈເຢັນ.</p>
+        <p>ເອົາບັດນີ້ໃຫ້ໜ່ວຍງານ. ຖ້າຫາກທ່ານຢູ່ໃນເຮືອນຂອງທ່ານ, ສະແດງບັດນີ້</p>
+        <p>ຜ່ານປ່ອງຢ້ຽມ ຫຼື ສອດມັນໄປທາງດ້ານລຸ່ມປະຕູ.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-lingala",
+      number: 54,
+      title: "Lingala",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["lingala", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Lingala</h4>
+        <p>Ufite uburenganzira  uhabwa n’Itegeko Nshinga:</p>
+        <ul>
+          <li>NTUGAFUNGURE UMURYANGO igihe umukozi ushinzwe abinjira</li>
+        </ul>
+        <p>n’abasohoka akomanze.</p>
+        <ul>
+          <li>NTUGASUBIZE IBIBAZO by’umukozi w’abinjira n’abasohoka n’iyo</li>
+        </ul>
+        <p>yaba agerageje kukuganiriza. Ufite uburenganzira bwo kuguma</p>
+        <p>ucecetse.</p>
+        <ul>
+          <li>NTUZASINYE IKINTU NA KIMWE utabanje kuganira</li>
+        </ul>
+        <p>n’umunyamategeko. Ufite uburenganzira bwo kuvugana</p>
+        <p>n’umunyamategeko.</p>
+        <ul>
+          <li>Niba uri hanze y’urugo rwawe, baza uwo mukozi niba wemerewe</li>
+        </ul>
+        <p>kugenda, navuga yego, wigendere witonze.</p>
+        <ul>
+          <li>HA UWO MUKOZI IYI KARITA. Niba uri mu nzu, uzerekanire ikarita</li>
+        </ul>
+        <p>mu idirishya cyangwa uyinyuze munsi y’urugi.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-marshallese",
+      number: 55,
+      title: "Marshallese",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["marshallese", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Marshallese</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Ewōr am maroñ ñan jet jimwe ko an kien:</p>
+        <p>Elañe juon opiija in immigration ej kōjan̄ jan̄  ilo kōjām eo am, JAMIN</p>
+        <p>KŌMMAN E.</p>
+        <p>Ñe juon opiija in immigration ej kajeoñ in konono ippaṃ, JAMIN UAK</p>
+        <p>JABREWŌT KAJITŌK KO. Jimwe eo ñan jab konono ej am.</p>
+        <p>Juon lawyer ej aikuj in kajitok mokta JEN AM SIGN E JABDREWOT</p>
+        <p>PEBA. Kwoj maroñ in bwebwenato ibben juon lawyer.</p>
+        <p>Kajjitōk ippān rijerbal eo eļan̄ n̄ e kwoj anemkwoj in etal eļan̄ n̄ e kwojjab</p>
+        <p>pād ilo m̧weo, im eļan̄ n̄ e rej uwaak bwe kwoj, innām etal ilo jidimkij.</p>
+        <p>KWŌJ KŌMMAN RI-JERBAL EO KAAR IN. Likūt kaat eo ium̧win kōjām</p>
+        <p>eo ak kwaļo̧ ke ilo wintō eo eļan̄ n̄ e kwoj pād ilowaan m̧weo im̧ōm̧.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-mongolian",
+      number: 56,
+      title: "Mongolian",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["mongolian", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Mongolian</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Та үндсэн хуулиар танд олгогдсон зохих эрхтэй:</p>
+        <p>Цагаачлалын албаны ажилтан хаалга тогшиж байвал, ХААЛГАА</p>
+        <p>ОНГОЙЛГОХГҮЙ БАЙНА.</p>
+        <p>Хэрвээ цагаачлалын ажилтан тантай ярихыг хүсэж байвал, та</p>
+        <p>АСУУЛТАНД ХАРИУЛАХГҮЙ БАЙХ ЭРХТЭЙ. Та үг дуугарахгүй ба</p>
+        <p>чимээгүй байх эрхтэй.</p>
+        <p>Эхлээд хуульч буюу хуулийн ажилтантай хэлэлцээгүй байж ЮУНД</p>
+        <p>Ч БҮҮ ГАРЫН ҮСЭГ ЗУРААРАЙ. Та хуулийн ажилтан ба хуульчтай</p>
+        <p>ярилцах эрхтэй.</p>
+        <p>Хэрвээ та гэрээсээ гадуур байвал, ажилтнаас та гарч явах эрхтэй юу</p>
+        <p>гэж асуугаад, хэрвээ тэр тийм гэвэл, тайван гараад яваарай.</p>
+        <p>ЭНЭ КАРТЫГ АГЕНТ БУЮУ АЖИЛТАНД ӨГӨӨРЭЙ. Хэрвээ та</p>
+        <p>гэртээ байвал, картыг цонхоороо үзүүлнэ эсвэл хаалганы доогуур</p>
+        <p>гулгуулж үзүүлээрэй.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-nahuatl",
+      number: 57,
+      title: "Nahuatl",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["nahuatl", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Nahuatl</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Tikpiya in derechos ka timopalehuis:</p>
+        <p>MAKA XTLAPO MOKAL tla se agente de inmigración kimaj otlamo</p>
+        <p>kakalatza tlatzacuilotl.</p>
+        <p>MAKA XNALKILI TLEN MISTLATOLTIYA on Agente de inmigración tla</p>
+        <p>kineki mohua tlaketsas. Tikpiya se derecho ka tehuelis ka xtitlatos.</p>
+        <p>MAKA XTLALI MOFIRMA kaxtopa ti tlatos ka se uan mis palehuis. Tikpi-</p>
+        <p>ya se derecho ka titlaketzas ka uan se uan mispalehuis.</p>
+        <p>Tla tika kiyahuak mocha, xtlatolti on agente tla ti huelis tiyas, tla mitsiliya</p>
+        <p>kema, xiya ka kuali xka amantli.</p>
+        <p>XMAKA IN AMATLAKUILOLI ON AGENTE. Tla tika pan mocha, xkititi in</p>
+        <p>amatlakuloli pan ventana otlamo xmaka ka tlatsintla pan tlatzacuilotl.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-nepali",
+      number: 58,
+      title: "Nepali",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["nepali", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Nepali</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>तपााईँँसँँग सँं वैैधाानि�क अधिधाकारहरू हुन्छ�्:</p>
+        <p>यदि� आप्रवैासँ� एजेेण्टलेे ढोोका ढोकढोकाएका छ�् भ�े ढोोकाा नखोोल्नुहोोस्् ।</p>
+        <p>यदि� आप्रवैासँ� एजेेण्टलेे तपााईंसँँग कुरा ग�न खोोजेे भ�े उनिनहोरुलेे स्ोधेेकाो काुनै पनिन प्रश्नकाो जवााफ नदि�नुहोोस्् । तपााईंलेाईँ मौौ� बस्नेे अधिधाकार छ।</p>
+        <p>वैदिकलेसँँग कुरा �गरेसँम्म काुनै पनिन काु राामाा स्हिहो ( होस्तााक्षरा ) नगनु�होोस््, तपााईंलेाईँ वैदिकलेसँँग कुरा ग�े अधिधाकार छ।</p>
+        <p>यदि� तपााईं आफ्�ो घर बादिहर हु�ुहुन्छ भ�े,जेा� मिमौल्छ दिक मिमौल्दैै� भ�ेर एजेेण्टसँँग सँोध्नुुहोसँ्, यदि� उ�ीहरूलेे मिमौल्छ भ�े भ�े शाान्ति�पाूवैनक जेा�ुहोसँ्।</p>
+        <p>योो काार्ड� एज ेण्टलेाई दि�नुहोोस््। यदि� तपााईं घर भिभत्र हु�ुहुन्छ भ�े झ्याालेबाट कार्डन �ेखोाउ�ुहोसँ् या ढोोकामौुनि�बाट छिछराउ�ुहोसँ् ।</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-oromo",
+      number: 59,
+      title: "Oromo",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["oromo", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Oromo</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Mirga seera mootummaatiin kenname ni qabdu:</p>
+        <p>Yoo bakka bu’aan immigireeshinii balbala keessan rukutan BALBALA</p>
+        <p>KEESSAN HIN BANINA.</p>
+        <p>Yoo isaan si haasofsiisuuf yaalan GAAFII bakka bu’aa immigireeshinii</p>
+        <p>irraa GAAFATAMTTAN  KAMIYYUU HIN DEEBISINA. Callisuuf mirga ni</p>
+        <p>qabdu.</p>
+        <p>Dursa abukaatoo waliin osoo hin mari’atin  WAAN TOKKOYYU HIN</p>
+        <p>MALLATTEESSINAA. Abbaa seeraa waliin dubbachuuf mirga ni qabdu.</p>
+        <p>Yeroo bakka bu’aa immigireeshinii waliin wal agartanitti yoo mana kees-</p>
+        <p>saniin ala jirtu ta’e, bakka bu’aa sana bilisa ta’uu keessan  gaafadha, yoo</p>
+        <p>isaan eeyyee jedhan tasgabbiidhaan deema.</p>
+        <p>KAARDII KANA BAKKA BU’ AA IMMIGIREESHININIITTI KENNAA. Y oo mana</p>
+        <p>keessan keessa jirtu ta’ e, kaardii sana karaa foddaatiin agarsiisi ykn balbala jalatti siqsa</p>
+        <p>agarsiisa.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-pashto",
+      number: 60,
+      title: "Pashto",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["pashto", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Pashto</h4>
+        <p>تاسو دا لاندی فانونی حقوق لری جی:</p>
+        <p>که د مهاجرینو نماینده مقسو د کور دروازه ونکوی، تاسو کولی شی دروازه ورته خلاصه پ واره نکری.</p>
+        <p>که د مهاجرینو نماینده کوشش کولو له تاسو پوښتنی وکری تاسو کولی شی خواب ورنکری یه بلکل سکوت اختیار کری.</p>
+        <p>د خپل وکیل سره د مشوره مرینه هیچ اسنده مه امضاء کری. تاسو حق لری نه خپل وکیل سره خبری وکری.</p>
+        <p>که نه خپل بیرون باست نه نماینده خخه پوښتنه وکری جی کوم ههه جای خخه لار شی که ههه ووی بلی نو ههه جای په ارامی سره پریودی.</p>
+        <p>دا کارت د مهاجرینو نماینده نه و سیاست، که تاسو د ننه یه کور باست نو د کارت دروازه له لاندی ورته ورکری او بینی د کرکی له ښنه ورته وښایاست.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-polish",
+      number: 61,
+      title: "Polish",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["polish", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Polish</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Masz konstytucyjne prawa:</p>
+        <p>NIE OTWIERAJ DRZWI jeśli puka agent imigracyjny.</p>
+        <p>NIE ODPOWIADAJ NA ŻADNE PYTANIA agenta imigracyjnego</p>
+        <p>jeśli będzie próbował z Tobą rozmawiać. Masz prawo zachować</p>
+        <p>milczenie.</p>
+        <p>NIC NIE PODPISUJ bez uprzedniej konsultacji z prawnikiem.</p>
+        <p>Masz prawo do rozmowy z prawnikiem.</p>
+        <p>Jeśli jesteś poza domem, zapytaj agenta czy masz prawo się</p>
+        <p>oddalić. Jeśli powie, że tak, spokojnie odejdź.</p>
+        <p>DAJ TĘ KARTĘ AGENTOWI. Jeśli jesteś w domu, pokaż tę</p>
+        <p>kartę przez okno lub wsuń ją pod drzwi.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-portuguese",
+      number: 62,
+      title: "Portuguese (Português)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["portuguese", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Portuguese (Português)</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <ul>
+          <li>NÃO ABRA A PORTA se um agente de imigração estiver a bater à</li>
+        </ul>
+        <p>porta.</p>
+        <ul>
+          <li>NÃO RESPONDA A NENHUMA PERGUNTA de um agente de</li>
+        </ul>
+        <p>imigração se este tentar falar consigo. Tem o direito de permanecer em</p>
+        <p>silêncio.</p>
+        <ul>
+          <li>NÃO ASSINE NADA sem falar primeiro com um advogado. Você tem</li>
+        </ul>
+        <p>o direito de falar com um advogado.</p>
+        <ul>
+          <li>Se estiver fora da sua casa, pergunte ao agente se tem autorização</li>
+        </ul>
+        <p>para ir embora, e, se ele disser que sim, retire-se calmamente</p>
+        <p>.</p>
+        <ul>
+          <li>ENTREGUE ESTE CARTÃO AO AGENTE. Se estiver dentro da</li>
+        </ul>
+        <p>sua casa, mostre o cartão através da janela ou passe-o por baixo da</p>
+        <p>porta</p>
+        <p>Você tem direitos constitucionais:</p>
+        <p>para ir embora, e, se ele disser que sim, retire-se calmamente.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-punjabi",
+      number: 63,
+      title: "Punjabi (ਪੰਜਾਬੀ)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["punjabi", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Punjabi (ਪੰਜਾਬੀ)</h4>
+        <p>ਤ�ਹਾਡ� ਕ�ਲ ਸ�ਿਵਧਾਨਕ ਅਿਧਕਾਰ ਹਨ:</p>
+        <p>ਦਰਵਾਜ਼ਾ ਨਾ ਖ�ਲਹ੍ੋ ਜ�ਕਰ ਇ�ਕ ਇਮੀਗਰ੍ੇਸ਼ਨ ਏਜ</p>
+        <p>�ਟ ਤ�ਹਾਡ� ਦਰਵਾਜ਼� 'ਤੇ ਖਟਖਟਾ</p>
+        <p>ਿਰਹਾ ਹੈ।</p>
+        <p>ਕ�ਈ ਵੀ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਨਾ ਿਦਓ ਜ�ਕਰ ਇ</p>
+        <p>�ਕ ਇਮੀਗਰ੍ੇਸ਼ਨ ਏਜ�ਟ ਤ�ਹਾਨੂੰ ਗ�ਲ</p>
+        <p>ਕਰਨੀ ਚਾਹ��ਦਾ ਹੈ। ਤ�ਹਾਡ� ਕ�ਲ ਚ��ਪ ਰਿਹਣ ਦਾ ਅਿਧਕਾਰ ਹੈ।</p>
+        <p>ਿਕਸ� ਵੀ ਦਸਤਾਵ�ਜ਼ 'ਤੇ ਹਸਤਾਖਰ ਨਾ ਕਰ� ਿਬਨਾਂ</p>
+        <p>ਵਕੀਲ ਨਾਲ ਪਿਹਲਾਂ ਗ�ਲਬਾਤ ਕੀਤੇ।</p>
+        <p>ਤ�ਹਾਨੂੰ ਵਕੀਲ ਨਾਲ ਗ�ਲ ਕਰਨ ਦਾ ਅਿਧਕਾਰ ਹੈ।</p>
+        <p>ਜ�ਕਰ ਤ</p>
+        <p>�ਸੀਂ ਆਪਣ� ਘਰ ਤੋਂ ਬਾਹਰ ਹ</p>
+        <p>�, ਤਾਂ ਏਜ�ਟ ਤੋਂ ਪ��ਛ� ਿਕ ਕੀ ਤ�ਸੀਂ ਜਾਣ ਲਈ ਆਜ਼ਾਦ</p>
+        <p>ਹ�। ਜ�ਕਰ ਉਹ "ਹਾਂ" ਕਿਹ�ਦੇ ਹਨ, ਤਾਂ ਸ਼ਾਂਤੀ ਨਾਲ ਚਲ</p>
+        <p>� ਜਾਓ।</p>
+        <p>ਚੁੱਪ-ਚਾਪ ਉਥੋਂ ਚਲੇ ਜਾਓ ।</p>
+        <p>ਇਹ ਕਾਰਡ ਏਜ�ਟ ਨੂੰ ਿਦਓ। ਜ�ਕਰ ਤ�ਸੀਂ ਆਪਣ� ਘਰ ਦੇ ਅ�ਦਰ ਹ�, ਤਾਂ ਇਹ ਕਾਰਡ</p>
+        <p>ਿਖੜਕੀ ਰਾਹੀਂ ਿਦਖਾਓ ਜਾਂ ਦਰਵਾਜ਼� ਹ�ਠਾਂ ਸ��ਟ�।</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>ਦਰਵਾਜ਼ਾ ਨਾ ਖ�ਲਹ੍ੋ ਜ�ਕਰ ਇ�ਕ ਇਮੀਗਰ੍ੇਸ਼ਨ ਏਜ�ਟ ਤ�ਹਾਡ� ਦਰਵਾਜ਼� 'ਤੇ ਖਟਖਟਾ</p>
+        <p>ਕ�ਈ ਵੀ ਸਵਾਲਾਂ ਦੇ ਜਵਾਬ ਨਾ ਿਦਓ ਜ�ਕਰ ਇ�ਕ ਇਮੀਗਰ੍ੇਸ਼ਨ ਏਜ�ਟ ਤ�ਹਾਨੂੰ ਗ�ਲ</p>
+        <p>ਿਕ</p>
+        <p>ਸ� ਵੀ ਦਸਤਾਵ�ਜ਼ 'ਤੇ ਹਸਤਾਖਰ ਨਾ ਕਰ� ਿਬਨਾਂ ਵਕੀਲ ਨਾਲ ਪਿਹਲ ਾਂ ਗ�ਲਬਾਤ ਕੀਤੇ।</p>
+        <p>ਜ�ਕਰ ਤ�ਸੀਂ ਆਪਣ� ਘਰ ਤੋਂ</p>
+        <p>ਬਾਹਰ ਹ�, ਤਾਂ ਏਜ�ਟ ਤੋਂ ਪ��ਛ� ਿਕ ਕੀ ਤ�ਸੀਂ ਜਾਣ ਲਈ ਆਜ਼ਾਦ</p>
+        <p>ਹ�। ਜ�ਕਰ ਉਹ "ਹਾਂ" ਕਿਹ�ਦੇ ਹਨ, ਤਾਂ ਸ਼ਾਂਤੀ ਨਾਲ ਚਲ� ਜਾਓ।</p>
+        <p>ਦਰਵਾਜ਼ਾ ਨਾ ਖ�ਲਹ੍ੋ ਜ�ਕਰ ਇ �ਕ ਇਮੀਗਰ੍ੇਸ਼ਨ ਏਜ�ਟ ਤ�ਹਾਡ� ਦਰਵਾਜ਼� 'ਤੇ ਖਟਖਟਾ</p>
+        <p>ਿਕਸ� ਵੀ ਦਸਤਾਵ�ਜ਼ 'ਤੇ ਹਸਤਾਖਰ ਨਾ ਕਰ� ਿਬਨਾਂ ਵਕੀਲ ਨਾਲ ਪਿਹਲਾਂ ਗ�ਲਬਾਤ ਕੀਤੇ।</p>
+        <p>ਜ�ਕਰ ਤ�ਸੀਂ ਆਪਣ� ਘਰ ਤੋਂ ਬਾਹਰ ਹ�, ਤਾਂ ਏਜ�ਟ ਤੋਂ ਪ��ਛ� ਿਕ ਕੀ ਤ�ਸੀਂ ਜਾਣ ਲਈ ਆਜ਼ਾਦ</p>
+        <p>ਇਹ ਕਾਰਡ ਏਜ</p>
+        <p>�ਟ ਨੂੰ ਿਦਓ। ਜ�ਕਰ ਤ�ਸੀਂ ਆਪਣ� ਘਰ ਦੇ ਅ�ਦਰ ਹ�, ਤਾਂ ਇਹ ਕਾਰਡ</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-romanian",
+      number: 64,
+      title: "Romanian",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["romanian", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Romanian</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Aveți drepturi constituționale:</p>
+        <p>NU DESCHIDEȚI UȘA dacă un ofițer de imigrare sună la ușă.</p>
+        <p>NU RĂSPUNDEȚI LA NICIO ÎNTREBARE a unui ofițer de imigrare dacă încearcă să vorbească cu dumneavoastră. Aveți dreptul să păstrați tăcerea.</p>
+        <p>NU SEMNAȚI NIMIC înainte de a vorbi cu un avocat. Aveți dreptul de a consulta un avocat.</p>
+        <p>Dacă sunteți în afara casei, întrebați ofițerul dacă sunteți liber să plecați, iar dacă spune „da”, plecați calm.</p>
+        <p>DAȚI ACEST CARD OFIȚERULUI. Dacă vă aflați în casă, arătați cardul prin fereastră sau pe sub ușă.</p>
+        <p>NU RĂSPUNDEȚI LA NICIO ÎNTREBARE a unui ofițer de</p>
+        <p>imigrare dacă încearcă să vorbească cu dumneavoastră. Aveți</p>
+        <p>dreptul să păstrați tăcerea.</p>
+        <p>NU SEMNAȚI NIMIC înainte de a vorbi cu un avocat. Aveți</p>
+        <p>dreptul de a consulta un avocat.</p>
+        <p>Dacă sunteți în afara casei, întrebați ofițerul dacă sunteți liber</p>
+        <p>să plecați, iar dacă spune „da”, plecați calm.</p>
+        <p>DAȚI ACEST CARD OFIȚERULUI. Dacă vă aflați în casă,</p>
+        <p>arătați cardul prin fereastră sau pe sub ușă.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-russian",
+      number: 65,
+      title: "Russian (Русский)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["russian", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Russian (Русский)</h4>
+        <p>У вас есть конституционные права:</p>
+        <p>НЕ ОТКРЫВАЙТЕ ДВЕРЬ , если в дверь стучится иммиграционный</p>
+        <p>агент.</p>
+        <p>НЕ ОТВЕЧАЙТЕ НА ВОПРОСЫ  иммиграционного агента, если</p>
+        <p>они попытаются с вами поговорить. Вы имеете право хранить</p>
+        <p>молчание.</p>
+        <p>НЕ ПОДПИСЫВАЙТЕ НИЧЕГО , не посоветовавшись</p>
+        <p>предварительно с юристом. У вас есть право поговорить с юристом.</p>
+        <p>Если вы находитесь вне дома, спросите агента, можете ли вы уйти, и</p>
+        <p>если он скажет «да», спокойно уйдите.</p>
+        <p>ОТ ДАЙТЕ ЭТУ КАРТУ АГЕНТУ.  Если вы находитесь в своем доме,</p>
+        <p>покажите карточку через окно или просуньте ее под дверь.</p>
+        <p>www.RedCardOrders.com</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-samoan",
+      number: 66,
+      title: "Samoan",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["samoan", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Samoan</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>E i ai au aia tau le faavae:</p>
+        <p>‘AUA NE’I TATALAINA LE FAITOTO’A pe a tu’itu’i mai se tagata o le ofisa</p>
+        <p>o femalagaiga.</p>
+        <p>‘AUA NE’I TALIINA SOO SE FESILI mai se tagata ofisa o femalagaiga pe</p>
+        <p>a taumafai e talanoa atu ia te oe. E i ai lau aia tatau e te fifilemu ai.</p>
+        <p>‘AUA NE’I E SAINIA SOO SE MEA e aunoa ma le talanoa muamua i se</p>
+        <p>loia. E i ai lau aia tatau e te talanoa ai i se loia.</p>
+        <p>Afai o e i tua atu o lou fale, fesili i le tagata ofisa pe ua e sa’oloto e te alu</p>
+        <p>ese ma afai e fai mai ua lelei, alu ese lemu.</p>
+        <p>TUU ATU LE CARD LEA I LE TAGATA O LE OFISA. Afai o e i ai i totonu</p>
+        <p>o lou fale, fa’aali atu i ai le card i le faamalama pe faasee atu i lalo o le</p>
+        <p>faitoto’a.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-somali",
+      number: 67,
+      title: "Somali",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["somali", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Somali</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Dastuurka wuxu ku siinaya xaq:</p>
+        <p>Hadii wakiil ka socda hay’adda laanta socdaalka albaabkaaga kugu soo garaaco, waxaad xaq u leedahay inaadan ka furin</p>
+        <p>Hadii wakiilkaas su’aalo ku weydiiyo, waxaas xaq u leedahay inaadan hadlin oo su’aalo aadan ka jawaabin</p>
+        <p>Waxaad xaq u leedahay qareen. Adigoo qareen la hadlin, wax-bana ha saxiixin.</p>
+        <p>Hadii wakiilku gurigaaga banaankiisa kugu qabto waxaad weydiisa hadii aad xaq u leedahay in aad ka dhaqaaqdid. Hadii u yiraahdo haa, si tartiib ah uga dhaqaaq.</p>
+        <p>Wakiilka kaarkaan tus. Hadii aad guriga ku jirtid, darishada ka sii ama albaabka hoostiista.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-spanish",
+      number: 68,
+      title: "Spanish (Español)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["spanish", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Spanish (Español)</h4>
+        <p>Usted tiene derechos constitucionales:</p>
+        <ul>
+          <li>NO ABRA LA PUERTA si un agente de inmigración está tocando</li>
+        </ul>
+        <p>la puerta.</p>
+        <ul>
+          <li>NO CONTESTE NINGUNA PREGUNTA de un agente de</li>
+        </ul>
+        <p>inmigración si trata de hablar con usted. Usted tiene el derecho a</p>
+        <p>guardar silencio.</p>
+        <ul>
+          <li>NO FIRME</li>
+        </ul>
+        <p>NADA sin antes hablar con un abogado. Usted tiene</p>
+        <p>el derecho de hablar con un abogado.</p>
+        <ul>
+          <li>Si usted está fuera de su casa, pregúntele al agente s</li>
+        </ul>
+        <p>i tiene la</p>
+        <p>libertad de irse y si le dice que sí, váyase con tranquilidad.</p>
+        <ul>
+          <li>ENTRÉGUELE ESTA TARJETA EL AGENTE. Si usted está</li>
+        </ul>
+        <p>dentro de su casa, muestre la tarjeta por la ventana o pásela</p>
+        <p>debajo de la puerta.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-swahili",
+      number: 69,
+      title: "Swahili",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["swahili", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Swahili</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Una haki ya kisheria.</p>
+        <p>USIFUNGULIE MLANGO afisa wa uhamiaji atakapobisha mlango wako</p>
+        <p>USIJIBU SWALI LOLOTE kutoka afisa wa uhamiaji(Immigration agent) watakapo jaribu kukuongelesha. Una haki ya kukaa kimya</p>
+        <p>USITIE SAINI POPOTE bila kuongea na wakili. Una haki ya kuongea na wakili.</p>
+        <p>Utakapo kuwa mbali na kwako, uliza afisa kama unaweza ondo-ka na wakikubali ujiondoe kipolepole</p>
+        <p>PEANA KADI HII KWA AFISA. Ukiwa nyumbani kwako, waonye-she kupitia dirisha ama wapitishie na chini ya mlangp</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-tagalog",
+      number: 70,
+      title: "Tagalog",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["tagalog", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Tagalog</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <ul>
+          <li>HUWAG BUKSAN ANG PINTO kung may ahente ng imigrasyon na</li>
+        </ul>
+        <p>kumakatok.</p>
+        <ul>
+          <li>HUWAG SAGUTIN ANG ANUMANG MGA TANONG mula sa isang</li>
+        </ul>
+        <p>ahente ng imigrasyon kung sinusubukan nilang makipag-usap sa iyo. May</p>
+        <p>karapatan kang manahimik.</p>
+        <ul>
+          <li>HUWAG PUMIRMA NG KAHIT ANO nang hindi muna nakikipag-usap sa</li>
+        </ul>
+        <p>isang abogado. Mayroon kang karapatan na makipag-usap sa isang</p>
+        <p>abogado.</p>
+        <ul>
+          <li>Kung ikaw ay nasa labas ng iyong bahay, tanungin ang ahente kung ikaw</li>
+        </ul>
+        <p>ay maari</p>
+        <p>ng umalis at kung sabihin nila na pwede, umalis ka nang kalmado.</p>
+        <ul>
+          <li>IPAKITA ANG CARD NA ITO SA AHENTE. Kung nasa loob ka ng iyong</li>
+        </ul>
+        <p>bahay, ipakita ang card sa bintana o ilusot sa ilalim ng pinto.</p>
+        <p>ay maari ng umalis at kung sabihin nila na pwede, umalis ka nang kalmado.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-tamil",
+      number: 71,
+      title: "Tamil",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["tamil", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Tamil</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>உங்களுக்கு அரசி யலமைை ப்பு அளி த்துள்ள உரி மைை கள் உள்ளன:</p>
+        <p>ஒரு குடிவரவு முகவர் கதமைவ த் தட்டினா ல் கதமைவ த் தி றக்க வேவ ண்டாா ம்.</p>
+        <p>குடிவரவு முகவர் ஒருவர் உங்களுடான் வேே ச முயற்சி த்தா ல் அவர்களி ன் எந்தக்வேக</p>
+        <p>ள்வி களுக்கும் ேதி லளி க்க வேவ ண்டாா ம். நீங்கள் அமைை தி யா க இருக்க உரி மைை</p>
+        <p>உண்டு.</p>
+        <p>முதலில் ஒரு வழக்கறி ஞரி டாம் வேே சா ைல் எதி லும் மைக யெய ழுத்தி டா வேவ ண்டாா ம்.</p>
+        <p>ஒருவழக்கறி ஞருடான் வேே சுவதற்கு உங்களுக்கு உரி மைை உண்டு.</p>
+        <p>நீங்கள் உங்கள் வீட்டிற்கு யெவ ளி யி ல் இருந்தா ல், நீங்கள் யெவ ளி வேய ற</p>
+        <p>தமைடா யி ல்மைல யா என்று முகவரி டாம் வேக ளுங்கள், அவர்கள் ஆம் என்று</p>
+        <p>யெசா ன்னா ல், அமைை தி யா க யெவ ளி வேய றுங்கள்.</p>
+        <p>இந்த அட்மைடாமைய முகவரி டாம் யெகா டுங்கள். நீங்கள் உங்கள் வீட்டிற்குள் இருந்தா</p>
+        <p>ல்,அட்மைடா மைய ஜன்னல் வழி யா க கா ட்டாவும் அல்லது அமைத கதவுக்குக் கீவேழ</p>
+        <p>நழுவவி டாவும்.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-thai",
+      number: 72,
+      title: "Thai (ภาษาไทย)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["thai", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Thai (ภาษาไทย)</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>คุณมีสิทธิตามรัฐธรรมนูญ:</p>
+        <p>ห้ามเปิดประต ูหากเจ้าหน้าที่ตรวจคนเข้าเมืองมาเคาะหน้าประตูบ้าน</p>
+        <p>ห้ามตอบคำาถามใด ๆ  กับเจ้าหน้าที่ตรวจคนเข้าเมือง หากเจ้าหน้าที่เหล่านั้นต้องการพูดคุยกับท่าน ท่านมีสิทธิที่จะไม่พูด</p>
+        <p>ห้ามเซ็นเอกสารใด ๆ  หากท่านยังไม่ได้พูดคุยกับทนายความ ท่านมีสิทธิในการพบทนายความ</p>
+        <p>หากท่านอยู่นอกบ้าน โปรดถามเจ้าหน้าที่ว่าท่านสามารถออกไปจากสถานการณ์ตรงนี้ได้หรือไม่ หากเจ้าหน้าที่อนุญาต โปรดออกมาอย่างไม่ตื่นตระหนก โปรดยื่นบัตรนี้ให้แก่เจ้าหน้าที่ หากท่านอยู่ภายในบ้านของท่าน โปรดแสดงบัตรผ่านทางหน้าต่าง หรือสอดผ่านใต้ประตู</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-tigrinya",
+      number: 73,
+      title: "Tigrinya",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["tigrinya", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Tigrinya</h4>
+        <p>አብ ኮርፑ ብናይም ንዝተጠቅሱ ቆዋምዳ [ሕገ.መንግስታዊ] መሰላት ከምዛለም ይገልጹ።</p>
+        <p>ወኪላት ኢሚግረሽን ማዕጻ ናይ ቤትኩም እንተ ኸሕኩሞም ማዕጻ ከይተከፍቲ።</p>
+        <p>ብወኪላት ኢምግረሽን ዝኾን ሕጦ አንተቀሪብልኩም ንቲ ሕጦ ናይ ዘይምምላስ ወይ ብቆ ናይ ምባል መስልልኩም ሕሱውዩ።</p>
+        <p>ምስ ናይ ሕጊ ጠበቃ ከይተዛረብኩም ዝኾን ነገር ከይትፍርሙ። ምስ ጠበቃ ናይ ምምዛር መስልዑን አልኩም።</p>
+        <p>ካብ መንበሪ ቤት ወጺእ ከለኁም ብወኪላት ኢምግረሽን ሕጦ እንተ ተሓቲትኩም ካብቲ ቦታ ክትከዱ ከምእትንኽእለ ፍቃድ ሓቲትኩም ምስተፍቁዳልኩም ካብቲ ቦታ ኪዱ።</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-tsotsil",
+      number: 74,
+      title: "Tsotsil",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["tsotsil", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Tsotsil</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Stak’ jech cha pas lie:</p>
+        <p>MU XA JAM LI STI’ A NAE ti mi tal stij sti’ a na ti yaj amteltak</p>
+        <p>yu-un ti ajbalile.</p>
+        <p>MU XA TA’K’BE TI K’USI TA SJAK’BOT  ti yaj amteltak yu-un</p>
+        <p>ajbalile ti mi ta xa sk’oponoxuké. St’ak tsijil ta xa com.</p>
+        <p>MU XA BAK’ A FIRMA ti mi ch’ab’al a chi’noj ta loil tu bu’chu ta</p>
+        <p>sk’oltaote. Xu’ cha chi-in ta lo’il junuk ti b’uch’u ta xa sk’oltaote.</p>
+        <p>ti mi la lok’ batel ta nae, Jak’bo, ti yaj amteltak yu-un ajbalile mi</p>
+        <p>xu’ ta xa b’at mi laj yal ti xu’e, b’atan mu xa bul a bonton.</p>
+        <p>AK’BO LI TARGETA LI’E TI YAJ AMTELTAK YU-UN AJBALI-</p>
+        <p>LE. Ti mi te oyot ta nae, ak’bo yil li tarjetae ti b’uy xu’ ta sta ta</p>
+        <p>sk’elelé mi mo’oje ak’bo lok’el ta yolon ti’ná</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-turkish",
+      number: 75,
+      title: "Turkish",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["turkish", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Turkish</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>Anayasal haklarınız bulunmaktadır:</p>
+        <p>Bir göçmenlik görevlisi kapıyı çalıyorsa KAPIYI AÇMAYIN.</p>
+        <p>Bir göçmenlik görevlisi sizinle konuşmaya çalışırsa HİÇBİR</p>
+        <p>SORUYA CEVAP VERMEYİN. Sessiz kalma hakkına sahipsiniz.</p>
+        <p>Bir avukatla konuşmadan önce HİÇBİR ŞEY İMZALAMAYIN. Bir</p>
+        <p>avukatla konuşma hakkına sahipsiniz.</p>
+        <p>Evinizin dışındaysanız, görevliye ayrılmakta serbest olup ol-</p>
+        <p>madığınızı sorun ve evet derlerse sakince ayrılın.</p>
+        <p>BU KARTI GÖREVLİYE VERİN. Evinizin içindeyseniz, karW</p>
+        <p>pencereden gösterin veya kapının alWndan geçirin.</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-ukrainian",
+      number: 76,
+      title: "Ukrainian",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["ukrainian", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Ukrainian</h4>
+        <p>Ви маєте конституційні права:</p>
+        <p>НЕ ВІДКРИВАЙТЕ ДВЕРЕЙ, якщо імміграційний агент стукає у двері.</p>
+        <p>НЕ ВІДПОВІДАЙТЕ НА ЯКІ НЕБУДЬ ЗАПИТАННЯ від імміграційного</p>
+        <p>агента, якщо вони намагаються поговорити з вами. Ви маєте право</p>
+        <p>мовчати.</p>
+        <p>НІЧОГО НЕ ПІДПИСУЙТЕ, не звернувшись до адвоката. Ви маєте</p>
+        <p>право поговорити з адвокатом.</p>
+        <p>Якщо ви знаходитесь за межами свого будинку, попросіть агента, чи</p>
+        <p>можете ви вільні іти, і якщо вони скажуть “так”, ви можете іти спокійно.</p>
+        <p>ДАЙТЕ ЦЮ КАРТКУ АГЕНТУ. Якщо ви перебуваєте всередині свого</p>
+        <p>будинку, покажіть картку через вікно або посуньте її під двері.</p>
+        <p>www.RedCardOrders.com</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-urdu",
+      number: 77,
+      title: "Urdu (اردو)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["urdu", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Urdu (اردو)</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>:آپ کے آئینی حقوق ہیں</p>
+        <p>اگر امیگریشن ایجنٹ دروازہ کھٹکھٹا رہا ہو۔دروازہ مت کھولیں</p>
+        <p>اگر امیگریشن ایجنٹ آپ سے بات کرنے کی کوشش کرے۔ آپ کوکسی بھی سوال کا جواب نہ دیں</p>
+        <p>خاموش رہنے کا حق حاصل ہے۔</p>
+        <p>بغیر کسی وکیل سے مشورہ کیے۔ آپ کو وکیل سے بات کرنے کا حقکسی بھی چیز پر دستخط نہ کریں</p>
+        <p>حاصل ہے۔</p>
+        <p>اگر آپ اپنے گھر کے باہر ہیں، تو ایجنٹ سے پوچھیں کہ کیا آپ جانے کے لیے آزاد ہیں، اور اگر وہ</p>
+        <p>ہاں کہیں، تو پرسکون انداز میں وہاں سے چلے جائیں۔</p>
+        <p>اگر آپ گھر کے اندر ہیں، تو کارڈ کھڑکی سے دکھائیں یا دروازے کے نیچےیہ کارڈ ایجنٹ کو دیں۔</p>
+        <p>سے سرکا دیں۔</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-vietnamese",
+      number: 78,
+      title: "Vietnamese (Tiếng-Việt)",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["vietnamese", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Vietnamese (Tiếng-Việt)</h4>
+        <p>Ông/Bà có quyền lợi theo Hiến Pháp Hoa Kỳ:</p>
+        <ul>
+          <li>Không mở cửa khi nhân viên di trú gõ cửa.</li>
+          <li>Không trả lời câu hỏi nào của nhân viên di trú nếu họ muổn nói</li>
+        </ul>
+        <p>chuyện với Ông/Bà. Ông/Bà có quyền giữ im lặng.</p>
+        <ul>
+          <li>Không ký một tờ giấy nào trước khi gặp luật sư. Ông/Bà có quyền</li>
+        </ul>
+        <p>nói chuyện với luật sư.</p>
+        <ul>
+          <li>Nếu Ông/Bà đang đứng bên ngoài nhà mình, hãy hỏi nhân viên</li>
+        </ul>
+        <p>di trú xem Ông/Bà có quyền rời chỗ đó hay không, và nếu có, hãy</p>
+        <p>bình tĩnh rời đi.</p>
+        <ul>
+          <li>Đưa thẻ này cho nhân viên di trú. Nếu đang ở trong nhà, đưa cho</li>
+        </ul>
+        <p>họ coi qua cửa kiểng hoặc luồn thẻ dưới cửa ra vào.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-yoruba",
+      number: 79,
+      title: "Yoruba",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["yoruba", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>Yoruba</h4>
+        <p>O ní ẹ̀ tọ́ lábẹ́ òfin orílẹ̀ -èdè:</p>
+        <ul>
+          <li>Maṣe ṣi ìlẹ̀ kùn ti asojú ìjọba fun ìwọlé-wọdé orílẹ̀ -èdè (ọlọpa</li>
+        </ul>
+        <p>imigiréṣàn) ba n kan ìlẹ̀ kùn.</p>
+        <ul>
+          <li>Maṣe dahun ibeere lati ọdọ aṣojú ìjọba fun ìwọlé-wọdé orílẹ̀ -èdè ti</li>
+        </ul>
+        <p>won ba n gbiyanju lati ba ọ sọrọ. O ni ẹ̀ tọ́ lati dakẹ́.</p>
+        <ul>
+          <li>Ma fi ọwọ́ si iwe kankan lai bá agbẹjọ́rò (lọ́yà) sọrọ. O ni ẹ̀ tọ́ lati ba</li>
+        </ul>
+        <p>agbẹjọ́rò re sọrọ.</p>
+        <ul>
+          <li>Ti won bá ba ọ ni ìta ilé rẹ, beère lowo aṣojú ìjọba ti o ba le maa lọ?</li>
+        </ul>
+        <p>Ti wọn ba dahun wipe, bẹẹni, rọra kuro niwaju wọn.</p>
+        <ul>
+          <li>Fun aṣojú ìjọba fun ìwọlé-wọdé orílẹ̀ -èdè ni iwe pélébé yii.Ti o ba</li>
+        </ul>
+        <p>wa ninu ile, fi iwe pélébé naa han lati oju fèrèsé tabi ki o rọra nãa</p>
+        <p>lati abẹ ìlẹ̀ kùn si wọn.</p>
+        <p>you’re unable to print on both sides, you can simply</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+      `
+    }
+    ,{
+      id: "red-card-farsi",
+      number: 80,
+      title: "فارسی / Farsi",
+      subtitle: "Red Card Translation",
+      icon: "globe",
+      keywords: ["فارسی / farsi", "red card", "translation", "non-english"],
+      content: `
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+
+        <div class="callout callout-critical" style="direction: auto;">
+          <h4>فارسی / Farsi</h4>
+        <p>you’re unable to print on both sides, you can simply</p>
+        <p>:هستید  قانونی  حقوق  دارای  شما</p>
+        <p>. می کوبد  را  خانه  درِ  مهاجرت  مأمور  اگر  نکنید  باز  را  در.</p>
+        <p>شما . کند  صحبت   شما  با  کرد  تلاش  اگر  ندهید  پاسخ  مهاجرت  مأمور  از  پرسشی  هیچ  به .</p>
+        <p>. کنید  سکوت   دارید  حق</p>
+        <p>حق   شما . باشید  کرده  صحبت   وکیل  یک   با  ابتدا  آنکه  بدون  نکنید  امضا  را  چیز  هیچ .</p>
+        <p>. کنید  مشورت  وکیل  با  دارید</p>
+        <p>هستید  خانه  از  بیرون  اگر، گفت   اگر  .خیر  یا  بروید  هستید  آزاد  آیا  که  بپرسید  مأمور  از</p>
+        <p>بله ،. کنید  ترک   را  آنجا  آرام</p>
+        <p>هستید  خونه  داخل  اگر . بدهید  مأمور  به  را  کارت  این، نشان  پنجره  پشت   از  را  کارت</p>
+        <p>. بدهید  سر  در  زیر  از  یا  دهید</p>
+        <p>هستید  قانونی  حقوق  دارای  شما</p>
+        </div>
+
+        <h3>English Version</h3>
+        <div class="callout">
+          <p><strong>You have constitutional rights:</strong></p>
+          <ul>
+            <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
+            <li><strong>DO NOT ANSWER ANY QUESTIONS</strong> from an immigration agent if they try to talk to you. You have the right to remain silent.</li>
+            <li><strong>DO NOT SIGN ANYTHING</strong> without first speaking to a lawyer. You have the right to speak with a lawyer.</li>
+            <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
+            <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
+          </ul>
+          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
+          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
+          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
+          <p><em>I choose to exercise my constitutional rights.</em></p>
+          <p><strong><em>These cards are available to citizens and noncitizens alike.</em></strong></p>
+        </div>
+
+        <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
       `
     }
   ]
