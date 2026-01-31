@@ -146,8 +146,7 @@
     closeSearch();
     updateSidebarActive(sectionId);
 
-    var saved = state.scrollPositions[sectionId];
-    window.scrollTo(0, saved || 0);
+    window.scrollTo(0, 0);
   }
 
   // --- RENDERING ---
