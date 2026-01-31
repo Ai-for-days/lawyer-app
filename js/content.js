@@ -2080,6 +2080,175 @@ const APP_CONTENT = {
       `
     }
     ,{
+      id: "immigration-legal-services",
+      number: 26,
+      title: "Immigration Legal Services Directory",
+      subtitle: "South Carolina Legal Resources",
+      icon: "people",
+      keywords: ["immigration", "legal services", "directory", "lawyer", "attorney", "help", "DACA", "TPS", "asylum", "catholic charities", "legal aid", "south carolina"],
+      content: `
+        <p>The following organizations provide immigration legal services in South Carolina. This directory is provided as a resource and does not constitute an endorsement or recommendation by McGuire Law.</p>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>Carolina Immigrant Alliance</h4>
+          <p><strong>Areas of legal assistance:</strong> Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, Temporary Protected Status (TPS)</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 1067 Oakland Avenue, Rock Hill, SC 29732</p>
+          <p><strong>Contact:</strong> <a href="tel:+18036195012">(803) 619-5012</a> | <a href="https://carolinaimmigrantalliance.org/" target="_blank" rel="noopener">https://carolinaimmigrantalliance.org/</a> | <a href="mailto:judy@carolinaimmigrantalliance.org">judy@carolinaimmigrantalliance.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>Catholic Charities Immigration Services (Greenville Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, NACARA, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 2300 Old Buncombe Rd. , Greenville, SC 29609</p>
+          <p><strong>Contact:</strong> <a href="tel:+18642740141">(864) 274-0141</a> | <a href="http://charitiessc.org/immigration-legal-services" target="_blank" rel="noopener">http://charitiessc.org/immigration-legal-services</a> | <a href="mailto:vgarcia@charlestondiocese.org">vgarcia@charlestondiocese.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>Catholic Charities Immigration Services (Mt. Pleasant Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, NACARA, Naturalization/Citizenship, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS, Representation at Asylum Interviews (Credible Fear Interviews, Reasonable Fear Interviews)</p>
+          <p><strong>Location:</strong> 127 St Philip Street, Charleston, SC 29403</p>
+          <p><strong>Contact:</strong> <a href="tel:+18433880089">(843) 388-0089</a> | <a href="https://charitiessc.org/immigration-legal-services" target="_blank" rel="noopener">https://charitiessc.org/immigration-legal-services</a> | <a href="mailto:eguerrero@charlestondiocese.org">eguerrero@charlestondiocese.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>Catholic Charities Immigration Services-Rock Hill Office</h4>
+          <p><strong>Areas of legal assistance:</strong> Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Habeas Corpus, Humanitarian Parole, NACARA, Naturalization/Citizenship, Removal hearings, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS, Representation before the Immigration Court, Representation before the Board of Immigration Appeals (BIA), Federal court appeals</p>
+          <p><strong>Location:</strong> 524 Charlotte Ave , Rock Hill, SC 29730</p>
+          <p><strong>Contact:</strong> <a href="tel:+18033277144">8033277144</a> | <a href="http://charitiessc.org/immigration-legal-services" target="_blank" rel="noopener">http://charitiessc.org/immigration-legal-services</a> | <a href="mailto:rturner@charlestondiocese.org">rturner@charlestondiocese.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>Charleston Legal Access</h4>
+          <p><strong>Areas of legal assistance:</strong> Adjustment of Status, Asylum applications, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Employment-based immigrant and non-immigrant petitions, Family-based petitions, Naturalization/Citizenship, Removal hearings, Special Immigrant Juvenile Status, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS, Representation at Asylum Interviews (Credible Fear Interviews, Reasonable Fear Interviews), Representation before the Immigration Court</p>
+          <p><strong>Location:</strong> 1816 Success St building A unit 102,, North Charleston, SC 29405</p>
+          <p><strong>Contact:</strong> <a href="tel:+18436405980">843-640-5980</a> | <a href="https://www.charlestonlegalaccess.org/" target="_blank" rel="noopener">https://www.charlestonlegalaccess.org/</a> | <a href="mailto:info@charlestonlegalaccess.org">info@charlestonlegalaccess.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>Immigrant Connection - Greenville Multicultural Church</h4>
+          <p><strong>Areas of legal assistance:</strong> Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 103 S. Texas Ave, Greenville, SC 29611</p>
+          <p><strong>Contact:</strong> <a href="tel:+18642950945">(864) 295-0945</a> | <a href="https://greenvillemulticultural.com/IC" target="_blank" rel="noopener">https://greenvillemulticultural.com/IC</a> | <a href="mailto:immigrantconnectiongm@gmail.com">immigrantconnectiongm@gmail.com</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>Immigrant Connection - Spartanburg</h4>
+          <p><strong>Areas of legal assistance:</strong> Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Humanitarian Parole, Naturalization/Citizenship, Temporary Protected Status (TPS), Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 203 South Main Street, Ducan, SC 29334</p>
+          <p><strong>Contact:</strong> <a href="tel:+18643103109">(864) 310-3109</a> | <a href="https://www.nuevagduncan.com/immigration-connection" target="_blank" rel="noopener">https://www.nuevagduncan.com/immigration-connection</a> | <a href="mailto:immigrantconnectionsw@gmail.com">immigrantconnectionsw@gmail.com</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>Immigrant Connection at El Camino</h4>
+          <p><strong>Areas of legal assistance:</strong> Adjustment of Status, Consular Processing, Deferred Action for Childhood Arrivals (DACA), Employment authorization, Family-based petitions, Naturalization/Citizenship, T visas, Temporary Protected Status (TPS), U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS, Representation before the Board of Immigration Appeals (BIA)</p>
+          <p><strong>Location:</strong> 103 Crescent Ridge Drive, Greenville, SC 29615-2118</p>
+          <p><strong>Contact:</strong> <a href="tel:+18643979283">(864) 397-9283</a> | <a href="http://www.elcamin.webs.com" target="_blank" rel="noopener">http://www.elcamin.webs.com</a> | <a href="mailto:immigrantconnection@scwesleyan.com">immigrantconnection@scwesleyan.com</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>SCVAN</h4>
+          <p><strong>Areas of legal assistance:</strong> U visas</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> PO , Spartanburg, SC 29301</p>
+          <p><strong>Contact:</strong> <a href="tel:+18643126453">8643126453</a> | <a href="http://www.scvan.org" target="_blank" rel="noopener">http://www.scvan.org</a> | <a href="mailto:lauren@scvan.org">lauren@scvan.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Charleston Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 2803 Carner Ave, Charleston, SC 29405</p>
+          <p><strong>Contact:</strong> <a href="tel:+18437207044">(843) 720-7044</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Columbia Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 2109 Bull St, Columbia, SC 29201</p>
+          <p><strong>Contact:</strong> <a href="tel:+18037999668">(803) 799-9668</a> | <a href="https://www.sclegal.org" target="_blank" rel="noopener">https://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Conway Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Location:</strong> 1201 B Creel Street, Wing A-1, Conway, SC 29527</p>
+          <p><strong>Contact:</strong> <a href="tel:+18433818182">(843) 381-8182</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Florence Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 320 S. Coit St, Florence, SC 29501</p>
+          <p><strong>Contact:</strong> <a href="tel:+18434139500">(843) 413-9500</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Greenville Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 701 S. Main St., Greenville, SC 29601</p>
+          <p><strong>Contact:</strong> <a href="tel:+18646793232">(864) 679-3232</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Greenwood Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 316 W. Cambridge Ave, Greenwood, SC 29646</p>
+          <p><strong>Contact:</strong> <a href="tel:+18642234879">(864) 223-4879</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Orangeburg Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Location:</strong> 126 Associate Pkwy, PO Box 1646, Orangeburg, SC 29116</p>
+          <p><strong>Contact:</strong> <a href="tel:+18035330116">(803) 533-0116</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Pee Dee Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 320 South Coit St., Florence, SC 29501</p>
+          <p><strong>Contact:</strong> <a href="tel:+18434139500">(843) 413-9500</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Rock Hill Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 214 Johnston St, Rock Hill, SC 29731</p>
+          <p><strong>Contact:</strong> <a href="tel:+18033279001">(803) 327-9001</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Legal Services (Spartanburg Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas, U visas, Violence Against Women Act (VAWA) petitions</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms, Filings with USCIS</p>
+          <p><strong>Location:</strong> 148 E. Main St, Spartanburg, SC 29306</p>
+          <p><strong>Contact:</strong> <a href="tel:+18645820369">(864) 582-0369</a> | <a href="http://www.sclegal.org" target="_blank" rel="noopener">http://www.sclegal.org</a></p>
+        </div>
+
+        <div class="callout" style="margin-bottom: var(--space-md);">
+          <h4>South Carolina Victim Assistance Network - Immigrant Victim Program (Columbia Office)</h4>
+          <p><strong>Areas of legal assistance:</strong> T visas</p>
+          <p><strong>Types of legal assistance:</strong> Help completing forms</p>
+          <p><strong>Location:</strong> PO Box 212863, Columbia, SC 29221</p>
+          <p><strong>Contact:</strong> <a href="tel:+18037501200">(803) 750-1200</a> | <a href="http://www.scvan.org" target="_blank" rel="noopener">http://www.scvan.org</a> | <a href="mailto:lauren@scvan.org">lauren@scvan.org</a></p>
+        </div>
+      `
+    }
+    ,{
       id: "red-card-amharic",
       number: 26,
       title: "Amharic (አማርኛ)",
