@@ -1222,6 +1222,26 @@ const APP_CONTENT = {
       content: `
         <img src="images/country-flags.png" alt="Flags of 40 Countries" style="width:100%;border-radius:8px;margin-bottom:var(--space-lg);">
 
+        <div class="callout" style="direction: auto;">
+          <p><strong>Do not say anything to the immigration agent if they try to talk to you.</strong><br>
+          Huwag magsalita kung ikaw ay gustong kausapin ng mga Ahente.<br>
+          \u2018Oua teke lea kihe kau \u2018ofisa \u2018Imikuleisoni kapau te nau feinga atu ke mou talanoa.<br>
+          \u5982\u79FB\u6C11\u5C40\u4EBA\u54E1\u5617\u8A66\u548C\u4F60\u4EA4\u8AC7\uFF0C\u4E0D\u8981\u8AAA\u4EC0\u9EBC\u3002<br>
+          NO LE DIGA NADA AL AGENTE DEL SERVICIO DE INMIGRACION SI TRATA DE HABLAR CON USTED.</p>
+
+          <p><strong>Do not open the door if there is an immigration agent knocking at your door.</strong><br>
+          Huwag mong buksan ang pinto kung mayroong mga ahente na mula sa Serbisyong Imigrasyon na kumakatok.<br>
+          \u2018Oua teke fakaava e matapaa \u2018oka Tukituki atu ha \u2018ofisa mei he Potungaue \u2018Imikuleisoni.<br>
+          \u5982\u79FB\u6C11\u5C40\u4EBA\u54E1\u6572\u4F60\u7684\u9580\uFF0C\u4E0D\u8981\u6253\u958B\u9580\u3002<br>
+          NO ABRA LA PUERTA SI UN AGENTE DEL SERVICIO DE INMIGRACION ESTA TOCANDO A LA PUERTA.</p>
+
+          <p><strong>Give your red card to the agent without opening the door.</strong><br>
+          Ibigay itong tarheta sa mga Ahente.<br>
+          \u2018Oange \u2018ae kaati ko eni kihe \u2018ofisa \u2018Imikuleisoni.<br>
+          \u4E0D\u8981\u6253\u958B\u9580\u7D66\u7D05\u5361\u8B93\u4ED6\u5011\u770B\u3002<br>
+          ENTREGUE SU TARJETA ROJA AL AGENTE SIN ABRIR LA PUERTA.</p>
+        </div>
+
         <div class="callout callout-critical">
           <h4>You have constitutional rights:</h4>
           <ul>
