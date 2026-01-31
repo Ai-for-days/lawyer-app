@@ -535,8 +535,8 @@ ul, ol {
 }
 
 .featured-card {
-  background: var(--color-white);
-  border: 2px solid var(--color-red);
+  background: #e7c70d;
+  border: 2px solid #e7c70d;
   border-radius: var(--radius-lg);
   padding: var(--space-xl);
   box-shadow: var(--shadow-md);

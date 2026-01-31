@@ -157,7 +157,7 @@
       refs.featuredSection.innerHTML =
         '<a href="#' + featured.id + '" class="featured-card">' +
           '<span class="featured-card-badge featured-card-cta">IMPORTANT</span>' +
-          '<div class="featured-card-desc">Never talk to law enforcement without a lawyer. Learn the SILENT method and key phrases to protect your rights.</div>' +
+          '<div class="featured-card-desc"><strong>Never talk to law enforcement without a lawyer. Learn the SILENT method and key phrases to protect your rights.</strong></div>' +
           '<span class="featured-card-badge featured-card-cta">Click Here</span>' +
         '</a>';
     }
