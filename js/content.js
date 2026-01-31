@@ -697,6 +697,16 @@ const APP_CONTENT = {
       icon: "globe",
       keywords: ["non-citizen", "immigrant", "immigration", "ICE", "visa", "deportation", "consulate", "287g", "documents"],
       content: `
+        <div class="callout">
+          <h4>Related Resources</h4>
+          <ul>
+            <li><a href="#non-english-speakers"><strong>Non-English Speakers</strong></a> — Red Cards and rights information in 55 languages</li>
+            <li><a href="#aclu-immigrants-rights"><strong>Immigrants' Rights</strong></a> — ACLU Know Your Rights guide</li>
+            <li><a href="#derechos-inmigrantes"><strong>Derechos de los Inmigrantes</strong></a> — Conozca Sus Derechos (en Español)</li>
+            <li><a href="#immigration-legal-services"><strong>Immigration Legal Services Directory</strong></a> — South Carolina legal resources</li>
+          </ul>
+        </div>
+
         <p>Non-citizens in the United States generally have the same constitutional rights as citizens during encounters with law enforcement. However, there are special considerations.</p>
 
         <div class="callout callout-warning">
