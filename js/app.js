@@ -162,7 +162,7 @@
         '</a>';
     }
 
-    var others = APP_CONTENT.sections.filter(function (s) { return !s.isFeatured; });
+    var others = APP_CONTENT.sections.filter(function (s) { return !s.isFeatured && s.id.indexOf('red-card-') !== 0; });
     refs.tocGrid.innerHTML = others.map(function (s) {
       return '<a href="#' + s.id + '" class="toc-card">' +
         '<div class="toc-card-icon">' + getIcon(s.icon) + '</div>' +
@@ -182,7 +182,7 @@
         '<span class="sidebar-item-icon">' + getIcon('grid') + '</span>' +
         '<span class="sidebar-item-text">Table of Contents</span>' +
       '</a>' +
-      APP_CONTENT.sections.map(function (s) {
+      APP_CONTENT.sections.filter(function (s) { return s.id.indexOf('red-card-') !== 0; }).map(function (s) {
         return '<a href="#' + s.id + '" class="sidebar-item" data-section="' + s.id + '">' +
           '<span class="sidebar-item-icon">' + getIcon(s.icon) + '</span>' +
           '<span class="sidebar-item-text">' + s.title + '</span>' +
