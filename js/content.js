@@ -96,7 +96,7 @@ const APP_CONTENT = {
         </div>
 
         <div class="callout callout-info">
-          <h4>Download Alert Assist</h4>
+          <h4>Memorize important numbers and download Alert Assist.</h4>
           <p>We suggest installing the Alert Assist app on your phone. This app can help you quickly notify trusted contacts and record encounters with law enforcement.</p>
           <p><a href="https://play.google.com/store/apps/details?id=com.andromedays.mobile.panic" target="_blank" rel="noopener">Download for Android</a></p>
           <p><a href="https://apps.apple.com/no/app/alertassist/id6752760356" target="_blank" rel="noopener">Download for iPhone</a></p>
