@@ -1395,6 +1395,17 @@ const APP_CONTENT = {
           <p><em>I choose to exercise my constitutional rights.</em></p>
         </div>
 
+        <h3>Key Phrases to Use</h3>
+        <p>If you learn nothing else from this guide, learn these phrases:</p>
+        <p>Press the play button for law enforcement, if needed.</p>
+        <ul class="key-phrases">
+          <li><button class="phrase-play" data-audio="audio/i-want-to-speak-to-a-lawyer.mp3" aria-label="Play audio: I want to speak to a lawyer.">&#9654;</button> I want to speak to a lawyer.</li>
+          <li><button class="phrase-play" data-audio="audio/am-i-free-to-go.mp3" aria-label="Play audio: Am I free to go?">&#9654;</button> Am I free to go?</li>
+          <li><button class="phrase-play" data-audio="audio/i-do-not-consent-to-any-searches.mp3" aria-label="Play audio: I do not consent to any searches.">&#9654;</button> I do not consent to any searches.</li>
+          <li><button class="phrase-play" data-audio="audio/i-am-exercising-my-right-to-remain-silent.mp3" aria-label="Play audio: I am exercising my right to remain silent.">&#9654;</button> I am exercising my right to remain silent.</li>
+          <li><button class="phrase-play" data-audio="audio/i-do-not-wish-to-answer-questions.mp3" aria-label="Play audio: I do not wish to answer questions.">&#9654;</button> I do not wish to answer questions.</li>
+        </ul>
+
         <h3>Red Cards in Other Languages</h3>
         <p>Select a language below to view the Red Card in that language:</p>
         <ul>
