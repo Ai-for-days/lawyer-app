@@ -570,6 +570,7 @@ ul, ol {
   border-radius: var(--radius-sm);
   margin-bottom: var(--space-md);
   text-align: center;
+  min-width: 180px;
 }
 
 .featured-card-title {
