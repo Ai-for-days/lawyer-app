@@ -2190,6 +2190,14 @@ const APP_CONTENT = {
           </div>
         </div>
 
+        <div class="callout" style="text-align:center; margin: var(--space-lg) 0;">
+          <p><strong>Full immigration directory <a href="#immigration-legal-services">HERE</a></strong></p>
+          <ul style="list-style:none; padding:0;">
+            <li><a href="#derechos-inmigrantes"><strong>Derechos de los Inmigrantes</strong></a> — Conozca Sus Derechos (en Español)</li>
+            <li><a href="#immigration-legal-services"><strong>Immigration Legal Services Directory</strong></a> — South Carolina legal resources</li>
+          </ul>
+        </div>
+
         <div class="resource-group">
           <h3 class="resource-group-title">National Resources</h3>
           <div class="resource-link">
