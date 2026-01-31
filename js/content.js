@@ -2251,6 +2251,7 @@ const APP_CONTENT = {
       keywords: ["amharic", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-amharic.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Amharic (አማርኛ)</h4>        <p>ሕገ መንግሥታዊ መብት አሎት፡-</p>
@@ -2299,6 +2300,7 @@ const APP_CONTENT = {
       keywords: ["arabic", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-arabic.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Arabic (العربية)</h4>
@@ -2347,6 +2349,7 @@ const APP_CONTENT = {
       keywords: ["armenian", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-armenian.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Armenian (Հայերեն)</h4>        <p>Դուք սահմանադրական իրավունքներ ունեք։</p>
@@ -2396,6 +2399,7 @@ const APP_CONTENT = {
       keywords: ["bangla", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-bangla.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Bangla</h4>        <p>আপনার যে সকল সাংবিধাবনক অবধকার আছে:</p>
@@ -2444,6 +2448,7 @@ const APP_CONTENT = {
       keywords: ["bosnian", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-bosnian.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Bosnian</h4>
@@ -2504,6 +2509,7 @@ const APP_CONTENT = {
       keywords: ["burmese", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-burmese.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Burmese</h4>        <p>သင့််�တွွင့်� ဖွဲ့့�စည်း��ပုံံ�အခြေ�ေေံဥပုံခြေ�ဆိုု�င့်�ရာာ အေွင့််�အခြေရာ�များ�ာ� ရှိိုပုံါသည်း�</p>
@@ -2553,6 +2559,7 @@ const APP_CONTENT = {
       keywords: ["cantonese", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-cantonese.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Cantonese</h4>        <p>你享有憲法所賦予的權利：</p>
@@ -2599,6 +2606,7 @@ const APP_CONTENT = {
       keywords: ["cape verdean creole", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-cape-verdean-creole.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Cape Verdean Creole</h4>
@@ -2656,6 +2664,7 @@ const APP_CONTENT = {
       keywords: ["cebuano", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-cebuano.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Cebuano</h4>        <p>Ang Konstitusyon naghatag kanimo ug mga katungod:</p>
@@ -2706,6 +2715,7 @@ const APP_CONTENT = {
       keywords: ["chinese", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-chinese-simplified.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Chinese (Simplified) (中文(简体))</h4>        <p>您拥有宪法赋予的权力：</p>
@@ -2754,6 +2764,7 @@ const APP_CONTENT = {
       keywords: ["chinese", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-chinese-traditional.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Chinese (中文(繁體))</h4>
@@ -2810,6 +2821,7 @@ const APP_CONTENT = {
       keywords: ["dari", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-dari.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Dari</h4>        <p>:شما حقوق قانونی دارید</p>
@@ -2854,6 +2866,7 @@ const APP_CONTENT = {
       keywords: ["french", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-french.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>French (Français)</h4>
@@ -2916,6 +2929,7 @@ const APP_CONTENT = {
       keywords: ["georgian", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-georgian.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Georgian</h4>        <p>თქვენ გაქვთ კონსტიტუციური უფლებები:</p>
@@ -2966,6 +2980,7 @@ const APP_CONTENT = {
       keywords: ["greek", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-greek.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Greek</h4>        <p>Έχετε συνταγματικά δικαιώματα:</p>
@@ -3010,6 +3025,7 @@ const APP_CONTENT = {
       keywords: ["haitian creole", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-haitian-creole.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Haitian Creole (Kreyòl Ayisyen)</h4>
@@ -3066,6 +3082,7 @@ const APP_CONTENT = {
       keywords: ["hausa", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-hausa.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Hausa</h4>
@@ -3122,6 +3139,7 @@ const APP_CONTENT = {
       keywords: ["hebrew", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-hebrew.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Hebrew</h4>        <p>:יש לך זכויות חוקתיות</p>
@@ -3170,6 +3188,7 @@ const APP_CONTENT = {
       keywords: ["hindi", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-hindi.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Hindi</h4>        <p>आपके े  पास संवैैधाानि�के अनिधाकेार हैंं:</p>
@@ -3218,6 +3237,7 @@ const APP_CONTENT = {
       keywords: ["hmong", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-hmong.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Hmong</h4>
@@ -3281,6 +3301,7 @@ const APP_CONTENT = {
       keywords: ["igbo", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-igbo.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Igbo</h4>        <p>Ị nwere ikike iwu obodo</p>
@@ -3330,6 +3351,7 @@ const APP_CONTENT = {
       keywords: ["ilocano", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-ilocano.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Ilocano</h4>        <p>Addaanka kadagiti konstitusional a karbengan:</p>
@@ -3379,6 +3401,7 @@ const APP_CONTENT = {
       keywords: ["japanese", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-japanese.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Japanese (日本語)</h4>        <p>あなたには憲法で保障された権利があり ます 。</p>
@@ -3428,6 +3451,7 @@ const APP_CONTENT = {
       keywords: ["karen", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-karen.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Karen</h4>        <p>နအိၣ်ဒီးသဲစးတၢ်ဘျၢမိၢ်ပှၢ်ခွဲးယာ်-</p>
@@ -3477,6 +3501,7 @@ const APP_CONTENT = {
       keywords: ["khmer", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-khmer.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Khmer (ភាសាខ្មែ)</h4>        <ul>
@@ -3535,6 +3560,7 @@ const APP_CONTENT = {
       keywords: ["kinyarwanda", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-kinyarwanda.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Kinyarwanda</h4>
@@ -3596,6 +3622,7 @@ const APP_CONTENT = {
       keywords: ["korean", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-korean.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Korean (한국어)</h4>
@@ -3654,6 +3681,7 @@ const APP_CONTENT = {
       keywords: ["lao", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-lao.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Lao</h4>        <p>ທ່ານມີສິດຕາມລັດຖະທຳມະນູນໃນການ::</p>
@@ -3702,6 +3730,7 @@ const APP_CONTENT = {
       keywords: ["lingala", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-lingala.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Lingala</h4>
@@ -3763,6 +3792,7 @@ const APP_CONTENT = {
       keywords: ["marshallese", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-marshallese.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Marshallese</h4>        <p>Ewōr am maroñ ñan jet jimwe ko an kien:</p>
@@ -3812,6 +3842,7 @@ const APP_CONTENT = {
       keywords: ["mongolian", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-mongolian.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Mongolian</h4>        <p>Та үндсэн хуулиар танд олгогдсон зохих эрхтэй:</p>
@@ -3864,6 +3895,7 @@ const APP_CONTENT = {
       keywords: ["nahuatl", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-nahuatl.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Nahuatl</h4>        <p>Tikpiya in derechos ka timopalehuis:</p>
@@ -3913,6 +3945,7 @@ const APP_CONTENT = {
       keywords: ["nepali", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-nepali.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Nepali</h4>        <p>तपााईँँसँँग सँं वैैधाानि�क अधिधाकारहरू हुन्छ�्:</p>
@@ -3957,6 +3990,7 @@ const APP_CONTENT = {
       keywords: ["oromo", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-oromo.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Oromo</h4>        <p>Mirga seera mootummaatiin kenname ni qabdu:</p>
@@ -4009,6 +4043,7 @@ const APP_CONTENT = {
       keywords: ["pashto", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-pashto.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Pashto</h4>
@@ -4054,6 +4089,7 @@ const APP_CONTENT = {
       keywords: ["polish", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-polish.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Polish</h4>        <p>Masz konstytucyjne prawa:</p>
@@ -4103,6 +4139,7 @@ const APP_CONTENT = {
       keywords: ["portuguese", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-portuguese.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Portuguese (Português)</h4>        <ul>
@@ -4166,6 +4203,7 @@ const APP_CONTENT = {
       keywords: ["punjabi", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-punjabi.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Punjabi (ਪੰਜਾਬੀ)</h4>
@@ -4234,6 +4272,7 @@ const APP_CONTENT = {
       keywords: ["romanian", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-romanian.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Romanian</h4>        <p>Aveți drepturi constituționale:</p>
@@ -4287,6 +4326,7 @@ const APP_CONTENT = {
       keywords: ["russian", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-russian.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Russian (Русский)</h4>
@@ -4337,6 +4377,7 @@ const APP_CONTENT = {
       keywords: ["samoan", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-samoan.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Samoan</h4>        <p>E i ai au aia tau le faavae:</p>
@@ -4387,6 +4428,7 @@ const APP_CONTENT = {
       keywords: ["somali", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-somali.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Somali</h4>        <p>Dastuurka wuxu ku siinaya xaq:</p>
@@ -4431,6 +4473,7 @@ const APP_CONTENT = {
       keywords: ["spanish", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-spanish.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Spanish (Español)</h4>
@@ -4494,6 +4537,7 @@ const APP_CONTENT = {
       keywords: ["swahili", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-swahili.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Swahili</h4>        <p>Una haki ya kisheria.</p>
@@ -4538,6 +4582,7 @@ const APP_CONTENT = {
       keywords: ["tagalog", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-tagalog.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Tagalog</h4>        <ul>
@@ -4600,6 +4645,7 @@ const APP_CONTENT = {
       keywords: ["tamil", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-tamil.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Tamil</h4>        <p>உங்களுக்கு அரசி யலமைை ப்பு அளி த்துள்ள உரி மைை கள் உள்ளன:</p>
@@ -4651,6 +4697,7 @@ const APP_CONTENT = {
       keywords: ["thai", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-thai.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Thai (ภาษาไทย)</h4>        <p>คุณมีสิทธิตามรัฐธรรมนูญ:</p>
@@ -4694,6 +4741,7 @@ const APP_CONTENT = {
       keywords: ["tigrinya", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-tigrinya.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Tigrinya</h4>
@@ -4738,6 +4786,7 @@ const APP_CONTENT = {
       keywords: ["tsotsil", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-tsotsil.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Tsotsil</h4>        <p>Stak’ jech cha pas lie:</p>
@@ -4788,6 +4837,7 @@ const APP_CONTENT = {
       keywords: ["turkish", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-turkish.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Turkish</h4>        <p>Anayasal haklarınız bulunmaktadır:</p>
@@ -4836,6 +4886,7 @@ const APP_CONTENT = {
       keywords: ["ukrainian", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-ukrainian.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Ukrainian</h4>
@@ -4885,6 +4936,7 @@ const APP_CONTENT = {
       keywords: ["urdu", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-urdu.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Urdu (اردو)</h4>        <p>:آپ کے آئینی حقوق ہیں</p>
@@ -4933,6 +4985,7 @@ const APP_CONTENT = {
       keywords: ["vietnamese", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-vietnamese.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Vietnamese (Tiếng-Việt)</h4>
@@ -4990,6 +5043,7 @@ const APP_CONTENT = {
       keywords: ["yoruba", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-yoruba.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>Yoruba</h4>
@@ -5050,6 +5104,7 @@ const APP_CONTENT = {
       keywords: ["فارسی / farsi", "red card", "translation", "non-english"],
       content: `
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
+        <p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:4px;"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg><a href="pdfs/red-card-farsi.pdf" target="_blank" rel="noopener"><strong>PRINTABLE</strong></a></p>
 
         <div class="callout callout-critical" style="direction: auto;">
           <h4>فارسی / Farsi</h4>        <p>:هستید  قانونی  حقوق  دارای  شما</p>
