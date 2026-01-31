@@ -912,110 +912,6 @@ const APP_CONTENT = {
       `
     },
     {
-      id: "resources",
-      number: 14,
-      title: "Resources",
-      subtitle: null,
-      icon: "link",
-      keywords: ["resources", "help", "organizations", "hotline", "legal aid", "ACLU", "bar association", "lawyer referral"],
-      content: `
-        <div class="resource-group">
-          <h3 class="resource-group-title">McGuire Law</h3>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">McGuire Law</div>
-              <div class="resource-link-detail">Phone: <a href="tel:+18884995738">(888) 499-5738</a> \u2014 Free 24/7/365</div>
-              <div class="resource-link-detail">Website: <a href="https://McGuireLawSC.com" target="_blank" rel="noopener">McGuireLawSC.com</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="resource-group">
-          <h3 class="resource-group-title">ACLU of South Carolina</h3>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">ACLU of South Carolina</div>
-              <div class="resource-link-detail">Website: <a href="https://www.aclusc.org" target="_blank" rel="noopener">www.aclusc.org</a></div>
-              <div class="resource-link-detail">Mobile Justice App: Download from App Store or Google Play to record encounters</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="resource-group">
-          <h3 class="resource-group-title">Legal Resources</h3>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">SC Legal Resource Finder</div>
-              <div class="resource-link-detail"><a href="https://sclegalservices.org" target="_blank" rel="noopener">sclegalservices.org</a></div>
-            </div>
-          </div>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">South Carolina Appleseed Legal Justice Center</div>
-              <div class="resource-link-detail"><a href="https://www.scjustice.org" target="_blank" rel="noopener">www.scjustice.org</a></div>
-            </div>
-          </div>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">Charleston Legal Access</div>
-              <div class="resource-link-detail"><a href="https://www.charlestonlegalaccess.org" target="_blank" rel="noopener">www.charlestonlegalaccess.org</a></div>
-            </div>
-          </div>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">SC Bar Lawyer Referral</div>
-              <div class="resource-link-detail">Phone: (803) 799-7100</div>
-              <div class="resource-link-detail">Website: <a href="https://www.scbar.org" target="_blank" rel="noopener">www.scbar.org</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="resource-group">
-          <h3 class="resource-group-title">Immigration Resources</h3>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">AILA Lawyer Search</div>
-              <div class="resource-link-detail"><a href="https://www.aila.org" target="_blank" rel="noopener">www.aila.org</a></div>
-            </div>
-          </div>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">National Immigration Law Center</div>
-              <div class="resource-link-detail"><a href="https://www.nilc.org" target="_blank" rel="noopener">www.nilc.org</a></div>
-            </div>
-          </div>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">American Immigration Lawyers Association</div>
-              <div class="resource-link-detail">Phone: (800) 954-0254</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="resource-group">
-          <h3 class="resource-group-title">National Resources</h3>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">National Lawyers Guild</div>
-              <div class="resource-link-detail">Phone: (212) 679-5100</div>
-            </div>
-          </div>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">U.S. Commission on Civil Rights</div>
-              <div class="resource-link-detail">Phone: (800) 552-6843</div>
-            </div>
-          </div>
-          <div class="resource-link">
-            <div>
-              <div class="resource-link-name">ACLU National</div>
-              <div class="resource-link-detail"><a href="https://www.aclu.org" target="_blank" rel="noopener">www.aclu.org</a></div>
-            </div>
-          </div>
-        </div>
-      `
-    },
-    {
       id: "police-tactics",
       number: 15,
       title: "Common Police Tactics",
@@ -1315,63 +1211,7 @@ const APP_CONTENT = {
           <li>Understanding consequences</li>
         </ul>
       `
-    },
-    {
-      id: "install",
-      number: 22,
-      title: "Install This App",
-      subtitle: "Get it on your phone",
-      icon: "smartphone",
-      keywords: ["install", "download", "app", "phone", "home screen", "offline", "android", "iphone"],
-      content: `
-        <p>Install the <strong>LAWYER</strong> app on your phone so you can access your rights guide anytime — even without internet.</p>
-        <div class="callout callout-info">
-          <h4>App Link</h4>
-          <p><strong><a href="https://rb.gy/nckotl">https://rb.gy/nckotl</a></strong></p>
-        </div>
-
-        <h3>Android (Chrome)</h3>
-        <ol>
-          <li>Open <strong>Google Chrome</strong> (not the LAWYER app if already installed)</li>
-          <li>Go to <strong>https://rb.gy/nckotl</strong></li>
-          <li>Look for an <strong>install icon</strong> in the address bar (a phone with a down arrow), or tap the <strong>three-dot menu (\u22EE)</strong> in the top-right corner of Chrome</li>
-          <li>Tap <strong>"Install app"</strong> or <strong>"Add to Home screen"</strong></li>
-          <li>Tap <strong>"Install"</strong> or <strong>"Add"</strong> to confirm</li>
-        </ol>
-        <div class="callout callout-warning">
-          <h4>Don't see the three-dot menu?</h4>
-          <p>If you only see a search icon in the top right, you are viewing the <strong>installed app</strong>, not Chrome. Close the app and open <strong>Google Chrome</strong> from your home screen or app drawer, then type in the website address.</p>
-        </div>
-        <div class="callout callout-tip">
-          <h4>Can't find the app after installing?</h4>
-          <p>On some Android phones, newly installed apps appear in your <strong>app drawer</strong> (swipe up from the bottom of your home screen) rather than directly on the home screen. Look for the gold McGuire Law "M" icon labeled <strong>LAWYER</strong>.</p>
-          <p>To move it to your home screen: <strong>long-press</strong> the app icon in the drawer and drag it to your home screen.</p>
-        </div>
-
-        <h3>iPhone (Safari)</h3>
-        <ol>
-          <li>Open <strong>Safari</strong> (the compass icon — not Chrome or other browsers)</li>
-          <li>Go to <strong>https://rb.gy/nckotl</strong></li>
-          <li>Tap the <strong>three dots (\u2026)</strong> at the bottom center of the screen to open the menu</li>
-          <li>Tap the <strong>Share button</strong> (the square with an arrow pointing up)</li>
-          <li>Scroll down and tap <strong>"Add to Home Screen"</strong></li>
-          <li>Tap <strong>"Add"</strong> in the top-right corner</li>
-        </ol>
-        <div class="callout callout-info">
-          <h4>Why Safari?</h4>
-          <p>On iPhone, only Safari supports installing web apps to the home screen. Chrome and other browsers will not show this option.</p>
-        </div>
-
-        <h3>What you get</h3>
-        <ul>
-          <li><strong>Works offline</strong> — access all 22 sections without internet</li>
-          <li><strong>One-tap call</strong> — call McGuire Law instantly from the app</li>
-          <li><strong>No app store needed</strong> — no download fees, no account required</li>
-          <li><strong>Always up to date</strong> — the app updates automatically when you're online</li>
-          <li><strong>Private</strong> — no tracking, no data collection, no ads</li>
-        </ul>
-      `
-    },
+    }
     {
       id: "non-english-speakers",
       number: 23,
@@ -2269,6 +2109,111 @@ const APP_CONTENT = {
         </div>
       `
     }
+,
+    {
+      id: "resources",
+      number: 14,
+      title: "Resources",
+      subtitle: null,
+      icon: "link",
+      keywords: ["resources", "help", "organizations", "hotline", "legal aid", "ACLU", "bar association", "lawyer referral"],
+      content: `
+        <div class="resource-group">
+          <h3 class="resource-group-title">McGuire Law</h3>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">McGuire Law</div>
+              <div class="resource-link-detail">Phone: <a href="tel:+18884995738">(888) 499-5738</a> \u2014 Free 24/7/365</div>
+              <div class="resource-link-detail">Website: <a href="https://McGuireLawSC.com" target="_blank" rel="noopener">McGuireLawSC.com</a></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="resource-group">
+          <h3 class="resource-group-title">ACLU of South Carolina</h3>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">ACLU of South Carolina</div>
+              <div class="resource-link-detail">Website: <a href="https://www.aclusc.org" target="_blank" rel="noopener">www.aclusc.org</a></div>
+              <div class="resource-link-detail">Mobile Justice App: Download from App Store or Google Play to record encounters</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="resource-group">
+          <h3 class="resource-group-title">Legal Resources</h3>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">SC Legal Resource Finder</div>
+              <div class="resource-link-detail"><a href="https://sclegalservices.org" target="_blank" rel="noopener">sclegalservices.org</a></div>
+            </div>
+          </div>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">South Carolina Appleseed Legal Justice Center</div>
+              <div class="resource-link-detail"><a href="https://www.scjustice.org" target="_blank" rel="noopener">www.scjustice.org</a></div>
+            </div>
+          </div>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">Charleston Legal Access</div>
+              <div class="resource-link-detail"><a href="https://www.charlestonlegalaccess.org" target="_blank" rel="noopener">www.charlestonlegalaccess.org</a></div>
+            </div>
+          </div>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">SC Bar Lawyer Referral</div>
+              <div class="resource-link-detail">Phone: (803) 799-7100</div>
+              <div class="resource-link-detail">Website: <a href="https://www.scbar.org" target="_blank" rel="noopener">www.scbar.org</a></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="resource-group">
+          <h3 class="resource-group-title">Immigration Resources</h3>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">AILA Lawyer Search</div>
+              <div class="resource-link-detail"><a href="https://www.aila.org" target="_blank" rel="noopener">www.aila.org</a></div>
+            </div>
+          </div>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">National Immigration Law Center</div>
+              <div class="resource-link-detail"><a href="https://www.nilc.org" target="_blank" rel="noopener">www.nilc.org</a></div>
+            </div>
+          </div>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">American Immigration Lawyers Association</div>
+              <div class="resource-link-detail">Phone: (800) 954-0254</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="resource-group">
+          <h3 class="resource-group-title">National Resources</h3>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">National Lawyers Guild</div>
+              <div class="resource-link-detail">Phone: (212) 679-5100</div>
+            </div>
+          </div>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">U.S. Commission on Civil Rights</div>
+              <div class="resource-link-detail">Phone: (800) 552-6843</div>
+            </div>
+          </div>
+          <div class="resource-link">
+            <div>
+              <div class="resource-link-name">ACLU National</div>
+              <div class="resource-link-detail"><a href="https://www.aclu.org" target="_blank" rel="noopener">www.aclu.org</a></div>
+            </div>
+          </div>
+        </div>
+      `
+    },
     ,{
       id: "red-card-amharic",
       number: 26,
