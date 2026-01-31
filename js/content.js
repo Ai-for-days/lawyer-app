@@ -1370,7 +1370,7 @@ const APP_CONTENT = {
       icon: "globe",
       keywords: ["language", "non-english", "spanish", "chinese", "vietnamese", "korean", "arabic", "french", "portuguese", "interpreter", "translation", "multilingual", "foreign"],
       content: `
-        <img src="images/flags-of-the-world.jpg" alt="Flags of the World" style="width:100%;border-radius:8px;margin-bottom:var(--space-lg);">
+        <img src="images/country-flags.png" alt="Flags of 37 Countries" style="width:100%;border-radius:8px;margin-bottom:var(--space-lg);">
 
         <p>This section is for individuals in South Carolina who speak a language other than English. Your rights are the same regardless of what language you speak. You have the right to an interpreter during any law enforcement encounter.</p>
 
