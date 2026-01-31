@@ -134,7 +134,7 @@
     state.currentSectionId = sectionId;
 
     refs.sectionHeader.innerHTML = buildSectionHeader(section);
-    refs.sectionBody.innerHTML = section.content;
+    refs.sectionBody.innerHTML = section.content + '<p style="text-align:center;opacity:0.6;margin-top:var(--space-xl);font-size:var(--text-sm);">Information courtesy of ACLU</p>';
     refs.sectionNav.innerHTML = buildSectionNav(section);
 
     refs.viewHome.hidden = true;
