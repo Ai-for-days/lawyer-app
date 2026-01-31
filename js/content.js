@@ -1384,8 +1384,8 @@ const APP_CONTENT = {
         </div>
 
         <div class="phrase-card" style="margin: var(--space-md) 0;">
-          <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-          <span class="phrase-text">Listen to the English rights statement</span>
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
         </div>
 
         <div class="callout">
@@ -2100,10 +2100,8 @@ const APP_CONTENT = {
         <p>በእርጋታ ይሂዱ።</p>
         <p>ይህንን ካርድ ለወኪሉ ይስጡት። በቤትዎ ውስጥ ከሆኑ, ካርዱን በመስኮቱ በኩል ያሳዩ</p>
         <p>ወይም በበሩ ስር ያንሸራትቱ.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2112,16 +2110,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2148,10 +2148,8 @@ const APP_CONTENT = {
         <p>غادر بهدوء.</p>
         <p>أعطي هذه البطاقة للشرطي. إذا كنت داخل منزلك، اعرض البطاقة من خلال •</p>
         <p>النافذة أو مررها من تحت الباب.</p>
-        <p>لديك حقوق دستورية:</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>لديك حقوق دستورية:</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2160,16 +2158,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2197,10 +2197,8 @@ const APP_CONTENT = {
         <p>հեռացե՛ք։</p>
         <p>ՏՎԵ՛Ք ԱՅՍ ԹՈՒՂԹԸ ԳՈՐԾԱԿԱԼԻՆ։ Եթե ձեր տան ներսում եք, նրանց</p>
         <p>ցույց տվե՛ք այս թուղթը պատուհանից կամ սահեցրե՛ք դռան ներքեվից։</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2209,16 +2207,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2245,10 +2245,8 @@ const APP_CONTENT = {
         <p>আপবন যেছত পারছিন বকনা; েবি তারা হ্যযাা িছল, তাহছল শান্তিাছি েছল োন।</p>
         <p>এবজন্্টব� এই �ার্ ্ড টি কদন। েবি আপবন আপনার িাবড়র বিতছর োছকন তছি</p>
         <p>কার্ ্ড টি োনালা বিছয় যিখান এিং িরোর বনে বিছয় িাইছর বিন।</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2257,16 +2255,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2305,10 +2305,8 @@ const APP_CONTENT = {
         <ul>
           <li>DAJTE OVU KARTICU SLUŽBENIKU. Ako ste u svom domu,</li>
         </ul>
-        <p>pokažite karticu kroz prozor ili je provucite ispod vrata.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>pokažite karticu kroz prozor ili je provucite ispod vrata.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2317,16 +2315,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2354,10 +2354,8 @@ const APP_CONTENT = {
         <p>ဤ����ပုံာ�အာ� အရာာရှိို� ု� �ပုံသပုံါ။ အ��� ၍ သင့်�သည်း� အုများ�ထိုး�တွွင့်�ရှိိုခြေန်ပုံါ� ဤ����ပုံာ�</p>
         <p>အာ� �ပုံူတွင့်��ခြေပုံါ��များိတွစ�ဆိုင့််��ပုံသပုံါ၊ သု�များဟု�တွ� တွံေါ�ခြေအာ��များိတွစ�ဆိုင့််� ထိုး�တွ�ခြေပုံ�၍ �ပုံသ</p>
         <p>ပုံါ။</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2366,16 +2364,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2400,10 +2400,8 @@ const APP_CONTENT = {
         <p>「可以」 ， 請冷靜離開。</p>
         <p>請將此卡片交畀移民官員。 如果你喺屋企入面， 你可以通過窗口展示卡片，</p>
         <p>或由門下遞出卡片。</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2412,16 +2410,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2457,10 +2457,8 @@ const APP_CONTENT = {
         <ul>
           <li>DA AJENTI KEL KARTON LI. Si bu sta dentu di bu kasa,</li>
         </ul>
-        <p>mostral karton pa janela ô pasal pa baxu porta.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>mostral karton pa janela ô pasal pa baxu porta.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2469,16 +2467,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2507,10 +2507,8 @@ const APP_CONTENT = {
         <p>ba nga mobiya, ug kon sila moingon nga oo, mobiya ka nga malinawon.</p>
         <p>IHATAG KINI NGA KARD NGADTO SA AHENTE. Kon anaa ka sa sulod sa imong</p>
         <p>balay, ipakita ang kard diha sa bintana o isuksok kini sa ilawom sa pultahan.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2519,16 +2517,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2555,10 +2555,8 @@ const APP_CONTENT = {
         <p>们说可以， 请冷静离开。</p>
         <p>将此卡片交给调查员。 如果您在家中， 请通过窗户展</p>
         <p>示这张卡片或将其从门缝下递出。</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2567,16 +2565,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2611,10 +2611,8 @@ const APP_CONTENT = {
         <ul>
           <li>出示此卡給移民局人員看。如你在家裡。可在窗口或</li>
         </ul>
-        <p>門下面遞出去給他們看。</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>門下面遞出去給他們看。</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2623,16 +2621,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2655,10 +2655,8 @@ const APP_CONTENT = {
         <p>. بدون این که ابتدا با یک وکیل صحبت کنید. شما حق دارید که با یک هیچ چیزی را امضا نکنید وکیل مشورت کنید</p>
         <p>.اگر بیرون از خانه خود هستید، از مأمور بپرسید که آیا شما آزاد هستید که بروید. اگر بگوید بلی،  آرام محل را ترک کنید</p>
         <p>. اگر در داخل خانه خود هستید، کارت را از طریق کلکین نشاناین کارت را به مأمور بدهید. دهید یا آنرا از زیر دروازه بفرستید</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2667,16 +2665,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2717,10 +2717,8 @@ const APP_CONTENT = {
           <li>DONNEZ CETTE CARTE À L’AGENT. Si vous êtes chez</li>
         </ul>
         <p>vous, montrez-lui la carte à la fenêtre ou glissez-la sous la</p>
-        <p>porte.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>porte.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2729,16 +2727,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2767,10 +2767,8 @@ const APP_CONTENT = {
         <p>ადგილი.</p>
         <p>მიეცით ეს ბარათი აგენტს. თუ სახლში იმყოფებით, აჩვენეთ ეს</p>
         <p>ბარათი მას ფანჯრიდან ან გააცურეთ კარების ქვეშ.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2779,16 +2777,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2811,10 +2811,8 @@ const APP_CONTENT = {
         <p>ΜΗΝ ΥΠΟΓΡΆΨΕΤΕ ΤΙΠΟΤΑ χωρίς να μιλήσετε πρώτα σε δικηγόρο. Έχετε το δικαίωμα να μιλήσετε με δικηγόρο.</p>
         <p>Εάν βρίσκεστε έξω από το σπίτι σας, ρωτήστε τον πράκτορα αν είστε ελεύθεροι να φύγετε, και αν σας πουν ναι, φύγετε ήρεμα.</p>
         <p>ΔΩΣΤΕ ΑΥΤΗ ΤΗΝ ΚΑΡΤΑ ΣΤΟΝ ΠΡΑΚΤΟΡΑ. Εάν βρίσκεστε μέσα στο σπίτι σας, δείξτε την κάρτα από το παράθυρο ή περάστε την κάτω από την πόρτα.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2823,16 +2821,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2867,10 +2867,8 @@ const APP_CONTENT = {
         <ul>
           <li>BAY AJAN KAT SA. Si ou anndan lakay ou, montre kat</li>
         </ul>
-        <p>la nan fenèt la oswa glise li anba pòt la.1</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>la nan fenèt la oswa glise li anba pòt la.1</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2879,16 +2877,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2923,10 +2923,8 @@ const APP_CONTENT = {
         <ul>
           <li>BADA WANNAN KATIN GA WAKILI. Idan kana cikin gidanka, nuna</li>
         </ul>
-        <p>katin ta taga ko ka tura shi ta ƙarƙashin ƙofar.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>katin ta taga ko ka tura shi ta ƙarƙashin ƙofar.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2935,16 +2933,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -2971,10 +2971,8 @@ const APP_CONTENT = {
         <p>.לעזוב, ואם כן, פשוט עזוב/י את הבית בשלווה</p>
         <p>תנ/י כרטיס זה לסוכן ההגירה. אם הנך בתוך ביתך, באפשרותך להציג</p>
         <p>.כרטיס זה מבעד לחלון הבית או להעביר אותו מתחת לדלת הבית</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -2983,16 +2981,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3019,10 +3019,8 @@ const APP_CONTENT = {
         <p>और अगर वाे हाा� कोहातोे हां, तोो शांकितो सेे बााहार किनकोलेंं।</p>
         <p>याहा कोार्डड एजेंंट कोो दं। अगर आप अपने घर कोे  अंदर हां, तोो कोार्डड कोो खिखड़कोी सेे दिदखाए� याा</p>
         <p>दरवााज़ाे कोे  नीचुे सेरकोा दं।</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3031,16 +3029,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3082,10 +3082,8 @@ const APP_CONTENT = {
           <li>MUAB DAIM NPAV (DAIM PHIAJ) RAU TUS TIB NEEG SAWV CEV</li>
         </ul>
         <p>TSOOM FWV. Yog tias koj nyob hauv tsev, tes muab daim npav tsa ntawm</p>
-        <p>lub qhov rais kom nws pom los yog muab ntxig hauv qab qhov rooj mus.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>lub qhov rais kom nws pom los yog muab ntxig hauv qab qhov rooj mus.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3094,16 +3092,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3131,10 +3131,8 @@ const APP_CONTENT = {
         <p>ma ọ bụrụ na ha asị ee, pụ nwayọọ.</p>
         <p>ENYE KAADỊ ONYE NNỌCHI ANYA. Ọ bụrụ na ị nọ n’ ime ụlọ gị, gosi</p>
         <p>kaadị ahụ site na windo ma ọ bụ s’ ite n’ okpuru ọnụ ụzọ</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3143,16 +3141,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3180,10 +3180,8 @@ const APP_CONTENT = {
         <p>pumanaw ket no kunada a wen, kalmado a pumanawka.</p>
         <p>ITED DAYTOY A CARD ITI AHENTE. No addaka iti uneg ti pagtaengam,</p>
         <p>ipakitam ti kard babaen ti tawa wenno i-slide-mo iti sirok ti ridaw.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3192,16 +3190,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3229,10 +3229,8 @@ const APP_CONTENT = {
         <p>このカー ドを職員に渡し て く ださい。 家にいる場合は、 窓辺から職員</p>
         <p>に 見 せ てくだ さ い 。 あ る い は 、 カ ードをドア の 下 か ら 滑 り込 ま せ てくだ</p>
         <p>さい。</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3241,16 +3239,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3278,10 +3278,8 @@ const APP_CONTENT = {
         <p>ပျဲနၤ ဟးသဒၣ်ကွံာ်ဃိဒိ တက့ၢ်ႋ</p>
         <p>ဟ့ၣ်ခးအံၤဆူပှၤဘၣ်မူဘၣ်ဒါတက့ၢ်ႋ နမ့ၢ်အိၣ်လၢနဟံၣ်ပူၤ ဒုးနဲၣ်ပာ်ဖျါခးခီဖျိပဲတြီဖိ</p>
         <p>မ့တမ့ၢ် ဂိာ်လီၤလၢပဲတြီဖီလာ်တက့ၢ်ႋ</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3290,16 +3288,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3336,10 +3336,8 @@ const APP_CONTENT = {
           <li>្របសិនេបើេលាកអ្នកេនៅខាងេ្រកៅផ្ទះ របស់ េលាកអ្នក សូមសួរភា)*ក់ងារថា េតើេលាកអ្នក អាចចា</li>
           <li>ផ្តល់កាតេនះេទៅឲ*=ភា)*ក់ងារ។ ្របសិនេបើ េលាកអ្នកេនៅខាងក្នlងផ្ទះរបស់ េលាកអ្នក សូមបងា</li>
         </ul>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3348,16 +3346,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3397,10 +3397,8 @@ const APP_CONTENT = {
         <ul>
           <li>HA UWO MUKOZI IYI KARITA. Niba uri mu nzu, uzerekanire ikarita</li>
         </ul>
-        <p>mu idirishya cyangwa uyinyuze munsi y’urugi.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>mu idirishya cyangwa uyinyuze munsi y’urugi.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3409,16 +3407,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3455,10 +3455,8 @@ const APP_CONTENT = {
           <li>이 카드를 이민국 요원에게 주십시요. 만약 귀하가 집안에</li>
         </ul>
         <p>머물고 있다면, 이 카드를 창문이나 문 아래로 밀 어 넣어</p>
-        <p>전달하십시요.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>전달하십시요.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3467,16 +3465,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3503,10 +3503,8 @@ const APP_CONTENT = {
         <p>ອອກໄປໄດ້ບໍ ແລະ ຖ້າພວກເຂົາບອກໃຫ້ໄປໄດ້, ອອກໄປຢ່າງໃຈເຢັນ.</p>
         <p>ເອົາບັດນີ້ໃຫ້ໜ່ວຍງານ. ຖ້າຫາກທ່ານຢູ່ໃນເຮືອນຂອງທ່ານ, ສະແດງບັດນີ້</p>
         <p>ຜ່ານປ່ອງຢ້ຽມ ຫຼື ສອດມັນໄປທາງດ້ານລຸ່ມປະຕູ.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3515,16 +3513,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3564,10 +3564,8 @@ const APP_CONTENT = {
         <ul>
           <li>HA UWO MUKOZI IYI KARITA. Niba uri mu nzu, uzerekanire ikarita</li>
         </ul>
-        <p>mu idirishya cyangwa uyinyuze munsi y’urugi.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>mu idirishya cyangwa uyinyuze munsi y’urugi.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3576,16 +3574,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3613,10 +3613,8 @@ const APP_CONTENT = {
         <p>pād ilo m̧weo, im eļan̄ n̄ e rej uwaak bwe kwoj, innām etal ilo jidimkij.</p>
         <p>KWŌJ KŌMMAN RI-JERBAL EO KAAR IN. Likūt kaat eo ium̧win kōjām</p>
         <p>eo ak kwaļo̧ ke ilo wintō eo eļan̄ n̄ e kwoj pād ilowaan m̧weo im̧ōm̧.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3625,16 +3623,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3665,10 +3665,8 @@ const APP_CONTENT = {
         <p>ЭНЭ КАРТЫГ АГЕНТ БУЮУ АЖИЛТАНД ӨГӨӨРЭЙ. Хэрвээ та</p>
         <p>гэртээ байвал, картыг цонхоороо үзүүлнэ эсвэл хаалганы доогуур</p>
         <p>гулгуулж үзүүлээрэй.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3677,16 +3675,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3714,10 +3714,8 @@ const APP_CONTENT = {
         <p>kema, xiya ka kuali xka amantli.</p>
         <p>XMAKA IN AMATLAKUILOLI ON AGENTE. Tla tika pan mocha, xkititi in</p>
         <p>amatlakuloli pan ventana otlamo xmaka ka tlatsintla pan tlatzacuilotl.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3726,16 +3724,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3758,10 +3758,8 @@ const APP_CONTENT = {
         <p>वैदिकलेसँँग कुरा �गरेसँम्म काुनै पनिन काु राामाा स्हिहो ( होस्तााक्षरा ) नगनु�होोस््, तपााईंलेाईँ वैदिकलेसँँग कुरा ग�े अधिधाकार छ।</p>
         <p>यदि� तपााईं आफ्�ो घर बादिहर हु�ुहुन्छ भ�े,जेा� मिमौल्छ दिक मिमौल्दैै� भ�ेर एजेेण्टसँँग सँोध्नुुहोसँ्, यदि� उ�ीहरूलेे मिमौल्छ भ�े भ�े शाान्ति�पाूवैनक जेा�ुहोसँ्।</p>
         <p>योो काार्ड� एज ेण्टलेाई दि�नुहोोस््। यदि� तपााईं घर भिभत्र हु�ुहुन्छ भ�े झ्याालेबाट कार्डन �ेखोाउ�ुहोसँ् या ढोोकामौुनि�बाट छिछराउ�ुहोसँ् ।</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3770,16 +3768,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3810,10 +3810,8 @@ const APP_CONTENT = {
         <p>KAARDII KANA BAKKA BU’ AA IMMIGIREESHININIITTI KENNAA. Y oo mana</p>
         <p>keessan keessa jirtu ta’ e, kaardii sana karaa foddaatiin agarsiisi ykn balbala jalatti siqsa</p>
         <p>agarsiisa.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3822,16 +3820,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3855,10 +3855,8 @@ const APP_CONTENT = {
         <p>د خپل وکیل سره د مشوره مرینه هیچ اسنده مه امضاء کری. تاسو حق لری نه خپل وکیل سره خبری وکری.</p>
         <p>که نه خپل بیرون باست نه نماینده خخه پوښتنه وکری جی کوم ههه جای خخه لار شی که ههه ووی بلی نو ههه جای په ارامی سره پریودی.</p>
         <p>دا کارت د مهاجرینو نماینده نه و سیاست، که تاسو د ننه یه کور باست نو د کارت دروازه له لاندی ورته ورکری او بینی د کرکی له ښنه ورته وښایاست.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3867,16 +3865,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3904,10 +3904,8 @@ const APP_CONTENT = {
         <p>oddalić. Jeśli powie, że tak, spokojnie odejdź.</p>
         <p>DAJ TĘ KARTĘ AGENTOWI. Jeśli jesteś w domu, pokaż tę</p>
         <p>kartę przez okno lub wsuń ją pod drzwi.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3916,16 +3914,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -3967,10 +3967,8 @@ const APP_CONTENT = {
         <p>porta</p>
         <p>Você tem direitos constitucionais:</p>
         <p>para ir embora, e, se ele disser que sim, retire-se calmamente.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -3979,16 +3977,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4035,10 +4035,8 @@ const APP_CONTENT = {
         <p>ਜ�ਕਰ ਤ�ਸੀਂ ਆਪਣ� ਘਰ ਤੋਂ ਬਾਹਰ ਹ�, ਤਾਂ ਏਜ�ਟ ਤੋਂ ਪ��ਛ� ਿਕ ਕੀ ਤ�ਸੀਂ ਜਾਣ ਲਈ ਆਜ਼ਾਦ</p>
         <p>ਇਹ ਕਾਰਡ ਏਜ</p>
         <p>�ਟ ਨੂੰ ਿਦਓ। ਜ�ਕਰ ਤ�ਸੀਂ ਆਪਣ� ਘਰ ਦੇ ਅ�ਦਰ ਹ�, ਤਾਂ ਇਹ ਕਾਰਡ</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4047,16 +4045,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4088,10 +4088,8 @@ const APP_CONTENT = {
         <p>să plecați, iar dacă spune „da”, plecați calm.</p>
         <p>DAȚI ACEST CARD OFIȚERULUI. Dacă vă aflați în casă,</p>
         <p>arătați cardul prin fereastră sau pe sub ușă.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4100,16 +4098,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4138,10 +4138,8 @@ const APP_CONTENT = {
         <p>Если вы находитесь вне дома, спросите агента, можете ли вы уйти, и</p>
         <p>если он скажет «да», спокойно уйдите.</p>
         <p>ОТ ДАЙТЕ ЭТУ КАРТУ АГЕНТУ.  Если вы находитесь в своем доме,</p>
-        <p>покажите карточку через окно или просуньте ее под дверь.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>покажите карточку через окно или просуньте ее под дверь.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4150,16 +4148,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4188,10 +4188,8 @@ const APP_CONTENT = {
         <p>TUU ATU LE CARD LEA I LE TAGATA O LE OFISA. Afai o e i ai i totonu</p>
         <p>o lou fale, fa’aali atu i ai le card i le faamalama pe faasee atu i lalo o le</p>
         <p>faitoto’a.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4200,16 +4198,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4232,10 +4232,8 @@ const APP_CONTENT = {
         <p>Waxaad xaq u leedahay qareen. Adigoo qareen la hadlin, wax-bana ha saxiixin.</p>
         <p>Hadii wakiilku gurigaaga banaankiisa kugu qabto waxaad weydiisa hadii aad xaq u leedahay in aad ka dhaqaaqdid. Hadii u yiraahdo haa, si tartiib ah uga dhaqaaq.</p>
         <p>Wakiilka kaarkaan tus. Hadii aad guriga ku jirtid, darishada ka sii ama albaabka hoostiista.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4244,16 +4242,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4295,10 +4295,8 @@ const APP_CONTENT = {
           <li>ENTRÉGUELE ESTA TARJETA EL AGENTE. Si usted está</li>
         </ul>
         <p>dentro de su casa, muestre la tarjeta por la ventana o pásela</p>
-        <p>debajo de la puerta.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>debajo de la puerta.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4307,16 +4305,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4339,10 +4339,8 @@ const APP_CONTENT = {
         <p>USITIE SAINI POPOTE bila kuongea na wakili. Una haki ya kuongea na wakili.</p>
         <p>Utakapo kuwa mbali na kwako, uliza afisa kama unaweza ondo-ka na wakikubali ujiondoe kipolepole</p>
         <p>PEANA KADI HII KWA AFISA. Ukiwa nyumbani kwako, waonye-she kupitia dirisha ama wapitishie na chini ya mlangp</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4351,16 +4349,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4401,10 +4401,8 @@ const APP_CONTENT = {
         </ul>
         <p>bahay, ipakita ang card sa bintana o ilusot sa ilalim ng pinto.</p>
         <p>ay maari ng umalis at kung sabihin nila na pwede, umalis ka nang kalmado.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4413,16 +4411,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4452,10 +4452,8 @@ const APP_CONTENT = {
         <p>இந்த அட்மைடாமைய முகவரி டாம் யெகா டுங்கள். நீங்கள் உங்கள் வீட்டிற்குள் இருந்தா</p>
         <p>ல்,அட்மைடா மைய ஜன்னல் வழி யா க கா ட்டாவும் அல்லது அமைத கதவுக்குக் கீவேழ</p>
         <p>நழுவவி டாவும்.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4464,16 +4462,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4495,10 +4495,8 @@ const APP_CONTENT = {
         <p>ห้ามตอบคำาถามใด ๆ  กับเจ้าหน้าที่ตรวจคนเข้าเมือง หากเจ้าหน้าที่เหล่านั้นต้องการพูดคุยกับท่าน ท่านมีสิทธิที่จะไม่พูด</p>
         <p>ห้ามเซ็นเอกสารใด ๆ  หากท่านยังไม่ได้พูดคุยกับทนายความ ท่านมีสิทธิในการพบทนายความ</p>
         <p>หากท่านอยู่นอกบ้าน โปรดถามเจ้าหน้าที่ว่าท่านสามารถออกไปจากสถานการณ์ตรงนี้ได้หรือไม่ หากเจ้าหน้าที่อนุญาต โปรดออกมาอย่างไม่ตื่นตระหนก โปรดยื่นบัตรนี้ให้แก่เจ้าหน้าที่ หากท่านอยู่ภายในบ้านของท่าน โปรดแสดงบัตรผ่านทางหน้าต่าง หรือสอดผ่านใต้ประตู</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4507,16 +4505,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4539,10 +4539,8 @@ const APP_CONTENT = {
         <p>ብወኪላት ኢምግረሽን ዝኾን ሕጦ አንተቀሪብልኩም ንቲ ሕጦ ናይ ዘይምምላስ ወይ ብቆ ናይ ምባል መስልልኩም ሕሱውዩ።</p>
         <p>ምስ ናይ ሕጊ ጠበቃ ከይተዛረብኩም ዝኾን ነገር ከይትፍርሙ። ምስ ጠበቃ ናይ ምምዛር መስልዑን አልኩም።</p>
         <p>ካብ መንበሪ ቤት ወጺእ ከለኁም ብወኪላት ኢምግረሽን ሕጦ እንተ ተሓቲትኩም ካብቲ ቦታ ክትከዱ ከምእትንኽእለ ፍቃድ ሓቲትኩም ምስተፍቁዳልኩም ካብቲ ቦታ ኪዱ።</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4551,16 +4549,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4589,10 +4589,8 @@ const APP_CONTENT = {
         <p>AK’BO LI TARGETA LI’E TI YAJ AMTELTAK YU-UN AJBALI-</p>
         <p>LE. Ti mi te oyot ta nae, ak’bo yil li tarjetae ti b’uy xu’ ta sta ta</p>
         <p>sk’elelé mi mo’oje ak’bo lok’el ta yolon ti’ná</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4601,16 +4599,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4637,10 +4637,8 @@ const APP_CONTENT = {
         <p>madığınızı sorun ve evet derlerse sakince ayrılın.</p>
         <p>BU KARTI GÖREVLİYE VERİN. Evinizin içindeyseniz, karW</p>
         <p>pencereden gösterin veya kapının alWndan geçirin.</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4649,16 +4647,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4686,10 +4686,8 @@ const APP_CONTENT = {
         <p>Якщо ви знаходитесь за межами свого будинку, попросіть агента, чи</p>
         <p>можете ви вільні іти, і якщо вони скажуть “так”, ви можете іти спокійно.</p>
         <p>ДАЙТЕ ЦЮ КАРТКУ АГЕНТУ. Якщо ви перебуваєте всередині свого</p>
-        <p>будинку, покажіть картку через вікно або посуньте її під двері.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>будинку, покажіть картку через вікно або посуньте її під двері.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4698,16 +4696,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4734,10 +4734,8 @@ const APP_CONTENT = {
         <p>ہاں کہیں، تو پرسکون انداز میں وہاں سے چلے جائیں۔</p>
         <p>اگر آپ گھر کے اندر ہیں، تو کارڈ کھڑکی سے دکھائیں یا دروازے کے نیچےیہ کارڈ ایجنٹ کو دیں۔</p>
         <p>سے سرکا دیں۔</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4746,16 +4744,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4791,10 +4791,8 @@ const APP_CONTENT = {
         <ul>
           <li>Đưa thẻ này cho nhân viên di trú. Nếu đang ở trong nhà, đưa cho</li>
         </ul>
-        <p>họ coi qua cửa kiểng hoặc luồn thẻ dưới cửa ra vào.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>họ coi qua cửa kiểng hoặc luồn thẻ dưới cửa ra vào.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4803,16 +4801,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4851,10 +4851,8 @@ const APP_CONTENT = {
           <li>Fun aṣojú ìjọba fun ìwọlé-wọdé orílẹ̀ -èdè ni iwe pélébé yii.Ti o ba</li>
         </ul>
         <p>wa ninu ile, fi iwe pélébé naa han lati oju fèrèsé tabi ki o rọra nãa</p>
-        <p>lati abẹ ìlẹ̀ kùn si wọn.</p>        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        <p>lati abẹ ìlẹ̀ kùn si wọn.</p>        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4863,16 +4861,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>
@@ -4900,10 +4900,8 @@ const APP_CONTENT = {
         <p>هستید  خونه  داخل  اگر . بدهید  مأمور  به  را  کارت  این، نشان  پنجره  پشت   از  را  کارت</p>
         <p>. بدهید  سر  در  زیر  از  یا  دهید</p>
         <p>هستید  قانونی  حقوق  دارای  شما</p>
-        </div>
-
-        <h3>English Version</h3>
-        <div class="callout">
+        
+          <hr style="margin: var(--space-md) 0; border-color: rgba(255,255,255,0.3);">
           <p><strong>You have constitutional rights:</strong></p>
           <ul>
             <li><strong>DO NOT OPEN THE DOOR</strong> if an immigration agent is knocking on the door.</li>
@@ -4912,16 +4910,18 @@ const APP_CONTENT = {
             <li>If you are outside of your home, ask the agent if you are free to leave and if they say yes, leave calmly.</li>
             <li><strong>GIVE THIS CARD TO THE AGENT.</strong> If you are inside of your home, show the card through the window or slide it under the door.</li>
           </ul>
+        </div>
 
-          <div class="phrase-card" style="margin: var(--space-md) 0;">
-            <button class="phrase-play" data-audio="Red Cards/red card right side.mp3" aria-label="Play English rights statement">&#9654;</button>
-            <span class="phrase-text">Listen to the English rights statement</span>
-          </div>
+        <div class="phrase-card" style="margin: var(--space-md) 0;">
+          <button class="phrase-play" data-audio="audio/red-card-rights-english.mp3" aria-label="Play statement of rights in English">&#9654;</button>
+          <span class="phrase-text">Listen to the statement of rights in English. You can play this during law enforcement encounters.</span>
+        </div>
 
-          <p><em>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</em></p>
-          <p><em>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</em></p>
-          <p><em>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</em></p>
-          <p><em>I choose to exercise my constitutional rights.</em></p>
+        <div class="callout">
+          <p>I do not wish to speak with you, answer your questions, or sign or hand you any documents based on my 5th Amendment rights under the United States Constitution.</p>
+          <p>I do not give you permission to enter my home based on my 4th Amendment rights under the United States Constitution unless you have a warrant to enter, signed by a judge or magistrate with my name on it that you slide under the door.</p>
+          <p>I do not give you permission to search any of my belongings based on my 4th Amendment rights.</p>
+          <p>I choose to exercise my constitutional rights.</p>
         </div>
 
         <p><a href="#non-english-speakers">\u2190 Back to All Languages</a></p>

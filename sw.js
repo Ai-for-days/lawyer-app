@@ -1,4 +1,4 @@
-var CACHE_NAME = 'remain-silent-v20';
+var CACHE_NAME = 'remain-silent-v21';
 var CACHE_ASSETS = [
   './',
   'index.html',
@@ -16,7 +16,8 @@ var CACHE_ASSETS = [
   'audio/i-do-not-consent-to-any-searches.m4a',
   'audio/i-am-exercising-my-right-to-remain-silent.m4a',
   'audio/i-want-to-speak-to-a-lawyer.m4a',
-  'audio/i-do-not-wish-to-answer-questions.m4a'
+  'audio/i-do-not-wish-to-answer-questions.m4a',
+  'audio/red-card-rights-english.mp3'
 ];
 
 self.addEventListener('install', function (event) {
